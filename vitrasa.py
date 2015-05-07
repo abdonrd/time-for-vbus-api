@@ -121,6 +121,18 @@ class Stop(object):
         }
         self.distance = distance
 
+    def to_dict(self):
+        data = {
+            'number': self.number,
+            'name': self.name,
+            'location': self.location
+        }
+
+        if self.distance:
+            data['distance'] = self.distance
+
+        return data
+
 
 class Bus(object):
     def __init__(self, line, route, minutes):
@@ -137,6 +149,15 @@ class Bus(object):
                 route = BUS_FIXED_ROUTES[route]
 
         return route
+
+    def to_dict(self):
+        data = {
+            'line': self.line,
+            'route': self.route,
+            'minutes': self.minutes
+        }
+
+        return data
 
 
 BUS_FIXED_ROUTES = {
