@@ -6,10 +6,10 @@ buses estimates in JSON format.
 
 ## Endpoints
 
-* [Get all stops][#get-all-stops]
-* [Get stops around][#get-stops-around]
-* [Get stop][#get-stop]
-* [Get stop estimates][#get-stop-estimates]
+* [Get all stops](#get-all-stops)
+* [Get stops around](#get-stops-around)
+* [Get stop](#get-stop)
+* [Get stop estimates](#get-stop-estimates)
 
 ### Get all stops
 
@@ -106,13 +106,13 @@ GET /stops/14255
 ### Get stop estimates
 
 ``` http
-GET /stops/14255/estimates
+GET /stops/<stop_number>/estimates
 ```
 
 Example:
 
 ``` http
-GET /stops/<stop_number>/estimates
+GET /stops/14255/estimates
 
 {
     "buses": [
