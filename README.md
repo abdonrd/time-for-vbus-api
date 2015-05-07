@@ -8,6 +8,7 @@ buses estimates in JSON format.
 
 * [Get all stops][#get-all-stops]
 * [Get stops around][#get-stops-around]
+* [Get stop][#get-stop]
 
 ### Get all stops
 
@@ -75,6 +76,28 @@ GET /stops?lat=42.2260892&lng=-8.7254259
             "distance": 212.8333
         }
     ]
+}
+```
+
+
+### Get stop
+
+``` http
+GET /stops/<stop_number>
+```
+
+Example:
+
+``` http
+GET /stops/14255
+
+{
+    "number": 14255,
+    "name": "Pintor Colmeiro 23",
+    "location": {
+        "lng": -8.72577877618138,
+        "lat": 42.2253189833775
+    }
 }
 ```
 
