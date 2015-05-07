@@ -28,3 +28,10 @@ class Stop(object):
             'lat': lat
         }
         self.distance = distance
+
+
+class Bus(object):
+    def __init__(self, line, route, minutes):
+        self.line = line
+        self.route = route
+        self.minutes = minutes
