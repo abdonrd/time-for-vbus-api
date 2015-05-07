@@ -1,5 +1,7 @@
 # coding=utf-8
 
+import os
+import json
 from xml.etree import ElementTree
 
 from suds import WebFault
@@ -42,8 +44,22 @@ class Vitrasa(object):
                 ))
 
             stops = sorted(stops, key=lambda stop: stop.distance)
+        else:
+            stops_data = json.load(open(
+                os.path.join(os.path.dirname(__file__), 'vitrasa_stops.json')
+            ))
 
-            return stops
+            stops = []
+
+            for stop_data in stops_data:
+                stops.append(Stop(
+                    number=stop_data['number'],
+                    name=stop_data['name'],
+                    lng=stop_data['location']['lng'],
+                    lat=stop_data['location']['lat']
+                ))
+
+        return stops
 
     def get_stop(self, stop_number):
         pass
