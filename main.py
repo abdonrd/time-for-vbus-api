@@ -71,5 +71,17 @@ def get_stop(stop_number):
     return jsonify(stop.to_dict())
 
 
+@app.route('/stops/<stop_number>/estimates', methods=['GET'])
+def get_stop_estimates(stop_number):
+    try:
+        buses = g.vitrasa.get_stop_estimates(stop_number)
+    except Vitrasa.Error:
+        abort(400)
+
+    return jsonify({
+        'buses': [bus.to_dict() for bus in buses]
+    })
+
+
 if __name__ == '__main__':
     app.run()
