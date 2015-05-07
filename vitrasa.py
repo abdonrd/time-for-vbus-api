@@ -85,7 +85,30 @@ class Vitrasa(object):
         return stop
 
     def get_stop_estimates(self, stop_number):
-        pass
+        factory = self.client.factory.create('tns:EstimacionParadaIdParada')
+        factory.IdParada = stop_number
+
+        try:
+            response = self.client.service.EstimacionParadaIdParada(factory)
+        except WebFault:
+            raise self.Error
+
+        response_encoded = response.encode('utf-8')
+
+        tag_newdataset = ElementTree.fromstring(response_encoded)
+
+        buses = []
+
+        for tag_estimaciones in tag_newdataset:
+            buses.append(Bus(
+                line=tag_estimaciones.find('Linea').text,
+                route=tag_estimaciones.find('Ruta').text,
+                minutes=int(tag_estimaciones.find('minutos').text)
+            ))
+
+        buses = sorted(buses, key=lambda bus: bus.minutes)
+
+        return buses
 
 
 class Stop(object):
