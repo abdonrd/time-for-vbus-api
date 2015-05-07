@@ -17,3 +17,14 @@ class Vitrasa(object):
 
     def get_stop_estimates(self, stop_number):
         pass
+
+
+class Stop(object):
+    def __init__(self, number, name, lng, lat, distance=None):
+        self.number = number
+        self.name = name
+        self.location = {
+            'lng': lng,
+            'lat': lat
+        }
+        self.distance = distance
