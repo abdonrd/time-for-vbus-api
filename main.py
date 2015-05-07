@@ -1,11 +1,15 @@
 # coding=utf-8
 
 from flask import Flask, abort, g, jsonify, request
+from flask.ext.cors import CORS
 
 from vitrasa import Vitrasa
 
 
 app = Flask(__name__)
+JSONIFY_PRETTYPRINT_REGULAR = False
+
+cors = CORS(app)
 
 
 def create_error_response(error):
