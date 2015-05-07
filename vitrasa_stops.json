@@ -1,0 +1,9536 @@
+[{
+    "number": 20,
+    "name": "Abade Juan de Bastos, (C.C.Freixo)",
+    "location": {
+        "lng": -8.74098135187851,
+        "lat": 42.1874372819504
+    }
+},
+{
+    "number": 40,
+    "name": "Abade Juan de Bastos, 48",
+    "location": {
+        "lng": -8.73182995565854,
+        "lat": 42.1913070501787
+    }
+},
+{
+    "number": 50,
+    "name": "Abade Juan de Bastos, 24",
+    "location": {
+        "lng": -8.73764538803226,
+        "lat": 42.1881502214585
+    }
+},
+{
+    "number": 70,
+    "name": "Lagoa (esq. Camiño da Pedra).",
+    "location": {
+        "lng": -8.69981447554976,
+        "lat": 42.2027470066358
+    }
+},
+{
+    "number": 80,
+    "name": "Rua do Couto, 2",
+    "location": {
+        "lng": -8.70036122839838,
+        "lat": 42.2023971849783
+    }
+},
+{
+    "number": 90,
+    "name": "Aeropuerto de Peinador",
+    "location": {
+        "lng": -8.63283839612143,
+        "lat": 42.2260049313627
+    }
+},
+{
+    "number": 100,
+    "name": "Alcalde Lavadores, 125",
+    "location": {
+        "lng": -8.69611462520456,
+        "lat": 42.2190208540734
+    }
+},
+{
+    "number": 110,
+    "name": "Alcalde Lavadores, 171",
+    "location": {
+        "lng": -8.69672473531406,
+        "lat": 42.2155910306641
+    }
+},
+{
+    "number": 120,
+    "name": "Alcalde Lavadores, 8",
+    "location": {
+        "lng": -8.70134172841314,
+        "lat": 42.2231234777322
+    }
+},
+{
+    "number": 130,
+    "name": "Alcalde Lavadores, 102",
+    "location": {
+        "lng": -8.69624881056671,
+        "lat": 42.2188320750216
+    }
+},
+{
+    "number": 140,
+    "name": "Alcalde Lavadores, 5",
+    "location": {
+        "lng": -8.70149886903683,
+        "lat": 42.2232049440606
+    }
+},
+{
+    "number": 150,
+    "name": "Alcalde Lavadores, 46",
+    "location": {
+        "lng": -8.69733286247446,
+        "lat": 42.2227166939619
+    }
+},
+{
+    "number": 160,
+    "name": "Alcalde Lavadores, 67",
+    "location": {
+        "lng": -8.69730794048007,
+        "lat": 42.2228607304491
+    }
+},
+{
+    "number": 170,
+    "name": "Alcalde Lavadores, 152",
+    "location": {
+        "lng": -8.69683515390657,
+        "lat": 42.2153031175982
+    }
+},
+{
+    "number": 180,
+    "name": "Carretera Valladares, 451",
+    "location": {
+        "lng": -8.72001214766424,
+        "lat": 42.1659796858783
+    }
+},
+{
+    "number": 190,
+    "name": "Angel de Lema, 58 (Paraixal)",
+    "location": {
+        "lng": -8.68521142520419,
+        "lat": 42.2504146861351
+    }
+},
+{
+    "number": 195,
+    "name": "ANGEL DE LEMA, 247",
+    "location": {
+        "lng": -8.67782309315462,
+        "lat": 42.2563113447775
+    }
+},
+{
+    "number": 200,
+    "name": "Angel de Lema, 100",
+    "location": {
+        "lng": -8.68291021103702,
+        "lat": 42.2524257709377
+    }
+},
+{
+    "number": 210,
+    "name": "ANGEL DE LEMA, 140 (Ctrio Teis)",
+    "location": {
+        "lng": -8.6784079902951,
+        "lat": 42.2557275737534
+    }
+},
+{
+    "number": 220,
+    "name": "Angel de Lema, 159",
+    "location": {
+        "lng": -8.68310399370144,
+        "lat": 42.2524623316259
+    }
+},
+{
+    "number": 230,
+    "name": "Angel de Lema, 14",
+    "location": {
+        "lng": -8.69093320356617,
+        "lat": 42.2479354817139
+    }
+},
+{
+    "number": 240,
+    "name": "Angel de Lema, 23",
+    "location": {
+        "lng": -8.69168659825634,
+        "lat": 42.2475592417383
+    }
+},
+{
+    "number": 250,
+    "name": "Angel de Lema, 221",
+    "location": {
+        "lng": -8.67934358293241,
+        "lat": 42.2553159006119
+    }
+},
+{
+    "number": 260,
+    "name": "Angel de Lema, 91",
+    "location": {
+        "lng": -8.68558797652442,
+        "lat": 42.2502626106406
+    }
+},
+{
+    "number": 270,
+    "name": "Arquitecto Desiderio Pernas, 1",
+    "location": {
+        "lng": -8.81036223697085,
+        "lat": 42.1888878032227
+    }
+},
+{
+    "number": 280,
+    "name": "Arquitecto Antonio Cominges, 38",
+    "location": {
+        "lng": -8.80731148602987,
+        "lat": 42.1897563491201
+    }
+},
+{
+    "number": 290,
+    "name": "Arquitecto Gomez Roman, 35",
+    "location": {
+        "lng": -8.8038689924564,
+        "lat": 42.1899936938779
+    }
+},
+{
+    "number": 310,
+    "name": "ARQUITECTO ANTONIIO COMINGES, 4",
+    "location": {
+        "lng": -8.80441411567944,
+        "lat": 42.1906881202496
+    }
+},
+{
+    "number": 320,
+    "name": "Arquitecto Antonio Cominges, 70",
+    "location": {
+        "lng": -8.81170888870462,
+        "lat": 42.1893673614418
+    }
+},
+{
+    "number": 330,
+    "name": "Arquitecto Antonio Cominges, 86 C.Estai",
+    "location": {
+        "lng": -8.81291411513531,
+        "lat": 42.1872438093759
+    }
+},
+{
+    "number": 340,
+    "name": "Aragón, (Subida)",
+    "location": {
+        "lng": -8.7004904173249,
+        "lat": 42.2366038066482
+    }
+},
+{
+    "number": 350,
+    "name": "ARAGÓN, 164",
+    "location": {
+        "lng": -8.70030315039845,
+        "lat": 42.2403229461845
+    }
+},
+{
+    "number": 360,
+    "name": "Aragón, 201",
+    "location": {
+        "lng": -8.70143558503052,
+        "lat": 42.2387317718539
+    }
+},
+{
+    "number": 370,
+    "name": "Aragón, 218",
+    "location": {
+        "lng": -8.69838058423674,
+        "lat": 42.2419030284686
+    }
+},
+{
+    "number": 380,
+    "name": "ARAGÓN, 221",
+    "location": {
+        "lng": -8.69877983896667,
+        "lat": 42.2420571852581
+    }
+},
+{
+    "number": 390,
+    "name": "Aragón, 26",
+    "location": {
+        "lng": -8.70221613463088,
+        "lat": 42.2330237623442
+    }
+},
+{
+    "number": 400,
+    "name": "Aragón, 79",
+    "location": {
+        "lng": -8.70236822552723,
+        "lat": 42.234185978891
+    }
+},
+{
+    "number": 410,
+    "name": "Aragón, 80",
+    "location": {
+        "lng": -8.70132126188796,
+        "lat": 42.2351829658781
+    }
+},
+{
+    "number": 420,
+    "name": "Aragón, 147",
+    "location": {
+        "lng": -8.70106144400868,
+        "lat": 42.2363080854374
+    }
+},
+{
+    "number": 430,
+    "name": "AREAL",
+    "location": {
+        "lng": -8.71991845681718,
+        "lat": 42.2393547769379
+    }
+},
+{
+    "number": 490,
+    "name": "Areal, 54",
+    "location": {
+        "lng": -8.71520502806094,
+        "lat": 42.2390459666506
+    }
+},
+{
+    "number": 530,
+    "name": "RICARDO MELLA (Est Coruxo)",
+    "location": {
+        "lng": -8.78181815007851,
+        "lat": 42.1935925071048
+    }
+},
+{
+    "number": 540,
+    "name": "Avda Ricardo Mella, 360",
+    "location": {
+        "lng": -8.7870591060927,
+        "lat": 42.1906482349901
+    }
+},
+{
+    "number": 560,
+    "name": "Autovía Ricardo Mella, 518",
+    "location": {
+        "lng": -8.80882873414453,
+        "lat": 42.1849854661287
+    }
+},
+{
+    "number": 570,
+    "name": "Avda Ricardo Mella, 250",
+    "location": {
+        "lng": -8.7750887032745,
+        "lat": 42.1953898139426
+    }
+},
+{
+    "number": 572,
+    "name": "AUTOVIA VIGO-PORRIÑO, 210",
+    "location": {
+        "lng": -8.67418240271849,
+        "lat": 42.2145835739426
+    }
+},
+{
+    "number": 580,
+    "name": "Avda Ricardo Mella, 135",
+    "location": {
+        "lng": -8.77465861964401,
+        "lat": 42.1951007644905
+    }
+},
+{
+    "number": 600,
+    "name": "Avda Ricardo Mella, 241",
+    "location": {
+        "lng": -8.80160041122256,
+        "lat": 42.1896475509118
+    }
+},
+{
+    "number": 620,
+    "name": "Avda Ricardo Mella, 165",
+    "location": {
+        "lng": -8.78147132064894,
+        "lat": 42.1934117185876
+    }
+},
+{
+    "number": 630,
+    "name": "Avda Ricardo Mella, S/N (Hermida)",
+    "location": {
+        "lng": -8.78733023725816,
+        "lat": 42.1903785442198
+    }
+},
+{
+    "number": 650,
+    "name": "Autovía Ricardo Mella, 289",
+    "location": {
+        "lng": -8.80933089222831,
+        "lat": 42.1827256803905
+    }
+},
+{
+    "number": 660,
+    "name": "Avda. A. Portanet, 28",
+    "location": {
+        "lng": -8.73675411967873,
+        "lat": 42.2115108542415
+    }
+},
+{
+    "number": 680,
+    "name": "Avda. Aeropuerto (Aeroclub)",
+    "location": {
+        "lng": -8.63399700277863,
+        "lat": 42.2289176919388
+    }
+},
+{
+    "number": 690,
+    "name": "Avda Aeropuerto, 656",
+    "location": {
+        "lng": -8.64308822120619,
+        "lat": 42.2331883294472
+    }
+},
+{
+    "number": 700,
+    "name": "Avda Aeropuerto, (Colegio)",
+    "location": {
+        "lng": -8.63356158352861,
+        "lat": 42.2287722003347
+    }
+},
+{
+    "number": 710,
+    "name": "Aragón (instituto)",
+    "location": {
+        "lng": -8.70209718833855,
+        "lat": 42.2325461158491
+    }
+},
+{
+    "number": 720,
+    "name": "Avda. Aeropuerto (Subida Sampaio)",
+    "location": {
+        "lng": -8.68357947547382,
+        "lat": 42.2376662065632
+    }
+},
+{
+    "number": 730,
+    "name": "Avda. Aeropuerto, 116",
+    "location": {
+        "lng": -8.69171655593167,
+        "lat": 42.2314379343593
+    }
+},
+{
+    "number": 740,
+    "name": "Avda. Aeropuerto,181",
+    "location": {
+        "lng": -8.68699220717512,
+        "lat": 42.2334876050048
+    }
+},
+{
+    "number": 750,
+    "name": "Avda. Aeropuerto,186",
+    "location": {
+        "lng": -8.68685956498686,
+        "lat": 42.2333521475696
+    }
+},
+{
+    "number": 760,
+    "name": "Avda. Aeropuerto, 240",
+    "location": {
+        "lng": -8.68339764757258,
+        "lat": 42.237368495028
+    }
+},
+{
+    "number": 770,
+    "name": "Avda. Aeropuerto, 273",
+    "location": {
+        "lng": -8.68072536487138,
+        "lat": 42.2388381347445
+    }
+},
+{
+    "number": 780,
+    "name": "Avda. Aeropuerto, 298",
+    "location": {
+        "lng": -8.6802899354722,
+        "lat": 42.2383595852297
+    }
+},
+{
+    "number": 790,
+    "name": "Avda. Aeropuerto, 325",
+    "location": {
+        "lng": -8.67524903584534,
+        "lat": 42.2374087684347
+    }
+},
+{
+    "number": 800,
+    "name": "Avda. Aeropuerto, 328",
+    "location": {
+        "lng": -8.67634217918791,
+        "lat": 42.2376910540993
+    }
+},
+{
+    "number": 810,
+    "name": "Avda. Aeropuerto, 350",
+    "location": {
+        "lng": -8.67388400525106,
+        "lat": 42.2349101339876
+    }
+},
+{
+    "number": 820,
+    "name": "Avda. Aeropuerto, 377",
+    "location": {
+        "lng": -8.67024914785883,
+        "lat": 42.2347196192072
+    }
+},
+{
+    "number": 830,
+    "name": "Avda. Aeropuerto, 378",
+    "location": {
+        "lng": -8.6711950590708,
+        "lat": 42.2346052506693
+    }
+},
+{
+    "number": 840,
+    "name": "AVDA AEROPUERTO, 41",
+    "location": {
+        "lng": -8.69914032555644,
+        "lat": 42.2350601860835
+    }
+},
+{
+    "number": 850,
+    "name": "Avda. Aeropuerto, 423",
+    "location": {
+        "lng": -8.66646224595569,
+        "lat": 42.235789438728
+    }
+},
+{
+    "number": 860,
+    "name": "Avda. Aeropuerto, 446",
+    "location": {
+        "lng": -8.66642650383204,
+        "lat": 42.2356722520811
+    }
+},
+{
+    "number": 870,
+    "name": "Avda. Aeropuerto, 447",
+    "location": {
+        "lng": -8.66115138150667,
+        "lat": 42.2355397137272
+    }
+},
+{
+    "number": 880,
+    "name": "Avda. Aeropuerto, 484",
+    "location": {
+        "lng": -8.66113749748105,
+        "lat": 42.2351614053665
+    }
+},
+{
+    "number": 890,
+    "name": "Avda. Aeropuerto, 491",
+    "location": {
+        "lng": -8.65409581500187,
+        "lat": 42.2321502809028
+    }
+},
+{
+    "number": 900,
+    "name": "Avda. Aeropuerto, 531",
+    "location": {
+        "lng": -8.64809226398631,
+        "lat": 42.2336721157851
+    }
+},
+{
+    "number": 910,
+    "name": "Avda. Aeropuerto, 54",
+    "location": {
+        "lng": -8.69921672478369,
+        "lat": 42.234763176151
+    }
+},
+{
+    "number": 920,
+    "name": "Avda. Aeropuerto, 565 (Carballal)",
+    "location": {
+        "lng": -8.64327035129871,
+        "lat": 42.2335311377463
+    }
+},
+{
+    "number": 930,
+    "name": "Avda. Aeropuerto, 570",
+    "location": {
+        "lng": -8.65412113387417,
+        "lat": 42.2319522170747
+    }
+},
+{
+    "number": 940,
+    "name": "Avda. Aeropuerto, 605",
+    "location": {
+        "lng": -8.63824157184795,
+        "lat": 42.2304892542231
+    }
+},
+{
+    "number": 950,
+    "name": "Avda. Aeropuerto, 614",
+    "location": {
+        "lng": -8.64823677001825,
+        "lat": 42.2334293869374
+    }
+},
+{
+    "number": 960,
+    "name": "Avda. Aeropuerto, 686",
+    "location": {
+        "lng": -8.63836100887671,
+        "lat": 42.2307958473097
+    }
+},
+{
+    "number": 970,
+    "name": "Avda. Aeropuerto, 91",
+    "location": {
+        "lng": -8.69272610939137,
+        "lat": 42.2323953175907
+    }
+},
+{
+    "number": 980,
+    "name": "Avda. Atlántida, 105",
+    "location": {
+        "lng": -8.76477124185224,
+        "lat": 42.2210104029495
+    }
+},
+{
+    "number": 990,
+    "name": "Avda. Atlántida",
+    "location": {
+        "lng": -8.76944257998312,
+        "lat": 42.2225960003822
+    }
+},
+{
+    "number": 1000,
+    "name": "Avda. Atlántida, 115",
+    "location": {
+        "lng": -8.76704839796492,
+        "lat": 42.2212312006224
+    }
+},
+{
+    "number": 1010,
+    "name": "Avda. Atlántida, 134",
+    "location": {
+        "lng": -8.7669996329473,
+        "lat": 42.2213121592065
+    }
+},
+{
+    "number": 1020,
+    "name": "Avda. Atlántida, 150 (Museo do Mar)",
+    "location": {
+        "lng": -8.76930893189163,
+        "lat": 42.2226948021843
+    }
+},
+{
+    "number": 1030,
+    "name": "Avda. Atlántida, 25",
+    "location": {
+        "lng": -8.75487558488512,
+        "lat": 42.2231602370611
+    }
+},
+{
+    "number": 1040,
+    "name": "Avda. Atlántida,32",
+    "location": {
+        "lng": -8.7557255374325,
+        "lat": 42.2232971450137
+    }
+},
+{
+    "number": 1050,
+    "name": "Avda. Atlántida, 71",
+    "location": {
+        "lng": -8.76099977511733,
+        "lat": 42.2218402065433
+    }
+},
+{
+    "number": 1060,
+    "name": "Avda. Atlántida, 84",
+    "location": {
+        "lng": -8.75989744328857,
+        "lat": 42.2217568483423
+    }
+},
+{
+    "number": 1070,
+    "name": "Avda. Atlántida, 114 (Igrexa Alcabre)",
+    "location": {
+        "lng": -8.76481924125647,
+        "lat": 42.221136590856
+    }
+},
+{
+    "number": 1080,
+    "name": "Avda. Balaidos, 10",
+    "location": {
+        "lng": -8.73301321360588,
+        "lat": 42.213492629282
+    }
+},
+{
+    "number": 1090,
+    "name": "AVDA BALAIDOS, 64",
+    "location": {
+        "lng": -8.73696818534239,
+        "lat": 42.2130244215868
+    }
+},
+{
+    "number": 1100,
+    "name": "Avda. Beiramar, 99",
+    "location": {
+        "lng": -8.73929457166508,
+        "lat": 42.2256747110916
+    }
+},
+{
+    "number": 1110,
+    "name": "Pza Riveira do Berbes, Frente Soportales",
+    "location": {
+        "lng": -8.72969700916673,
+        "lat": 42.2376490029056
+    }
+},
+{
+    "number": 1120,
+    "name": "Avda. Beiramar (Frente Casa Mar)",
+    "location": {
+        "lng": -8.73268857312317,
+        "lat": 42.2352693218807
+    }
+},
+{
+    "number": 1130,
+    "name": "Avda. Beiramar, (Muelles auxiliares)",
+    "location": {
+        "lng": -8.73457782816725,
+        "lat": 42.2321665076154
+    }
+},
+{
+    "number": 1140,
+    "name": "AVDA BEIRAMAR, (Freire)",
+    "location": {
+        "lng": -8.74716146265484,
+        "lat": 42.2250528575943
+    }
+},
+{
+    "number": 1150,
+    "name": "Pza Riveira do Berbes, 19",
+    "location": {
+        "lng": -8.72994595802373,
+        "lat": 42.2370011304624
+    }
+},
+{
+    "number": 1160,
+    "name": "Avda. Beiramar (Sto. Domingo).",
+    "location": {
+        "lng": -8.74141507922108,
+        "lat": 42.2247698630763
+    }
+},
+{
+    "number": 1170,
+    "name": "Avda. Beiramar, 147",
+    "location": {
+        "lng": -8.74296705203445,
+        "lat": 42.2254758475185
+    }
+},
+{
+    "number": 1180,
+    "name": "Avda. Beiramar, 2 (Barreras).",
+    "location": {
+        "lng": -8.73894149178579,
+        "lat": 42.2260791959308
+    }
+},
+{
+    "number": 1190,
+    "name": "AVDA BEIRAMAR, 229",
+    "location": {
+        "lng": -8.74945288270609,
+        "lat": 42.2247516653257
+    }
+},
+{
+    "number": 1200,
+    "name": "Avda. Beiramar, 51 (Casa Mar)",
+    "location": {
+        "lng": -8.73309060444603,
+        "lat": 42.2342345247348
+    }
+},
+{
+    "number": 1210,
+    "name": "Avda. Beiramar, 61",
+    "location": {
+        "lng": -8.73539580730662,
+        "lat": 42.230727375964
+    }
+},
+{
+    "number": 1220,
+    "name": "Avda Buenos Aires, 46",
+    "location": {
+        "lng": -8.69320360686062,
+        "lat": 42.2471940472355
+    }
+},
+{
+    "number": 1230,
+    "name": "Avda Buenos Aires, 47",
+    "location": {
+        "lng": -8.6929808707668,
+        "lat": 42.2471934515232
+    }
+},
+{
+    "number": 1240,
+    "name": "Avda Buenos Aires, 8",
+    "location": {
+        "lng": -8.69515800288625,
+        "lat": 42.249135620714
+    }
+},
+{
+    "number": 1250,
+    "name": "Avda. Castelao,16",
+    "location": {
+        "lng": -8.73754323737968,
+        "lat": 42.2198976224375
+    }
+},
+{
+    "number": 1260,
+    "name": "Avda. Castelao, 21",
+    "location": {
+        "lng": -8.73614918929943,
+        "lat": 42.219777342974
+    }
+},
+{
+    "number": 1270,
+    "name": "Avda. Castelao, 48",
+    "location": {
+        "lng": -8.74101381309796,
+        "lat": 42.2191759881168
+    }
+},
+{
+    "number": 1280,
+    "name": "Avda. Castelao, 41",
+    "location": {
+        "lng": -8.74236452877893,
+        "lat": 42.2184044777847
+    }
+},
+{
+    "number": 1290,
+    "name": "Avda. Castelao, 54 (Alcampo)",
+    "location": {
+        "lng": -8.74613662745576,
+        "lat": 42.2182777870316
+    }
+},
+{
+    "number": 1300,
+    "name": "Avda. Castelao, 68",
+    "location": {
+        "lng": -8.75132320507129,
+        "lat": 42.2174965783259
+    }
+},
+{
+    "number": 1310,
+    "name": "Avda. Castelao, 73",
+    "location": {
+        "lng": -8.74791015262268,
+        "lat": 42.2175161520338
+    }
+},
+{
+    "number": 1320,
+    "name": "Avda. Castelao, 87",
+    "location": {
+        "lng": -8.75136082441357,
+        "lat": 42.2171724293819
+    }
+},
+{
+    "number": 1330,
+    "name": "Avda. Castrelos (Pabellón)",
+    "location": {
+        "lng": -8.73242435676846,
+        "lat": 42.2195345531607
+    }
+},
+{
+    "number": 1340,
+    "name": "Avda. Castrelos (Parque)",
+    "location": {
+        "lng": -8.73205012998513,
+        "lat": 42.2132021799229
+    }
+},
+{
+    "number": 1350,
+    "name": "Avda. Castrelos, 119",
+    "location": {
+        "lng": -8.73110590005244,
+        "lat": 42.2078411574151
+    }
+},
+{
+    "number": 1360,
+    "name": "AVDA CASTRELOS, 16",
+    "location": {
+        "lng": -8.73268375926825,
+        "lat": 42.2197963431231
+    }
+},
+{
+    "number": 1380,
+    "name": "Avda. Castrelos,183",
+    "location": {
+        "lng": -8.72991863315298,
+        "lat": 42.2050103548875
+    }
+},
+{
+    "number": 1390,
+    "name": "AVDA CASTRELOS,186",
+    "location": {
+        "lng": -8.73240996108067,
+        "lat": 42.21262660938
+    }
+},
+{
+    "number": 1400,
+    "name": "Avda. Castrelos, 206",
+    "location": {
+        "lng": -8.73217354863048,
+        "lat": 42.2094377889012
+    }
+},
+{
+    "number": 1410,
+    "name": "Avda. Castrelos, 13",
+    "location": {
+        "lng": -8.73231722962047,
+        "lat": 42.2179131517719
+    }
+},
+{
+    "number": 1420,
+    "name": "Avda. Castrelos, 299",
+    "location": {
+        "lng": -8.72645746645524,
+        "lat": 42.201417602378
+    }
+},
+{
+    "number": 1430,
+    "name": "Avda. Castrelos, 318",
+    "location": {
+        "lng": -8.72879918454543,
+        "lat": 42.2033415274946
+    }
+},
+{
+    "number": 1440,
+    "name": "Avda. Castrelos, 339",
+    "location": {
+        "lng": -8.72370915957776,
+        "lat": 42.1983218152117
+    }
+},
+{
+    "number": 1450,
+    "name": "Avda. Castrelos, 366",
+    "location": {
+        "lng": -8.7264820029846,
+        "lat": 42.2013456094563
+    }
+},
+{
+    "number": 1460,
+    "name": "Avda. Castrelos,396",
+    "location": {
+        "lng": -8.7238908060983,
+        "lat": 42.1983312587539
+    }
+},
+{
+    "number": 1470,
+    "name": "Avda. Castrelos, 401 (CARNEIRAS)",
+    "location": {
+        "lng": -8.72093859980891,
+        "lat": 42.1948386299112
+    }
+},
+{
+    "number": 1480,
+    "name": "Avda. Castrelos, 526",
+    "location": {
+        "lng": -8.72120136654732,
+        "lat": 42.19016492716
+    }
+},
+{
+    "number": 1490,
+    "name": "AVDA CASTRELOS, 67",
+    "location": {
+        "lng": -8.73189653095913,
+        "lat": 42.2099505076248
+    }
+},
+{
+    "number": 1500,
+    "name": "Avda. Castrelos, 58",
+    "location": {
+        "lng": -8.73272142147388,
+        "lat": 42.217418741789
+    }
+},
+{
+    "number": 1510,
+    "name": "Avda. da Ponte, 80",
+    "location": {
+        "lng": -8.67073830084966,
+        "lat": 42.215213198427
+    }
+},
+{
+    "number": 1520,
+    "name": "Avda. da Ponte, 85",
+    "location": {
+        "lng": -8.67263955883962,
+        "lat": 42.2153897591774
+    }
+},
+{
+    "number": 1530,
+    "name": "Avda da Ponte (desvio Autovia)",
+    "location": {
+        "lng": -8.67119504832779,
+        "lat": 42.2138725544906
+    }
+},
+{
+    "number": 1540,
+    "name": "Avda. da Ponte, 15",
+    "location": {
+        "lng": -8.66975037628624,
+        "lat": 42.221559866847
+    }
+},
+{
+    "number": 1550,
+    "name": "AVDA DA PONTE, 18",
+    "location": {
+        "lng": -8.67013833933187,
+        "lat": 42.2213718485142
+    }
+},
+{
+    "number": 1560,
+    "name": "Avda. da Ponte, 31",
+    "location": {
+        "lng": -8.6691702832512,
+        "lat": 42.2189463428496
+    }
+},
+{
+    "number": 1570,
+    "name": "Avda. da Ponte, 47",
+    "location": {
+        "lng": -8.66961010970531,
+        "lat": 42.2178128044175
+    }
+},
+{
+    "number": 1580,
+    "name": "Avda. da Ponte, 54",
+    "location": {
+        "lng": -8.66970624054012,
+        "lat": 42.2179661898324
+    }
+},
+{
+    "number": 1590,
+    "name": "Avda. de Galicia, (Parque RIOUXA)",
+    "location": {
+        "lng": -8.68253770559935,
+        "lat": 42.2566036816282
+    }
+},
+{
+    "number": 1600,
+    "name": "Avda. de Galicia, 103 (7 TORRES)",
+    "location": {
+        "lng": -8.68937481452674,
+        "lat": 42.2514797740578
+    }
+},
+{
+    "number": 1610,
+    "name": "Avda. de Galicia, 140",
+    "location": {
+        "lng": -8.68926833188597,
+        "lat": 42.2512543271849
+    }
+},
+{
+    "number": 1620,
+    "name": "Avda. de Galicia, 153",
+    "location": {
+        "lng": -8.68629292308758,
+        "lat": 42.2540201844834
+    }
+},
+{
+    "number": 1630,
+    "name": "Avda. de Galicia, 165",
+    "location": {
+        "lng": -8.68462976235724,
+        "lat": 42.255240487485
+    }
+},
+{
+    "number": 1640,
+    "name": "Avda. de Galicia, 200",
+    "location": {
+        "lng": -8.68464269286048,
+        "lat": 42.2550784089599
+    }
+},
+{
+    "number": 1650,
+    "name": "Avda. de Galicia, 236",
+    "location": {
+        "lng": -8.682391591417,
+        "lat": 42.2567293659705
+    }
+},
+{
+    "number": 1660,
+    "name": "Avda. de Galicia, 276",
+    "location": {
+        "lng": -8.67968769089707,
+        "lat": 42.2591895849203
+    }
+},
+{
+    "number": 1670,
+    "name": "Avda. de Galicia, 285",
+    "location": {
+        "lng": -8.68038266709414,
+        "lat": 42.2584169784018
+    }
+},
+{
+    "number": 1680,
+    "name": "Avda. de Galicia, 46",
+    "location": {
+        "lng": -8.69255124775566,
+        "lat": 42.2512631699978
+    }
+},
+{
+    "number": 1690,
+    "name": "Avda. de Galicia, 71",
+    "location": {
+        "lng": -8.69389941977461,
+        "lat": 42.251203729789
+    }
+},
+{
+    "number": 1710,
+    "name": "AVDA DE VIGO, 10",
+    "location": {
+        "lng": -8.66723433085797,
+        "lat": 42.2745369345663
+    }
+},
+{
+    "number": 1720,
+    "name": "Avda. de Vigo, 95",
+    "location": {
+        "lng": -8.66794048220126,
+        "lat": 42.2705401796005
+    }
+},
+{
+    "number": 1730,
+    "name": "Avda. de Vigo, 119 (CHAPELA)",
+    "location": {
+        "lng": -8.67128896806904,
+        "lat": 42.2678929588505
+    }
+},
+{
+    "number": 1740,
+    "name": "Avda. de Vigo, 126",
+    "location": {
+        "lng": -8.66817002883941,
+        "lat": 42.2707029572876
+    }
+},
+{
+    "number": 1750,
+    "name": "Avda. de Vigo, 161",
+    "location": {
+        "lng": -8.67288612925595,
+        "lat": 42.266213341998
+    }
+},
+{
+    "number": 1760,
+    "name": "Avda. de Vigo, 207",
+    "location": {
+        "lng": -8.67404856067421,
+        "lat": 42.2641722153783
+    }
+},
+{
+    "number": 1770,
+    "name": "Avda. de Vigo, 206 (Parque Chapela)",
+    "location": {
+        "lng": -8.67137422155018,
+        "lat": 42.2678211525284
+    }
+},
+{
+    "number": 1780,
+    "name": "Avda. de Vigo, 242",
+    "location": {
+        "lng": -8.67288631541422,
+        "lat": 42.2661773172548
+    }
+},
+{
+    "number": 1790,
+    "name": "Avda. de Vigo, 269 (Cuatro Puentes),",
+    "location": {
+        "lng": -8.67683684546087,
+        "lat": 42.261892495978
+    }
+},
+{
+    "number": 1800,
+    "name": "Avda. de Vigo, 282",
+    "location": {
+        "lng": -8.67417055154787,
+        "lat": 42.2640284607052
+    }
+},
+{
+    "number": 1810,
+    "name": "Avda. de Vigo, 342",
+    "location": {
+        "lng": -8.67664202568396,
+        "lat": 42.2620540609825
+    }
+},
+{
+    "number": 1820,
+    "name": "Avda. de Vigo, 49",
+    "location": {
+        "lng": -8.66645506615793,
+        "lat": 42.2716796725275
+    }
+},
+{
+    "number": 1830,
+    "name": "AVDA DE VIGO, 13",
+    "location": {
+        "lng": -8.66686915085857,
+        "lat": 42.2743647550829
+    }
+},
+{
+    "number": 1840,
+    "name": "Avda. de Vigo, 74",
+    "location": {
+        "lng": -8.66632219860688,
+        "lat": 42.2715802168013
+    }
+},
+{
+    "number": 1850,
+    "name": "Avda. Europa (frente colegio)",
+    "location": {
+        "lng": -8.76005357228738,
+        "lat": 42.2160200984466
+    }
+},
+{
+    "number": 1860,
+    "name": "Avda. Europa, (Cruce Pardaiña)",
+    "location": {
+        "lng": -8.75633500104055,
+        "lat": 42.2170389945036
+    }
+},
+{
+    "number": 1870,
+    "name": "Avda. Europa, 102",
+    "location": {
+        "lng": -8.77353736377099,
+        "lat": 42.2112650906176
+    }
+},
+{
+    "number": 1880,
+    "name": "AVDA EUROPA, 19",
+    "location": {
+        "lng": -8.75694503956066,
+        "lat": 42.2165269229939
+    }
+},
+{
+    "number": 1890,
+    "name": "Avda. Europa, 23",
+    "location": {
+        "lng": -8.75988325853654,
+        "lat": 42.2159026590318
+    }
+},
+{
+    "number": 1900,
+    "name": "Avda. Europa, 73",
+    "location": {
+        "lng": -8.76578479587106,
+        "lat": 42.2123212965261
+    }
+},
+{
+    "number": 1910,
+    "name": "Avda. Europa, 76",
+    "location": {
+        "lng": -8.76612984363902,
+        "lat": 42.212385044943
+    }
+},
+{
+    "number": 1920,
+    "name": "Avda. Europa, 95",
+    "location": {
+        "lng": -8.77374768114695,
+        "lat": 42.2111033899371
+    }
+},
+{
+    "number": 1930,
+    "name": "Autovia Vigo-Porriño (Frente Seminario).",
+    "location": {
+        "lng": -8.69895846163165,
+        "lat": 42.2146602460258
+    }
+},
+{
+    "number": 1940,
+    "name": "Avda. Madrid, Esq. Cmño do Raviso.",
+    "location": {
+        "lng": -8.70338908837991,
+        "lat": 42.218040175695
+    }
+},
+{
+    "number": 1950,
+    "name": "Avda. Madrid, 122",
+    "location": {
+        "lng": -8.70635802012097,
+        "lat": 42.2205605946107
+    }
+},
+{
+    "number": 1960,
+    "name": "Avda. Madrid, 60",
+    "location": {
+        "lng": -8.71244465798124,
+        "lat": 42.2250161567669
+    }
+},
+{
+    "number": 1970,
+    "name": "Avda. Madrid,(ESTACION BUSES)",
+    "location": {
+        "lng": -8.7099536512061,
+        "lat": 42.2238750834715
+    }
+},
+{
+    "number": 1980,
+    "name": "Autovia Vigo-Porriño, 8 (Seminario)",
+    "location": {
+        "lng": -8.69945485469408,
+        "lat": 42.2147335982484
+    }
+},
+{
+    "number": 1990,
+    "name": "Avda. Madrid, 106 (I. S. C. A. Otero)",
+    "location": {
+        "lng": -8.70877215949206,
+        "lat": 42.2225661650032
+    }
+},
+{
+    "number": 2000,
+    "name": "Avda. Madrid, 133",
+    "location": {
+        "lng": -8.70619958608939,
+        "lat": 42.2207583297652
+    }
+},
+{
+    "number": 2010,
+    "name": "Avda. Madrid, 195",
+    "location": {
+        "lng": -8.70314630208255,
+        "lat": 42.2181386183188
+    }
+},
+{
+    "number": 2020,
+    "name": "AVDA DE MADRID, 2",
+    "location": {
+        "lng": -8.71947184023313,
+        "lat": 42.2288432492254
+    }
+},
+{
+    "number": 2030,
+    "name": "Avda. Madrid, 28",
+    "location": {
+        "lng": -8.71626587915616,
+        "lat": 42.2267909190934
+    }
+},
+{
+    "number": 2040,
+    "name": "Avda. Madrid,35",
+    "location": {
+        "lng": -8.71619248683996,
+        "lat": 42.2269438461447
+    }
+},
+{
+    "number": 2060,
+    "name": "Avda. Redondela,106",
+    "location": {
+        "lng": -8.67239650428063,
+        "lat": 42.2603668414754
+    }
+},
+{
+    "number": 2070,
+    "name": "Avda. Redondela,109",
+    "location": {
+        "lng": -8.67267404768195,
+        "lat": 42.2594489880628
+    }
+},
+{
+    "number": 2080,
+    "name": "Avda. Redondela,19",
+    "location": {
+        "lng": -8.66717368931799,
+        "lat": 42.2664671038215
+    }
+},
+{
+    "number": 2090,
+    "name": "Avda. Redondela,26",
+    "location": {
+        "lng": -8.66468170836801,
+        "lat": 42.2722238884974
+    }
+},
+{
+    "number": 2100,
+    "name": "Avda. Redondela,51",
+    "location": {
+        "lng": -8.66894933944242,
+        "lat": 42.2631308958418
+    }
+},
+{
+    "number": 2110,
+    "name": "Avda. Redondela,70 (CENTRO SAUDE)",
+    "location": {
+        "lng": -8.66893627278987,
+        "lat": 42.2633109845973
+    }
+},
+{
+    "number": 2120,
+    "name": "Avda. Redondela,S/N (ALTO ENCARNACION)",
+    "location": {
+        "lng": -8.66654873393958,
+        "lat": 42.2746160008697
+    }
+},
+{
+    "number": 2130,
+    "name": "Avda. Redondela,S/N (Instituto)",
+    "location": {
+        "lng": -8.66719637747313,
+        "lat": 42.2667643781018
+    }
+},
+{
+    "number": 2150,
+    "name": "Avda. Samil (Frente a praia da Fonte)",
+    "location": {
+        "lng": -8.77386296370686,
+        "lat": 42.2212448285758
+    }
+},
+{
+    "number": 2160,
+    "name": "Avda. Samil,15 (HOTEL)",
+    "location": {
+        "lng": -8.77449780503246,
+        "lat": 42.2157521729909
+    }
+},
+{
+    "number": 2170,
+    "name": "Avda. Samil, 35",
+    "location": {
+        "lng": -8.77456409766621,
+        "lat": 42.2100962779497
+    }
+},
+{
+    "number": 2180,
+    "name": "Avda. Samil, 67",
+    "location": {
+        "lng": -8.77622347943969,
+        "lat": 42.2067581442344
+    }
+},
+{
+    "number": 2190,
+    "name": "AVDA DE SAMIL, 81",
+    "location": {
+        "lng": -8.77669056454484,
+        "lat": 42.2048406861778
+    }
+},
+{
+    "number": 2200,
+    "name": "Avda. Sta. Mariña,110",
+    "location": {
+        "lng": -8.65646888731785,
+        "lat": 42.2225025726009
+    }
+},
+{
+    "number": 2210,
+    "name": "Avda. Sta. Mariña, 127",
+    "location": {
+        "lng": -8.65653054741731,
+        "lat": 42.2225838146383
+    }
+},
+{
+    "number": 2220,
+    "name": "Avda. Sta. Mariña, 33",
+    "location": {
+        "lng": -8.66818696555981,
+        "lat": 42.2207537884273
+    }
+},
+{
+    "number": 2230,
+    "name": "Avda. Sta. Mariña, 52",
+    "location": {
+        "lng": -8.66247525150397,
+        "lat": 42.2223492746306
+    }
+},
+{
+    "number": 2240,
+    "name": "Avda. Sta. Mariña, 77",
+    "location": {
+        "lng": -8.66249819080418,
+        "lat": 42.2225925145217
+    }
+},
+{
+    "number": 2250,
+    "name": "Avda. Sta. Mariña, 88 (Cruce Becerreira)",
+    "location": {
+        "lng": -8.66027357663033,
+        "lat": 42.2213881008686
+    }
+},
+{
+    "number": 2260,
+    "name": "Avda. Sta. Mariña, 18",
+    "location": {
+        "lng": -8.66787074221239,
+        "lat": 42.220257522228
+    }
+},
+{
+    "number": 2270,
+    "name": "Avda. Sta. Mariña,103",
+    "location": {
+        "lng": -8.66020077979777,
+        "lat": 42.2214058981118
+    }
+},
+{
+    "number": 2280,
+    "name": "Baixada a Laxe, 31",
+    "location": {
+        "lng": -8.71920487789086,
+        "lat": 42.2166119181495
+    }
+},
+{
+    "number": 2290,
+    "name": "Baixada a Laxe,42",
+    "location": {
+        "lng": -8.71959242521589,
+        "lat": 42.2163066480583
+    }
+},
+{
+    "number": 2300,
+    "name": "Baixada a Ponte Nova, 13",
+    "location": {
+        "lng": -8.72279933419743,
+        "lat": 42.220817637029
+    }
+},
+{
+    "number": 2310,
+    "name": "Baixada a praia,(CRUCE AUTOVIA)",
+    "location": {
+        "lng": -8.81055649282457,
+        "lat": 42.1741355407671
+    }
+},
+{
+    "number": 2320,
+    "name": "Baixada a praia,121",
+    "location": {
+        "lng": -8.80886483968577,
+        "lat": 42.1726106430676
+    }
+},
+{
+    "number": 2330,
+    "name": "Baixada a praia,191",
+    "location": {
+        "lng": -8.81018606371381,
+        "lat": 42.1737566571127
+    }
+},
+{
+    "number": 2340,
+    "name": "Baixada a praia,44",
+    "location": {
+        "lng": -8.80632398473695,
+        "lat": 42.1680671200777
+    }
+},
+{
+    "number": 2350,
+    "name": "Baixada a praia,74",
+    "location": {
+        "lng": -8.80899309046125,
+        "lat": 42.1702241401465
+    }
+},
+{
+    "number": 2360,
+    "name": "Baixada a praia,81",
+    "location": {
+        "lng": -8.8065427549889,
+        "lat": 42.16778828795
+    }
+},
+{
+    "number": 2370,
+    "name": "Baixada a praia,94",
+    "location": {
+        "lng": -8.80937119459741,
+        "lat": 42.1725754589808
+    }
+},
+{
+    "number": 2380,
+    "name": "Baixada a praia,99",
+    "location": {
+        "lng": -8.80902943880681,
+        "lat": 42.1702151941302
+    }
+},
+{
+    "number": 2390,
+    "name": "Baixada A Salgueira, 45",
+    "location": {
+        "lng": -8.71653185358647,
+        "lat": 42.2237113922508
+    }
+},
+{
+    "number": 2410,
+    "name": "Baixada O RIO, 31",
+    "location": {
+        "lng": -8.70235382641271,
+        "lat": 42.2088599700698
+    }
+},
+{
+    "number": 2420,
+    "name": "Baixada O RIO, 26",
+    "location": {
+        "lng": -8.70240228389571,
+        "lat": 42.2088600957312
+    }
+},
+{
+    "number": 2430,
+    "name": "BARCELONA, (POVISA)",
+    "location": {
+        "lng": -8.72689251416487,
+        "lat": 42.2236374444832
+    }
+},
+{
+    "number": 2440,
+    "name": "Barcelona,2",
+    "location": {
+        "lng": -8.72180168861356,
+        "lat": 42.2283895951278
+    }
+},
+{
+    "number": 2450,
+    "name": "Barcelona,36",
+    "location": {
+        "lng": -8.72371600770132,
+        "lat": 42.2259534895588
+    }
+},
+{
+    "number": 2460,
+    "name": "Rua Xeme, 55",
+    "location": {
+        "lng": -8.69634756346026,
+        "lat": 42.203584489857
+    }
+},
+{
+    "number": 2480,
+    "name": "Bayona,15",
+    "location": {
+        "lng": -8.75120247601767,
+        "lat": 42.2145872484456
+    }
+},
+{
+    "number": 2490,
+    "name": "CRTA DE COUTADAS, 57 (Parking C.Cultural",
+    "location": {
+        "lng": -8.69948963931683,
+        "lat": 42.1946043469285
+    }
+},
+{
+    "number": 2500,
+    "name": "BEADE, IGREXA",
+    "location": {
+        "lng": -8.70711824028786,
+        "lat": 42.1920482265682
+    }
+},
+{
+    "number": 2510,
+    "name": "Crta de Valladares, 157",
+    "location": {
+        "lng": -8.72101614172593,
+        "lat": 42.1909750567935
+    }
+},
+{
+    "number": 2520,
+    "name": "Crta de Bembrive, 238 (IGREXA)",
+    "location": {
+        "lng": -8.68704893203667,
+        "lat": 42.2045051848484
+    }
+},
+{
+    "number": 2530,
+    "name": "Bolivia,39",
+    "location": {
+        "lng": -8.71668493318769,
+        "lat": 42.2306376789806
+    }
+},
+{
+    "number": 2540,
+    "name": "BOUZAS, (ANCLAS)",
+    "location": {
+        "lng": -8.7522257842107,
+        "lat": 42.2255592535543
+    }
+},
+{
+    "number": 2550,
+    "name": "Brea,10",
+    "location": {
+        "lng": -8.704847283806,
+        "lat": 42.2041110226084
+    }
+},
+{
+    "number": 2560,
+    "name": "Brea, 27",
+    "location": {
+        "lng": -8.70497981996999,
+        "lat": 42.2042644724829
+    }
+},
+{
+    "number": 2570,
+    "name": "Brea, 54",
+    "location": {
+        "lng": -8.70436071496179,
+        "lat": 42.2071449325039
+    }
+},
+{
+    "number": 2580,
+    "name": "Brea, 49",
+    "location": {
+        "lng": -8.70465078114925,
+        "lat": 42.2072897819456
+    }
+},
+{
+    "number": 2590,
+    "name": "Cabalaria, 100",
+    "location": {
+        "lng": -8.68917946902062,
+        "lat": 42.2323047089768
+    }
+},
+{
+    "number": 2600,
+    "name": "Cabalaria, 139",
+    "location": {
+        "lng": -8.68940914868522,
+        "lat": 42.2352053822152
+    }
+},
+{
+    "number": 2610,
+    "name": "Cabalaria, 14",
+    "location": {
+        "lng": -8.69345219287554,
+        "lat": 42.2333969667811
+    }
+},
+{
+    "number": 2620,
+    "name": "Cabalaria, 184",
+    "location": {
+        "lng": -8.68897164502165,
+        "lat": 42.2351411526859
+    }
+},
+{
+    "number": 2630,
+    "name": "Cabalaria, 3",
+    "location": {
+        "lng": -8.69340288885167,
+        "lat": 42.2335679561252
+    }
+},
+{
+    "number": 2640,
+    "name": "Cabalaria, 67",
+    "location": {
+        "lng": -8.68947131375734,
+        "lat": 42.2325666838798
+    }
+},
+{
+    "number": 2650,
+    "name": "Cabeiro, 1",
+    "location": {
+        "lng": -8.62632378132711,
+        "lat": 42.249859757896
+    }
+},
+{
+    "number": 2660,
+    "name": "Cabeiro,10 (BARRIO DA IGREXA)",
+    "location": {
+        "lng": -8.62273224974927,
+        "lat": 42.2544862679969
+    }
+},
+{
+    "number": 2670,
+    "name": "Cabeiro,10 (Subida A IGREXA)",
+    "location": {
+        "lng": -8.62431780385857,
+        "lat": 42.252879336752
+    }
+},
+{
+    "number": 2680,
+    "name": "Cabeiro, 15",
+    "location": {
+        "lng": -8.62568025825081,
+        "lat": 42.2479843413819
+    }
+},
+{
+    "number": 2670,
+    "name": "Cabeiro,10 (Subida A IGREXA)",
+    "location": {
+        "lng": -8.62431780385857,
+        "lat": 42.252879336752
+    }
+},
+{
+    "number": 2700,
+    "name": "Cabeiro,17",
+    "location": {
+        "lng": -8.62000415989578,
+        "lat": 42.2565667340068
+    }
+},
+{
+    "number": 2710,
+    "name": "Cabeiro,2",
+    "location": {
+        "lng": -8.62331260010968,
+        "lat": 42.2547493583855
+    }
+},
+{
+    "number": 2720,
+    "name": "Cabeiro,28",
+    "location": {
+        "lng": -8.62614263933789,
+        "lat": 42.2476886395596
+    }
+},
+{
+    "number": 2730,
+    "name": "Cabeiro,3",
+    "location": {
+        "lng": -8.62378536840932,
+        "lat": 42.2527154781755
+    }
+},
+{
+    "number": 2735,
+    "name": "Rua de Cachamuiña, s/n",
+    "location": {
+        "lng": -8.72750064837069,
+        "lat": 42.2349148787527
+    }
+},
+{
+    "number": 2740,
+    "name": "Cacheno, 77",
+    "location": {
+        "lng": -8.70141361121981,
+        "lat": 42.2078578161397
+    }
+},
+{
+    "number": 2750,
+    "name": "CACHENO, (CRUCEIRO)",
+    "location": {
+        "lng": -8.69870469417435,
+        "lat": 42.2063916976023
+    }
+},
+{
+    "number": 2760,
+    "name": "Cacheno, 66",
+    "location": {
+        "lng": -8.70137722628786,
+        "lat": 42.2078667278861
+    }
+},
+{
+    "number": 2770,
+    "name": "Cacheno, 43",
+    "location": {
+        "lng": -8.69846387425789,
+        "lat": 42.2065621870122
+    }
+},
+{
+    "number": 2780,
+    "name": "AVDA CAMELIAS,135",
+    "location": {
+        "lng": -8.73121390140626,
+        "lat": 42.2223777452882
+    }
+},
+{
+    "number": 2790,
+    "name": "Camelias,37",
+    "location": {
+        "lng": -8.72988100824121,
+        "lat": 42.2309126690422
+    }
+},
+{
+    "number": 2800,
+    "name": "Camelias,46",
+    "location": {
+        "lng": -8.73025909984797,
+        "lat": 42.2303461564408
+    }
+},
+{
+    "number": 2810,
+    "name": "Camelias,80",
+    "location": {
+        "lng": -8.73031922177743,
+        "lat": 42.2276083577667
+    }
+},
+{
+    "number": 2820,
+    "name": "Camelias,89",
+    "location": {
+        "lng": -8.72953624053435,
+        "lat": 42.2265077363531
+    }
+},
+{
+    "number": 2830,
+    "name": "Camilo Veiga,33",
+    "location": {
+        "lng": -8.75195838041627,
+        "lat": 42.2223794200052
+    }
+},
+{
+    "number": 2840,
+    "name": "Rua da Goleta, 3 (Igrexa Candean)",
+    "location": {
+        "lng": -8.66502249628691,
+        "lat": 42.2419095701473
+    }
+},
+{
+    "number": 2850,
+    "name": "Rua da Goleta, 2",
+    "location": {
+        "lng": -8.66462195862169,
+        "lat": 42.2415841713768
+    }
+},
+{
+    "number": 2860,
+    "name": "Canovas del Castillo, 6",
+    "location": {
+        "lng": -8.72816067478859,
+        "lat": 42.2392665200567
+    }
+},
+{
+    "number": 2870,
+    "name": "Cantabria,110",
+    "location": {
+        "lng": -8.6940567155492,
+        "lat": 42.237460452224
+    }
+},
+{
+    "number": 2880,
+    "name": "Cantabria,112",
+    "location": {
+        "lng": -8.69357398330817,
+        "lat": 42.2387560806863
+    }
+},
+{
+    "number": 2910,
+    "name": "Cantabria, 210",
+    "location": {
+        "lng": -8.69289196755912,
+        "lat": 42.2414651721921
+    }
+},
+{
+    "number": 2920,
+    "name": "Cantabria, 45",
+    "location": {
+        "lng": -8.69572457055763,
+        "lat": 42.2359157915756
+    }
+},
+{
+    "number": 2930,
+    "name": "Cantabria, 58",
+    "location": {
+        "lng": -8.69552684828846,
+        "lat": 42.2354469360019
+    }
+},
+{
+    "number": 2950,
+    "name": "Canteiros, 4",
+    "location": {
+        "lng": -8.72958217603462,
+        "lat": 42.2043701068892
+    }
+},
+{
+    "number": 2960,
+    "name": "Canteiros,101",
+    "location": {
+        "lng": -8.7388665088544,
+        "lat": 42.2006989717255
+    }
+},
+{
+    "number": 2970,
+    "name": "Canteiros,120",
+    "location": {
+        "lng": -8.7357974749119,
+        "lat": 42.2012233275267
+    }
+},
+{
+    "number": 2980,
+    "name": "Canteiros,164",
+    "location": {
+        "lng": -8.73915523016056,
+        "lat": 42.2009067760284
+    }
+},
+{
+    "number": 2990,
+    "name": "Canteiros, 3",
+    "location": {
+        "lng": -8.72947361498184,
+        "lat": 42.2042617740231
+    }
+},
+{
+    "number": 3000,
+    "name": "CANTEIROS, 49",
+    "location": {
+        "lng": -8.73328498527453,
+        "lat": 42.2009923560561
+    }
+},
+{
+    "number": 3010,
+    "name": "Canteiros, 77",
+    "location": {
+        "lng": -8.73579769990793,
+        "lat": 42.2011692894919
+    }
+},
+{
+    "number": 3020,
+    "name": "Canteiros, 80 (CRUCE REVOLTA)",
+    "location": {
+        "lng": -8.73350733400142,
+        "lat": 42.2014071680814
+    }
+},
+{
+    "number": 3030,
+    "name": "Avda Castrelos, 464",
+    "location": {
+        "lng": -8.72099983143436,
+        "lat": 42.1946856693825
+    }
+},
+{
+    "number": 3040,
+    "name": "García OlloquiI, 9",
+    "location": {
+        "lng": -8.72438013648516,
+        "lat": 42.2399059610243
+    }
+},
+{
+    "number": 3050,
+    "name": "Casas",
+    "location": {
+        "lng": -8.75654810912,
+        "lat": 42.1924879422645
+    }
+},
+{
+    "number": 3052,
+    "name": "Antonio Palacios",
+    "location": {
+        "lng": -8.72862060815319,
+        "lat": 42.2167696642377
+    }
+},
+{
+    "number": 3060,
+    "name": "Ceboleira, 36",
+    "location": {
+        "lng": -8.701624019176,
+        "lat": 42.224934495803
+    }
+},
+{
+    "number": 3070,
+    "name": "Ceboleira, 47",
+    "location": {
+        "lng": -8.70151504699965,
+        "lat": 42.2249161996586
+    }
+},
+{
+    "number": 3080,
+    "name": "Cesareo Vázquez, 136",
+    "location": {
+        "lng": -8.80093654148102,
+        "lat": 42.1873677700138
+    }
+},
+{
+    "number": 3090,
+    "name": "Cesareo Vázquez, 178",
+    "location": {
+        "lng": -8.79949600342917,
+        "lat": 42.1906526169823
+    }
+},
+{
+    "number": 3100,
+    "name": "Cesareo Vázquez, 95",
+    "location": {
+        "lng": -8.80224132537679,
+        "lat": 42.1844879597901
+    }
+},
+{
+    "number": 3110,
+    "name": "Cesareo Vázquez, 74",
+    "location": {
+        "lng": -8.80208473994099,
+        "lat": 42.1842174962807
+    }
+},
+{
+    "number": 3120,
+    "name": "Cesareo Vázquez, 141 (COLEGIO)",
+    "location": {
+        "lng": -8.80099616179137,
+        "lat": 42.1876650862593
+    }
+},
+{
+    "number": 3130,
+    "name": "Cesareo Vázquez, 169 (ESTACION)",
+    "location": {
+        "lng": -8.7998716710162,
+        "lat": 42.1905812208915
+    }
+},
+{
+    "number": 3140,
+    "name": "Crta de Marcosende, 255 (Cidans)",
+    "location": {
+        "lng": -8.68604532473038,
+        "lat": 42.1579120633382
+    }
+},
+{
+    "number": 3150,
+    "name": "Crta de Marcosende, 206",
+    "location": {
+        "lng": -8.68617883148886,
+        "lat": 42.1578403765064
+    }
+},
+{
+    "number": 3160,
+    "name": "Falcoa, 12",
+    "location": {
+        "lng": -8.72196371464667,
+        "lat": 42.2066395346226
+    }
+},
+{
+    "number": 3170,
+    "name": "Cño. Das Coutadas, 90",
+    "location": {
+        "lng": -8.7210045205814,
+        "lat": 42.2211645373165
+    }
+},
+{
+    "number": 3180,
+    "name": "Cño. Quiros, 94",
+    "location": {
+        "lng": -8.71189184318084,
+        "lat": 42.2197550383025
+    }
+},
+{
+    "number": 3190,
+    "name": "Cño. Quiros, 15",
+    "location": {
+        "lng": -8.71129166820252,
+        "lat": 42.2198435940081
+    }
+},
+{
+    "number": 3210,
+    "name": "RUA COLÓN, 24",
+    "location": {
+        "lng": -8.72046144056279,
+        "lat": 42.2371585474924
+    }
+},
+{
+    "number": 3230,
+    "name": "Rua Colón,27",
+    "location": {
+        "lng": -8.72006060393545,
+        "lat": 42.2365001055379
+    }
+},
+{
+    "number": 3240,
+    "name": "Coruña, (FACENDA)",
+    "location": {
+        "lng": -8.73424515230622,
+        "lat": 42.222177657252
+    }
+},
+{
+    "number": 3250,
+    "name": "CORUÑA, 22",
+    "location": {
+        "lng": -8.73363900122857,
+        "lat": 42.2219781114587
+    }
+},
+{
+    "number": 3260,
+    "name": "Coruña, 39",
+    "location": {
+        "lng": -8.73748643558872,
+        "lat": 42.2263010366787
+    }
+},
+{
+    "number": 3270,
+    "name": "Coruña, (parque Toys'rus )",
+    "location": {
+        "lng": -8.73733282030376,
+        "lat": 42.2265438576339
+    }
+},
+{
+    "number": 3280,
+    "name": "Rua M. Lago Lago, 1",
+    "location": {
+        "lng": -8.77620131604649,
+        "lat": 42.1889974144309
+    }
+},
+{
+    "number": 3290,
+    "name": "Costa, 11",
+    "location": {
+        "lng": -8.72231284978481,
+        "lat": 42.213449226246
+    }
+},
+{
+    "number": 3300,
+    "name": "Costa, 22",
+    "location": {
+        "lng": -8.72179673234684,
+        "lat": 42.2118268231868
+    }
+},
+{
+    "number": 3310,
+    "name": "Costa, 56",
+    "location": {
+        "lng": -8.72104696707086,
+        "lat": 42.2098796189434
+    }
+},
+{
+    "number": 3320,
+    "name": "Costa, 63",
+    "location": {
+        "lng": -8.72049097551084,
+        "lat": 42.2101034265284
+    }
+},
+{
+    "number": 3350,
+    "name": "Couto, 1",
+    "location": {
+        "lng": -8.72251305085881,
+        "lat": 42.2308590653871
+    }
+},
+{
+    "number": 3360,
+    "name": "Dr. Canoa, 8 (Cruce S. Lorenzo)",
+    "location": {
+        "lng": -8.70453267847142,
+        "lat": 42.2378391512699
+    }
+},
+{
+    "number": 3370,
+    "name": "Crta de Bembrive (CRUCE EIFONSO)",
+    "location": {
+        "lng": -8.69299658500646,
+        "lat": 42.2057911535241
+    }
+},
+{
+    "number": 3380,
+    "name": "Cruce Eifonso",
+    "location": {
+        "lng": -8.69312913355684,
+        "lat": 42.2054672770681
+    }
+},
+{
+    "number": 3390,
+    "name": "Crta de Bembrive, 160",
+    "location": {
+        "lng": -8.69269324262365,
+        "lat": 42.2052679695995
+    }
+},
+{
+    "number": 3400,
+    "name": "Crta de Gandara, (CRUCE SOBREIRA)",
+    "location": {
+        "lng": -8.71616040902432,
+        "lat": 42.1637005930415
+    }
+},
+{
+    "number": 3420,
+    "name": "Avda de Castrelos frente 117",
+    "location": {
+        "lng": -8.73141230388844,
+        "lat": 42.2081661057624
+    }
+},
+{
+    "number": 3430,
+    "name": "Avda da Ponte, 86 (Ctrio de Puxeiros)",
+    "location": {
+        "lng": -8.67273583281904,
+        "lat": 42.2155161233349
+    }
+},
+{
+    "number": 3450,
+    "name": "Crta de Camposancos, 155",
+    "location": {
+        "lng": -8.76926518821877,
+        "lat": 42.1947478056864
+    }
+},
+{
+    "number": 3460,
+    "name": "CRTA CAMPOSANCOS, 19",
+    "location": {
+        "lng": -8.75361557426744,
+        "lat": 42.2028390823303
+    }
+},
+{
+    "number": 3470,
+    "name": "Crta de Camposancos, 214 (XURELA)",
+    "location": {
+        "lng": -8.77230908003831,
+        "lat": 42.1936821173879
+    }
+},
+{
+    "number": 3480,
+    "name": "Crta de Camposancos,141",
+    "location": {
+        "lng": -8.76572277643261,
+        "lat": 42.1963077505738
+    }
+},
+{
+    "number": 3490,
+    "name": "Crta de Camposancos ,171",
+    "location": {
+        "lng": -8.7720546406837,
+        "lat": 42.1937086317475
+    }
+},
+{
+    "number": 3500,
+    "name": "Crta de Camposancos,190",
+    "location": {
+        "lng": -8.77044100428134,
+        "lat": 42.194479969941
+    }
+},
+{
+    "number": 3510,
+    "name": "CRTA CAMPOSANCOS, 28",
+    "location": {
+        "lng": -8.75407699797294,
+        "lat": 42.203137283842
+    }
+},
+{
+    "number": 3520,
+    "name": "Crta de Camposancos, 75",
+    "location": {
+        "lng": -8.75961712095067,
+        "lat": 42.1998076354244
+    }
+},
+{
+    "number": 3530,
+    "name": "Crta de Camposancos, 88",
+    "location": {
+        "lng": -8.75935006099062,
+        "lat": 42.1999601851401
+    }
+},
+{
+    "number": 3540,
+    "name": "Crta de Camposancos, 126",
+    "location": {
+        "lng": -8.76643775111038,
+        "lat": 42.1962101367636
+    }
+},
+{
+    "number": 3550,
+    "name": "Ctra Bembrive, 364",
+    "location": {
+        "lng": -8.68844384021918,
+        "lat": 42.1975019837263
+    }
+},
+{
+    "number": 3560,
+    "name": "Ctra Bembrive,104",
+    "location": {
+        "lng": -8.69560534700832,
+        "lat": 42.2090043851492
+    }
+},
+{
+    "number": 3570,
+    "name": "Ctra Bembrive, 123",
+    "location": {
+        "lng": -8.69544338230826,
+        "lat": 42.2091480580189
+    }
+},
+{
+    "number": 3572,
+    "name": "Ctra Bembrive, 112",
+    "location": {
+        "lng": -8.69526062783791,
+        "lat": 42.2084180536587
+    }
+},
+{
+    "number": 3574,
+    "name": "Ctra Bembrive 129",
+    "location": {
+        "lng": -8.69502149948868,
+        "lat": 42.2087056236005
+    }
+},
+{
+    "number": 3580,
+    "name": "Ctra Bembrive,180",
+    "location": {
+        "lng": -8.69090298586737,
+        "lat": 42.2044255652789
+    }
+},
+{
+    "number": 3590,
+    "name": "Ctra Bembrive, 195",
+    "location": {
+        "lng": -8.69084211109343,
+        "lat": 42.2044884462306
+    }
+},
+{
+    "number": 3600,
+    "name": "Ctra Bembrive, 24",
+    "location": {
+        "lng": -8.69710493750138,
+        "lat": 42.2120885441316
+    }
+},
+{
+    "number": 3610,
+    "name": "Ctra Bembrive,239",
+    "location": {
+        "lng": -8.68695719181334,
+        "lat": 42.2046850629768
+    }
+},
+{
+    "number": 3620,
+    "name": "Ctra Bembrive,278",
+    "location": {
+        "lng": -8.68517150285384,
+        "lat": 42.2026357215929
+    }
+},
+{
+    "number": 3630,
+    "name": "Ctra Bembrive,269",
+    "location": {
+        "lng": -8.68520762409013,
+        "lat": 42.2023746345124
+    }
+},
+{
+    "number": 3640,
+    "name": "Ctra Bembrive,315",
+    "location": {
+        "lng": -8.68778344915653,
+        "lat": 42.1970948998757
+    }
+},
+{
+    "number": 3650,
+    "name": "Ctra Bembrive,344",
+    "location": {
+        "lng": -8.68931401450039,
+        "lat": 42.1995938334196
+    }
+},
+{
+    "number": 3660,
+    "name": "Ctra Bembrive,39",
+    "location": {
+        "lng": -8.69703155927167,
+        "lat": 42.2122324529299
+    }
+},
+{
+    "number": 3670,
+    "name": "Ctra Bembrive,398",
+    "location": {
+        "lng": -8.6893743069914,
+        "lat": 42.1950097248245
+    }
+},
+{
+    "number": 3680,
+    "name": "Ctra Bembrive,74",
+    "location": {
+        "lng": -8.69627573175762,
+        "lat": 42.2106813532733
+    }
+},
+{
+    "number": 3690,
+    "name": "Ctra Bembrive,89",
+    "location": {
+        "lng": -8.69620252584407,
+        "lat": 42.2107892364032
+    }
+},
+{
+    "number": 3700,
+    "name": "Ctra Bembrive, Esq. Do Camiño Riomao",
+    "location": {
+        "lng": -8.69214123869113,
+        "lat": 42.1938913760019
+    }
+},
+{
+    "number": 3710,
+    "name": "Ctra Bembrive, 363",
+    "location": {
+        "lng": -8.69211736522185,
+        "lat": 42.1938192604945
+    }
+},
+{
+    "number": 3720,
+    "name": "Ctra Bembrive, 341",
+    "location": {
+        "lng": -8.68928992186869,
+        "lat": 42.1949284385238
+    }
+},
+{
+    "number": 3730,
+    "name": "Ctra Bembrive, 301",
+    "location": {
+        "lng": -8.68897780851005,
+        "lat": 42.199764044863
+    }
+},
+{
+    "number": 3740,
+    "name": "Ctra Canido (Igrexa)",
+    "location": {
+        "lng": -8.78974545002397,
+        "lat": 42.1975160937831
+    }
+},
+{
+    "number": 3750,
+    "name": "CRTA CANIDO (Playa)",
+    "location": {
+        "lng": -8.79788301202147,
+        "lat": 42.1932526508948
+    }
+},
+{
+    "number": 3760,
+    "name": "Ctra Canido,(Toralla)",
+    "location": {
+        "lng": -8.79518193406995,
+        "lat": 42.1955445059009
+    }
+},
+{
+    "number": 3770,
+    "name": "Ctra Canido, 135",
+    "location": {
+        "lng": -8.79554708998082,
+        "lat": 42.1949867576042
+    }
+},
+{
+    "number": 3780,
+    "name": "CRTA CANIDO, 201",
+    "location": {
+        "lng": -8.79768752615229,
+        "lat": 42.1929550939756
+    }
+},
+{
+    "number": 3790,
+    "name": "Ctra Canido, 15",
+    "location": {
+        "lng": -8.78186151774281,
+        "lat": 42.2017884444637
+    }
+},
+{
+    "number": 3800,
+    "name": "Ctra Canido, 26",
+    "location": {
+        "lng": -8.78540493767269,
+        "lat": 42.1999037730376
+    }
+},
+{
+    "number": 3810,
+    "name": "Ctra Canido, 55",
+    "location": {
+        "lng": -8.78529625817878,
+        "lat": 42.1998044990854
+    }
+},
+{
+    "number": 3820,
+    "name": "Rua do Falcoído, 16 (Porto)",
+    "location": {
+        "lng": -8.69973979253931,
+        "lat": 42.1826894784354
+    }
+},
+{
+    "number": 3830,
+    "name": "Rua do Falcoído, esq. Camiño do Goldiño",
+    "location": {
+        "lng": -8.69690234592232,
+        "lat": 42.1809527816399
+    }
+},
+{
+    "number": 3830,
+    "name": "Rua do Falcoído, esq. Camiño do Goldiño",
+    "location": {
+        "lng": -8.69690234592232,
+        "lat": 42.1809527816399
+    }
+},
+{
+    "number": 3850,
+    "name": "Clara Campoamor, cruce crta Marcosende",
+    "location": {
+        "lng": -8.69157591929886,
+        "lat": 42.1673748570636
+    }
+},
+{
+    "number": 3860,
+    "name": "Clara Campoamor (cruce Falcoído).",
+    "location": {
+        "lng": -8.69142602752471,
+        "lat": 42.1675455772239
+    }
+},
+{
+    "number": 3870,
+    "name": "Falcoído, 13 (Beade)",
+    "location": {
+        "lng": -8.69972734241453,
+        "lat": 42.182761497478
+    }
+},
+{
+    "number": 3880,
+    "name": "Ctra Coutada, 44 (C.CULTURAL)",
+    "location": {
+        "lng": -8.69940515640917,
+        "lat": 42.1945410806658
+    }
+},
+{
+    "number": 3890,
+    "name": "Ctra Coutada, 39",
+    "location": {
+        "lng": -8.70126264533404,
+        "lat": 42.1936092613049
+    }
+},
+{
+    "number": 3900,
+    "name": "Ctra Coutada,19",
+    "location": {
+        "lng": -8.70408969612732,
+        "lat": 42.1925268060568
+    }
+},
+{
+    "number": 3910,
+    "name": "Ctra Coutada,68",
+    "location": {
+        "lng": -8.69616626332176,
+        "lat": 42.1955953111761
+    }
+},
+{
+    "number": 3920,
+    "name": "Ctra Coutada,77",
+    "location": {
+        "lng": -8.69609333356425,
+        "lat": 42.1956491566749
+    }
+},
+{
+    "number": 3930,
+    "name": "Ctra Coutada, 12",
+    "location": {
+        "lng": -8.7041689649903,
+        "lat": 42.1924099267209
+    }
+},
+{
+    "number": 3940,
+    "name": "Ctra de Casas, 83",
+    "location": {
+        "lng": -8.75958396485988,
+        "lat": 42.1960698966194
+    }
+},
+{
+    "number": 3950,
+    "name": "Ctra de Casas, Esq. Camiño de Rial",
+    "location": {
+        "lng": -8.76016598675366,
+        "lat": 42.1958999918776
+    }
+},
+{
+    "number": 3960,
+    "name": "RESIDENCIA ASISTIDA",
+    "location": {
+        "lng": -8.68200006713512,
+        "lat": 42.2139660481486
+    }
+},
+{
+    "number": 3970,
+    "name": "Enlace Autovia, Ctra. Vella de Madrid",
+    "location": {
+        "lng": -8.67995478477987,
+        "lat": 42.2159237576542
+    }
+},
+{
+    "number": 3980,
+    "name": "Ctra Vella de Madrid, Cruce Hospital",
+    "location": {
+        "lng": -8.68156504179464,
+        "lat": 42.2161533969482
+    }
+},
+{
+    "number": 4000,
+    "name": "Rua Manuel Lago Lago, 143",
+    "location": {
+        "lng": -8.7646478475877,
+        "lat": 42.1824176119628
+    }
+},
+{
+    "number": 4010,
+    "name": "Rua Manuel Lago Lago, 144",
+    "location": {
+        "lng": -8.76727087681945,
+        "lat": 42.1840171023753
+    }
+},
+{
+    "number": 4020,
+    "name": "Rua Manuel Lago Lago, 79",
+    "location": {
+        "lng": -8.76938847304561,
+        "lat": 42.1868584084457
+    }
+},
+{
+    "number": 4030,
+    "name": "Rua Manuel Lago Lago, 111",
+    "location": {
+        "lng": -8.76689866557266,
+        "lat": 42.1841784633516
+    }
+},
+{
+    "number": 4040,
+    "name": "Rua Manuel Lago Lago, 54",
+    "location": {
+        "lng": -8.76983227754337,
+        "lat": 42.186994395899
+    }
+},
+{
+    "number": 4050,
+    "name": "Rua Manuel Lago Lago, 166",
+    "location": {
+        "lng": -8.7649264300816,
+        "lat": 42.1824001698592
+    }
+},
+{
+    "number": 4060,
+    "name": "Ctra Gandara, 7",
+    "location": {
+        "lng": -8.71591167702536,
+        "lat": 42.163826068488
+    }
+},
+{
+    "number": 4070,
+    "name": "Ctra Gandara, 45",
+    "location": {
+        "lng": -8.71358866125542,
+        "lat": 42.1621901222561
+    }
+},
+{
+    "number": 4080,
+    "name": "Ctra Gandara, 58",
+    "location": {
+        "lng": -8.71367384603022,
+        "lat": 42.1620912634346
+    }
+},
+{
+    "number": 4090,
+    "name": "Ctra Garrida, 124",
+    "location": {
+        "lng": -8.70816228214471,
+        "lat": 42.1705164531221
+    }
+},
+{
+    "number": 4100,
+    "name": "Ctra Garrida, 207",
+    "location": {
+        "lng": -8.70855838149518,
+        "lat": 42.1706885824681
+    }
+},
+{
+    "number": 4110,
+    "name": "Ctra Garrida, 40",
+    "location": {
+        "lng": -8.71474321308254,
+        "lat": 42.165228181828
+    }
+},
+{
+    "number": 4120,
+    "name": "Ctra Garrida, 84",
+    "location": {
+        "lng": -8.71089510216333,
+        "lat": 42.1664434356063
+    }
+},
+{
+    "number": 4130,
+    "name": "Ctra Garrida, 83",
+    "location": {
+        "lng": -8.71508588905572,
+        "lat": 42.1654992272925
+    }
+},
+{
+    "number": 4140,
+    "name": "Ctra Garrida, 169",
+    "location": {
+        "lng": -8.71150686830422,
+        "lat": 42.1666070913872
+    }
+},
+{
+    "number": 4150,
+    "name": "Ctra Miraflores, 65",
+    "location": {
+        "lng": -8.7127984615832,
+        "lat": 42.217298564427
+    }
+},
+{
+    "number": 4160,
+    "name": "Ctra Miraflores, 36",
+    "location": {
+        "lng": -8.71107153704455,
+        "lat": 42.217879645733
+    }
+},
+{
+    "number": 4170,
+    "name": "Ctra Miraflores, 42",
+    "location": {
+        "lng": -8.71310480483759,
+        "lat": 42.2175425033826
+    }
+},
+{
+    "number": 4180,
+    "name": "Ctra Miraflores, 77",
+    "location": {
+        "lng": -8.71418613639489,
+        "lat": 42.2168787278827
+    }
+},
+{
+    "number": 4190,
+    "name": "Ctra Miraflores, 76",
+    "location": {
+        "lng": -8.71466525703308,
+        "lat": 42.2170960736412
+    }
+},
+{
+    "number": 4200,
+    "name": "Ctra Moledo, 6 (CRUCE CTRA. FREIXO)",
+    "location": {
+        "lng": -8.70756937188442,
+        "lat": 42.2153760029557
+    }
+},
+{
+    "number": 4210,
+    "name": "Ctra Moledo, 42",
+    "location": {
+        "lng": -8.7046401663982,
+        "lat": 42.2121712286699
+    }
+},
+{
+    "number": 4220,
+    "name": "Ctra Moledo, 22 (FONTE)",
+    "location": {
+        "lng": -8.70631012949395,
+        "lat": 42.2138957375108
+    }
+},
+{
+    "number": 4230,
+    "name": "Crta de Moledo, 1",
+    "location": {
+        "lng": -8.70728823306823,
+        "lat": 42.2154203182663
+    }
+},
+{
+    "number": 4240,
+    "name": "Crta de Moledo, 81",
+    "location": {
+        "lng": -8.70444737903575,
+        "lat": 42.2122698028255
+    }
+},
+{
+    "number": 4250,
+    "name": "Crta de Moledo, 25",
+    "location": {
+        "lng": -8.70658170297022,
+        "lat": 42.2136262400392
+    }
+},
+{
+    "number": 4280,
+    "name": "Ctra Provincial, 80",
+    "location": {
+        "lng": -8.71345305396504,
+        "lat": 42.2244332638316
+    }
+},
+{
+    "number": 4290,
+    "name": "Ctra Provincial, 3",
+    "location": {
+        "lng": -8.71988476850419,
+        "lat": 42.2277815047888
+    }
+},
+{
+    "number": 4300,
+    "name": "Ctra Provincial, 104",
+    "location": {
+        "lng": -8.71123355111763,
+        "lat": 42.2222121290156
+    }
+},
+{
+    "number": 4310,
+    "name": "Ctra Provincial,111",
+    "location": {
+        "lng": -8.71141382937663,
+        "lat": 42.2225368125333
+    }
+},
+{
+    "number": 4320,
+    "name": "Ctra Provincial,2",
+    "location": {
+        "lng": -8.71993371800202,
+        "lat": 42.2276735476607
+    }
+},
+{
+    "number": 4330,
+    "name": "Ctra Provincial,23",
+    "location": {
+        "lng": -8.71621760228641,
+        "lat": 42.2264935890539
+    }
+},
+{
+    "number": 4340,
+    "name": "Ctra Provincial,54",
+    "location": {
+        "lng": -8.7156391463211,
+        "lat": 42.2260328316177
+    }
+},
+{
+    "number": 4350,
+    "name": "Ctra Provincial, 43",
+    "location": {
+        "lng": -8.71327141576821,
+        "lat": 42.2244057910098
+    }
+},
+{
+    "number": 4360,
+    "name": "Ctra Redondela, (CRUCE DOS VALOS)",
+    "location": {
+        "lng": -8.62525583716317,
+        "lat": 42.2439120877561
+    }
+},
+{
+    "number": 4370,
+    "name": "Ctra Redondela, 33",
+    "location": {
+        "lng": -8.63092493834687,
+        "lat": 42.2362120160218
+    }
+},
+{
+    "number": 4380,
+    "name": "Ctra Redondela, 4 (VILAR)",
+    "location": {
+        "lng": -8.62763605083372,
+        "lat": 42.2410918424036
+    }
+},
+{
+    "number": 4390,
+    "name": "Ctra Redondela, 40 (QUINTELA)",
+    "location": {
+        "lng": -8.63097336394713,
+        "lat": 42.2362211781312
+    }
+},
+{
+    "number": 4400,
+    "name": "Ctra Redondela, 5 (VILAR)",
+    "location": {
+        "lng": -8.62763589203211,
+        "lat": 42.2411188609488
+    }
+},
+{
+    "number": 4440,
+    "name": "Ctra San Xoan, 167",
+    "location": {
+        "lng": -8.74248383427934,
+        "lat": 42.1836039145944
+    }
+},
+{
+    "number": 4450,
+    "name": "Ctra San Xoan, 81",
+    "location": {
+        "lng": -8.74750117089295,
+        "lat": 42.1850921190497
+    }
+},
+{
+    "number": 4460,
+    "name": "Ctra San Xoan, 141",
+    "location": {
+        "lng": -8.74418366101525,
+        "lat": 42.183715792848
+    }
+},
+{
+    "number": 4490,
+    "name": "Rua M. Lago Lago, 28",
+    "location": {
+        "lng": -8.7728033166711,
+        "lat": 42.1875677207949
+    }
+},
+{
+    "number": 4500,
+    "name": "Rua M. Lago Lago, 2",
+    "location": {
+        "lng": -8.77633440626589,
+        "lat": 42.1890336996058
+    }
+},
+{
+    "number": 4510,
+    "name": "Rua M. Lago Lago, 51",
+    "location": {
+        "lng": -8.77274276480715,
+        "lat": 42.1875676009384
+    }
+},
+{
+    "number": 4520,
+    "name": "Crta Universidade- Xestoso (C.Mercantil)",
+    "location": {
+        "lng": -8.67222604610568,
+        "lat": 42.1743642893958
+    }
+},
+{
+    "number": 4530,
+    "name": "Crta Universidade- Xestoso frente Pouso",
+    "location": {
+        "lng": -8.66871148545679,
+        "lat": 42.1996442885147
+    }
+},
+{
+    "number": 4540,
+    "name": "Crta Xestoso-Universidade frente Viveros",
+    "location": {
+        "lng": -8.67268002196627,
+        "lat": 42.1746718046572
+    }
+},
+{
+    "number": 4550,
+    "name": "Xestoso- Universidade (esq. C. Do Pouso)",
+    "location": {
+        "lng": -8.669024533123,
+        "lat": 42.2000054486299
+    }
+},
+{
+    "number": 4560,
+    "name": "Ctra Valladares, 233 (TELECLUB)",
+    "location": {
+        "lng": -8.7213216356027,
+        "lat": 42.1770788445781
+    }
+},
+{
+    "number": 4570,
+    "name": "Ctra Valladares, 100",
+    "location": {
+        "lng": -8.72418348606876,
+        "lat": 42.1839396707534
+    }
+},
+{
+    "number": 4580,
+    "name": "Ctra Valladares, 146",
+    "location": {
+        "lng": -8.72162990606676,
+        "lat": 42.1808172731925
+    }
+},
+{
+    "number": 4590,
+    "name": "Ctra Valladares, 173",
+    "location": {
+        "lng": -8.72150948720329,
+        "lat": 42.1806638713333
+    }
+},
+{
+    "number": 4600,
+    "name": "Ctra Valladares, 206",
+    "location": {
+        "lng": -8.72189360353002,
+        "lat": 42.1772873804189
+    }
+},
+{
+    "number": 4610,
+    "name": "Ctra Valladares, 260",
+    "location": {
+        "lng": -8.72386974110425,
+        "lat": 42.1725457438075
+    }
+},
+{
+    "number": 4620,
+    "name": "Ctra Valladares, 329",
+    "location": {
+        "lng": -8.72380822472956,
+        "lat": 42.1727707575413
+    }
+},
+{
+    "number": 4630,
+    "name": "Ctra Valladares, 406 (ALTO DA GARRIDA)",
+    "location": {
+        "lng": -8.7203718031137,
+        "lat": 42.1656653357765
+    }
+},
+{
+    "number": 4640,
+    "name": "Ctra Valladares, 41",
+    "location": {
+        "lng": -8.71960630171581,
+        "lat": 42.1866125026245
+    }
+},
+{
+    "number": 4650,
+    "name": "Ctra Valladares, 42",
+    "location": {
+        "lng": -8.71983635464464,
+        "lat": 42.1866220708274
+    }
+},
+{
+    "number": 4660,
+    "name": "Ctra Valladares, 99",
+    "location": {
+        "lng": -8.72378339793433,
+        "lat": 42.1840467860881
+    }
+},
+{
+    "number": 4670,
+    "name": "Ctra Vao, 27",
+    "location": {
+        "lng": -8.7769461906341,
+        "lat": 42.1938263179131
+    }
+},
+{
+    "number": 4680,
+    "name": "Ctra Vao,118",
+    "location": {
+        "lng": -8.78623541918293,
+        "lat": 42.1942853069417
+    }
+},
+{
+    "number": 4690,
+    "name": "CRTA VAO 147 PRAIA DO VAO)",
+    "location": {
+        "lng": -8.79097133323289,
+        "lat": 42.1964015344287
+    }
+},
+{
+    "number": 4700,
+    "name": "Ctra Vao,46",
+    "location": {
+        "lng": -8.77727342208782,
+        "lat": 42.1940881400264
+    }
+},
+{
+    "number": 4710,
+    "name": "Ctra Vao, 65 (ESTACION)",
+    "location": {
+        "lng": -8.78087020116278,
+        "lat": 42.1942031394357
+    }
+},
+{
+    "number": 4720,
+    "name": "Ctra Vao,90",
+    "location": {
+        "lng": -8.78090644284481,
+        "lat": 42.1942302279285
+    }
+},
+{
+    "number": 4730,
+    "name": "Ctra Vao,91",
+    "location": {
+        "lng": -8.7858118451553,
+        "lat": 42.1941854465899
+    }
+},
+{
+    "number": 4740,
+    "name": "Ctra Vao,S/N (PRAIA DO VAO)",
+    "location": {
+        "lng": -8.79058458524236,
+        "lat": 42.1964908939432
+    }
+},
+{
+    "number": 4750,
+    "name": "Ctra Vella de Madrid, 6",
+    "location": {
+        "lng": -8.69747156639352,
+        "lat": 42.2139628431779
+    }
+},
+{
+    "number": 4760,
+    "name": "Ctra Vella de Madrid, 34",
+    "location": {
+        "lng": -8.693057822588,
+        "lat": 42.2162927874815
+    }
+},
+{
+    "number": 4770,
+    "name": "Ctra Vella de Madrid, 104",
+    "location": {
+        "lng": -8.68413964225258,
+        "lat": 42.2198081018898
+    }
+},
+{
+    "number": 4780,
+    "name": "Ctra Vella de Madrid, 136",
+    "location": {
+        "lng": -8.68140229239673,
+        "lat": 42.221115468208
+    }
+},
+{
+    "number": 4790,
+    "name": "Ctra Vella de Madrid, 121",
+    "location": {
+        "lng": -8.6836504144591,
+        "lat": 42.2204191889615
+    }
+},
+{
+    "number": 4800,
+    "name": "Ctra Vella de Madrid,160 (I.F.P. Nº 6)",
+    "location": {
+        "lng": -8.67994405721611,
+        "lat": 42.2180492372442
+    }
+},
+{
+    "number": 4810,
+    "name": "Ctra Vella de Madrid,177 (I.F.P. R. MEL",
+    "location": {
+        "lng": -8.6797872301069,
+        "lat": 42.2179137038435
+    }
+},
+{
+    "number": 4820,
+    "name": "Ctra Vella de Madrid, 31",
+    "location": {
+        "lng": -8.69363434966862,
+        "lat": 42.2167086222974
+    }
+},
+{
+    "number": 4830,
+    "name": "Ctra Vella de Madrid, 81",
+    "location": {
+        "lng": -8.69001735222129,
+        "lat": 42.2187973998416
+    }
+},
+{
+    "number": 4840,
+    "name": "Ctra Vella de Madrid,76",
+    "location": {
+        "lng": -8.68950097748031,
+        "lat": 42.2186248824182
+    }
+},
+{
+    "number": 4850,
+    "name": "CRTA VELLA DE MADRID, S/N (Bajando)",
+    "location": {
+        "lng": -8.6814384813681,
+        "lat": 42.2163241672586
+    }
+},
+{
+    "number": 4860,
+    "name": "Ctra Venda, 364",
+    "location": {
+        "lng": -8.7030314400542,
+        "lat": 42.1826620163621
+    }
+},
+{
+    "number": 4870,
+    "name": "Ctra Venda, 1",
+    "location": {
+        "lng": -8.71288328566813,
+        "lat": 42.1923690116257
+    }
+},
+{
+    "number": 4880,
+    "name": "Ctra Venda,240",
+    "location": {
+        "lng": -8.71153432234765,
+        "lat": 42.188051544089
+    }
+},
+{
+    "number": 4890,
+    "name": "Ctra Venda, 330",
+    "location": {
+        "lng": -8.70907231443785,
+        "lat": 42.1848660544456
+    }
+},
+{
+    "number": 4900,
+    "name": "Ctra Venda, 37",
+    "location": {
+        "lng": -8.71143698875295,
+        "lat": 42.188150370311
+    }
+},
+{
+    "number": 4910,
+    "name": "Ctra Venda, 4",
+    "location": {
+        "lng": -8.71298041989052,
+        "lat": 42.1923152159412
+    }
+},
+{
+    "number": 4920,
+    "name": "Ctra Venda, 65",
+    "location": {
+        "lng": -8.70844461087833,
+        "lat": 42.185251739
+    }
+},
+{
+    "number": 4930,
+    "name": "Devesa,(AAVV)",
+    "location": {
+        "lng": -8.66902169033276,
+        "lat": 42.2461001226549
+    }
+},
+{
+    "number": 4940,
+    "name": "Devesa, 50 (CRUCE ZOO)",
+    "location": {
+        "lng": -8.67279280618106,
+        "lat": 42.2452643410332
+    }
+},
+{
+    "number": 4950,
+    "name": "Devesa,S/N (AAVV)",
+    "location": {
+        "lng": -8.669393092365,
+        "lat": 42.2459210663223
+    }
+},
+{
+    "number": 4960,
+    "name": "Dr. Corbal, 123",
+    "location": {
+        "lng": -8.69701721530978,
+        "lat": 42.256111453238
+    }
+},
+{
+    "number": 4970,
+    "name": "Dr. Corbal, 126",
+    "location": {
+        "lng": -8.6966349343995,
+        "lat": 42.2558762784872
+    }
+},
+{
+    "number": 4980,
+    "name": "A Guia (Dr. Corbal,152)",
+    "location": {
+        "lng": -8.69713265005307,
+        "lat": 42.2579580566232
+    }
+},
+{
+    "number": 5000,
+    "name": "Dr. Corbal, 8",
+    "location": {
+        "lng": -8.69610792898142,
+        "lat": 42.250272939917
+    }
+},
+{
+    "number": 5010,
+    "name": "Dr. Corbal, 93",
+    "location": {
+        "lng": -8.69805000422291,
+        "lat": 42.2540427177917
+    }
+},
+{
+    "number": 5020,
+    "name": "Dr. Corbal, 90",
+    "location": {
+        "lng": -8.69771941037865,
+        "lat": 42.2539337713295
+    }
+},
+{
+    "number": 5030,
+    "name": "Encarnación",
+    "location": {
+        "lng": -8.66469288050244,
+        "lat": 42.2724040473102
+    }
+},
+{
+    "number": 5040,
+    "name": "Entrada a Salgueira, 3",
+    "location": {
+        "lng": -8.7174242624575,
+        "lat": 42.2224617048224
+    }
+},
+{
+    "number": 5050,
+    "name": "Estación de Buses",
+    "location": {
+        "lng": -8.70953867199054,
+        "lat": 42.2242793213787
+    }
+},
+{
+    "number": 5060,
+    "name": "ESTADIO DE BALAIDOS",
+    "location": {
+        "lng": -8.73966287746192,
+        "lat": 42.2127063347279
+    }
+},
+{
+    "number": 5070,
+    "name": "Rua Estrada (Club Jubilados)",
+    "location": {
+        "lng": -8.74103616826126,
+        "lat": 42.2205630236236
+    }
+},
+{
+    "number": 5090,
+    "name": "Rua Estrada, 1",
+    "location": {
+        "lng": -8.73884413102359,
+        "lat": 42.2202968713053
+    }
+},
+{
+    "number": 5130,
+    "name": "Falcoa, 41",
+    "location": {
+        "lng": -8.72223577388646,
+        "lat": 42.2047668585429
+    }
+},
+{
+    "number": 5140,
+    "name": "Falcoa, 15",
+    "location": {
+        "lng": -8.72090917855374,
+        "lat": 42.2072944435103
+    }
+},
+{
+    "number": 5150,
+    "name": "Rua do Macal, 8",
+    "location": {
+        "lng": -8.72384816128423,
+        "lat": 42.2023029899976
+    }
+},
+{
+    "number": 5160,
+    "name": "Falcoa, 26",
+    "location": {
+        "lng": -8.72293804864381,
+        "lat": 42.2048406073063
+    }
+},
+{
+    "number": 5170,
+    "name": "Figueiras,(PRAZA DA FEIRA)",
+    "location": {
+        "lng": -8.66186644017095,
+        "lat": 42.2275891967368
+    }
+},
+{
+    "number": 5180,
+    "name": "Figueiras, 96",
+    "location": {
+        "lng": -8.66583003624157,
+        "lat": 42.2246737336361
+    }
+},
+{
+    "number": 5190,
+    "name": "Figueiras,122",
+    "location": {
+        "lng": -8.66334924890021,
+        "lat": 42.2263326633044
+    }
+},
+{
+    "number": 5200,
+    "name": "Figueiras,138",
+    "location": {
+        "lng": -8.66120495544338,
+        "lat": 42.2277853860174
+    }
+},
+{
+    "number": 5210,
+    "name": "Figueiras,139",
+    "location": {
+        "lng": -8.65846314890213,
+        "lat": 42.2290651702758
+    }
+},
+{
+    "number": 5220,
+    "name": "Figueiras, 190",
+    "location": {
+        "lng": -8.65807429824008,
+        "lat": 42.2292621525443
+    }
+},
+{
+    "number": 5230,
+    "name": "FIGUEIRAS, 215",
+    "location": {
+        "lng": -8.65383573520213,
+        "lat": 42.2305373561559
+    }
+},
+{
+    "number": 5240,
+    "name": "Figueiras, 254 Esq. Cmño Molais, 1",
+    "location": {
+        "lng": -8.65399292045816,
+        "lat": 42.230186581675
+    }
+},
+{
+    "number": 5250,
+    "name": "Figueiras,27",
+    "location": {
+        "lng": -8.66741426932937,
+        "lat": 42.2229671229538
+    }
+},
+{
+    "number": 5260,
+    "name": "Figueiras,28",
+    "location": {
+        "lng": -8.66783926181082,
+        "lat": 42.2227972325371
+    }
+},
+{
+    "number": 5270,
+    "name": "Figueiras,65",
+    "location": {
+        "lng": -8.66593956699265,
+        "lat": 42.2245839887078
+    }
+},
+{
+    "number": 5280,
+    "name": "Figueiras, 91",
+    "location": {
+        "lng": -8.6634949477393,
+        "lat": 42.2262790523602
+    }
+},
+{
+    "number": 5290,
+    "name": "Avda Florida (M. de Castro)",
+    "location": {
+        "lng": -8.74151476926978,
+        "lat": 42.2148990769495
+    }
+},
+{
+    "number": 5300,
+    "name": "Avda Florida, 115",
+    "location": {
+        "lng": -8.74115479438888,
+        "lat": 42.214970316923
+    }
+},
+{
+    "number": 5310,
+    "name": "Avda Florida, 140",
+    "location": {
+        "lng": -8.75039428335906,
+        "lat": 42.2081999487074
+    }
+},
+{
+    "number": 5320,
+    "name": "Avda Florida, 143",
+    "location": {
+        "lng": -8.74348867791694,
+        "lat": 42.2133544036041
+    }
+},
+{
+    "number": 5330,
+    "name": "Avda Florida, 19",
+    "location": {
+        "lng": -8.73476305068228,
+        "lat": 42.2192157514061
+    }
+},
+{
+    "number": 5340,
+    "name": "Avda Florida, 199",
+    "location": {
+        "lng": -8.74995402812105,
+        "lat": 42.208289054624
+    }
+},
+{
+    "number": 5350,
+    "name": "Avda Florida, 40",
+    "location": {
+        "lng": -8.73857978069512,
+        "lat": 42.216819799709
+    }
+},
+{
+    "number": 5360,
+    "name": "AVDA FLORIDA, 70",
+    "location": {
+        "lng": -8.7442901376252,
+        "lat": 42.2128968651885
+    }
+},
+{
+    "number": 5370,
+    "name": "Avda Florida, 69",
+    "location": {
+        "lng": -8.73834939225298,
+        "lat": 42.2168643067292
+    }
+},
+{
+    "number": 5380,
+    "name": "Avda Florida, 8",
+    "location": {
+        "lng": -8.73439949224272,
+        "lat": 42.2197733072437
+    }
+},
+{
+    "number": 5390,
+    "name": "Rua Manuel Lago Lago (Fragoselo)",
+    "location": {
+        "lng": -8.76177645769817,
+        "lat": 42.1795746545503
+    }
+},
+{
+    "number": 5400,
+    "name": "Fragoso, 99",
+    "location": {
+        "lng": -8.73781832306917,
+        "lat": 42.2134406614163
+    }
+},
+{
+    "number": 5410,
+    "name": "Fragoso,12",
+    "location": {
+        "lng": -8.73330086708617,
+        "lat": 42.2199959194891
+    }
+},
+{
+    "number": 5420,
+    "name": "FRAGOSO, 15",
+    "location": {
+        "lng": -8.73338541791308,
+        "lat": 42.2194287129699
+    }
+},
+{
+    "number": 5430,
+    "name": "Fragoso, 38",
+    "location": {
+        "lng": -8.73476763262433,
+        "lat": 42.2174865334907
+    }
+},
+{
+    "number": 5440,
+    "name": "Fragoso, 45",
+    "location": {
+        "lng": -8.73431169198042,
+        "lat": 42.2175935557336
+    }
+},
+{
+    "number": 5450,
+    "name": "Fragoso, 54",
+    "location": {
+        "lng": -8.73634167861966,
+        "lat": 42.215463719862
+    }
+},
+{
+    "number": 5460,
+    "name": "Fragoso, 73",
+    "location": {
+        "lng": -8.73619327916121,
+        "lat": 42.2150040522878
+    }
+},
+{
+    "number": 5470,
+    "name": "Fragoso, 86",
+    "location": {
+        "lng": -8.73842813324779,
+        "lat": 42.213379007942
+    }
+},
+{
+    "number": 5480,
+    "name": "Crta San Xoan, 25 (Freixo)",
+    "location": {
+        "lng": -8.74926611893063,
+        "lat": 42.1858795490388
+    }
+},
+{
+    "number": 5490,
+    "name": "Garcia Barbón (Calzada)",
+    "location": {
+        "lng": -8.70701201642061,
+        "lat": 42.2416011613073
+    }
+},
+{
+    "number": 5500,
+    "name": "Garcia Barbón,126",
+    "location": {
+        "lng": -8.7070135989643,
+        "lat": 42.2412589236619
+    }
+},
+{
+    "number": 5510,
+    "name": "Garcia Barbón, 127",
+    "location": {
+        "lng": -8.71026536662685,
+        "lat": 42.2383581243955
+    }
+},
+{
+    "number": 5520,
+    "name": "GARCIA BARBÓN, 7",
+    "location": {
+        "lng": -8.7187318737608,
+        "lat": 42.2374605380507
+    }
+},
+{
+    "number": 5530,
+    "name": "Garcia Barbón, 16",
+    "location": {
+        "lng": -8.71882893513502,
+        "lat": 42.2371815785036
+    }
+},
+{
+    "number": 5540,
+    "name": "Garcia Barbón, 28",
+    "location": {
+        "lng": -8.71657283822598,
+        "lat": 42.2367347167501
+    }
+},
+{
+    "number": 5560,
+    "name": "Garcia Barbón, 60",
+    "location": {
+        "lng": -8.71306967019132,
+        "lat": 42.2368521005919
+    }
+},
+{
+    "number": 5570,
+    "name": "Garcia Barbón, 89",
+    "location": {
+        "lng": -8.71356600942735,
+        "lat": 42.2369794296406
+    }
+},
+{
+    "number": 5580,
+    "name": "Garcia Barbón, 90",
+    "location": {
+        "lng": -8.70974205704316,
+        "lat": 42.2383297828978
+    }
+},
+{
+    "number": 5590,
+    "name": "Avda da Ponte (Grupo S. Gorxal)",
+    "location": {
+        "lng": -8.6704226016171,
+        "lat": 42.2130147306433
+    }
+},
+{
+    "number": 5600,
+    "name": "Gran Vía, 105",
+    "location": {
+        "lng": -8.72111917364732,
+        "lat": 42.2256590043387
+    }
+},
+{
+    "number": 5610,
+    "name": "Gran Vía, 12",
+    "location": {
+        "lng": -8.71730256524588,
+        "lat": 42.2334491912668
+    }
+},
+{
+    "number": 5620,
+    "name": "Gran Vía, 142",
+    "location": {
+        "lng": -8.72618367376845,
+        "lat": 42.2224919439266
+    }
+},
+{
+    "number": 5630,
+    "name": "Gran Via, 151",
+    "location": {
+        "lng": -8.72468308755127,
+        "lat": 42.2228305968603
+    }
+},
+{
+    "number": 5640,
+    "name": "Gran Vía, 182",
+    "location": {
+        "lng": -8.73095832636202,
+        "lat": 42.2209451299744
+    }
+},
+{
+    "number": 5650,
+    "name": "Gran Vía, 185",
+    "location": {
+        "lng": -8.72918069331594,
+        "lat": 42.2209139299485
+    }
+},
+{
+    "number": 5660,
+    "name": "Gran Vía, 25 (Corte Inglés)",
+    "location": {
+        "lng": -8.71745744249746,
+        "lat": 42.2321796738732
+    }
+},
+{
+    "number": 5670,
+    "name": "Gran Vía, 46",
+    "location": {
+        "lng": -8.71871893140838,
+        "lat": 42.2310749883712
+    }
+},
+{
+    "number": 5680,
+    "name": "Gran Vía, 66",
+    "location": {
+        "lng": -8.72019705403542,
+        "lat": 42.2284127133248
+    }
+},
+{
+    "number": 5690,
+    "name": "Gran Vía, 85",
+    "location": {
+        "lng": -8.72066488473855,
+        "lat": 42.2267476721207
+    }
+},
+{
+    "number": 5700,
+    "name": "Gran Vía, 98",
+    "location": {
+        "lng": -8.72157731992596,
+        "lat": 42.2259303082861
+    }
+},
+{
+    "number": 5710,
+    "name": "Gregorio Espino, 24",
+    "location": {
+        "lng": -8.70735635826771,
+        "lat": 42.2300288557873
+    }
+},
+{
+    "number": 5720,
+    "name": "Gregorio Espino,33",
+    "location": {
+        "lng": -8.70688294846853,
+        "lat": 42.2301987687908
+    }
+},
+{
+    "number": 5730,
+    "name": "GREGORIO ESPINO, 42",
+    "location": {
+        "lng": -8.70799498003675,
+        "lat": 42.2281931810731
+    }
+},
+{
+    "number": 5740,
+    "name": "Gregorio Espino,57",
+    "location": {
+        "lng": -8.70779129768191,
+        "lat": 42.227688305281
+    }
+},
+{
+    "number": 5750,
+    "name": "GREGORIO ESPINO, 79",
+    "location": {
+        "lng": -8.70868414610524,
+        "lat": 42.2258983049104
+    }
+},
+{
+    "number": 5760,
+    "name": "CRTA DE VALADARES, 377",
+    "location": {
+        "lng": -8.72329079624627,
+        "lat": 42.1692569873587
+    }
+},
+{
+    "number": 5770,
+    "name": "Crta Valladares, 310 (Groño)",
+    "location": {
+        "lng": -8.72354574526735,
+        "lat": 42.1690954851096
+    }
+},
+{
+    "number": 5790,
+    "name": "HOSPITAL DO MEIXOEIRO",
+    "location": {
+        "lng": -8.68482382213589,
+        "lat": 42.2142530362546
+    }
+},
+{
+    "number": 5800,
+    "name": "Jenaro de la Fuente, 33",
+    "location": {
+        "lng": -8.70310869849656,
+        "lat": 42.2323145714277
+    }
+},
+{
+    "number": 5810,
+    "name": "Jenaro de la Fuente,10",
+    "location": {
+        "lng": -8.70573423879407,
+        "lat": 42.2322582891912
+    }
+},
+{
+    "number": 5820,
+    "name": "Jenaro de la Fuente,22",
+    "location": {
+        "lng": -8.7036067929869,
+        "lat": 42.2320546740903
+    }
+},
+{
+    "number": 5830,
+    "name": "JENARO DE LA FUENTE, 11",
+    "location": {
+        "lng": -8.70557425850019,
+        "lat": 42.2324560190968
+    }
+},
+{
+    "number": 5840,
+    "name": "Lagoa (esq. Camiño do Balde).",
+    "location": {
+        "lng": -8.7027888759769,
+        "lat": 42.2013317330885
+    }
+},
+{
+    "number": 5850,
+    "name": "Lagoa,S/N (S)",
+    "location": {
+        "lng": -8.70327406720559,
+        "lat": 42.2011888857407
+    }
+},
+{
+    "number": 5860,
+    "name": "BAIXADA A LAXE, 69",
+    "location": {
+        "lng": -8.71574108297605,
+        "lat": 42.2168105385191
+    }
+},
+{
+    "number": 5870,
+    "name": "Lopez Mora, 12",
+    "location": {
+        "lng": -8.73132202717588,
+        "lat": 42.2263498159121
+    }
+},
+{
+    "number": 5880,
+    "name": "Lopez Mora, 21",
+    "location": {
+        "lng": -8.73161923954631,
+        "lat": 42.2268098369639
+    }
+},
+{
+    "number": 5890,
+    "name": "LOPEZ MORA, 86",
+    "location": {
+        "lng": -8.73218893309633,
+        "lat": 42.2227402802866
+    }
+},
+{
+    "number": 5900,
+    "name": "Macal, 62",
+    "location": {
+        "lng": -8.72190267848189,
+        "lat": 42.1987137353105
+    }
+},
+{
+    "number": 5910,
+    "name": "Macal, 90",
+    "location": {
+        "lng": -8.72136364009241,
+        "lat": 42.196478833344
+    }
+},
+{
+    "number": 5920,
+    "name": "Macal (CRUCE CARNEIRAS)",
+    "location": {
+        "lng": -8.72095983683507,
+        "lat": 42.1963787816032
+    }
+},
+{
+    "number": 5930,
+    "name": "Falcoa, 3",
+    "location": {
+        "lng": -8.72331166932426,
+        "lat": 42.202499839238
+    }
+},
+{
+    "number": 5940,
+    "name": "Macal, 39",
+    "location": {
+        "lng": -8.72158878205745,
+        "lat": 42.1984788071897
+    }
+},
+{
+    "number": 5950,
+    "name": "Maestro Goldar,62",
+    "location": {
+        "lng": -8.72648075978067,
+        "lat": 42.2072538179409
+    }
+},
+{
+    "number": 5960,
+    "name": "Maestro Goldar,77",
+    "location": {
+        "lng": -8.73034802625609,
+        "lat": 42.2065874876112
+    }
+},
+{
+    "number": 5970,
+    "name": "Maestro Goldar, 96",
+    "location": {
+        "lng": -8.72984989631741,
+        "lat": 42.2069285600538
+    }
+},
+{
+    "number": 5980,
+    "name": "Maestro Goldar, 35",
+    "location": {
+        "lng": -8.72688184304089,
+        "lat": 42.2069485549316
+    }
+},
+{
+    "number": 6000,
+    "name": "Manuel Alvarez, 191",
+    "location": {
+        "lng": -8.68504569132456,
+        "lat": 42.2203509755662
+    }
+},
+{
+    "number": 6010,
+    "name": "Manuel Alvarez,39",
+    "location": {
+        "lng": -8.67444576724463,
+        "lat": 42.2231674136679
+    }
+},
+{
+    "number": 6020,
+    "name": "Manuel Alvarez,58",
+    "location": {
+        "lng": -8.68202151975084,
+        "lat": 42.2232787188151
+    }
+},
+{
+    "number": 6030,
+    "name": "Manuel Alvarez, 96",
+    "location": {
+        "lng": -8.68508981860645,
+        "lat": 42.2212247165606
+    }
+},
+{
+    "number": 6040,
+    "name": "Manuel Alvarez,S/N",
+    "location": {
+        "lng": -8.67456545858902,
+        "lat": 42.2234559575014
+    }
+},
+{
+    "number": 6050,
+    "name": "Manuel Cominges, 18",
+    "location": {
+        "lng": -8.73746354416264,
+        "lat": 42.1996330128954
+    }
+},
+{
+    "number": 6060,
+    "name": "Manuel Cominges, 135",
+    "location": {
+        "lng": -8.72978486566444,
+        "lat": 42.1965980385123
+    }
+},
+{
+    "number": 6070,
+    "name": "Manuel Cominges, 17",
+    "location": {
+        "lng": -8.73620709881316,
+        "lat": 42.1991167657416
+    }
+},
+{
+    "number": 6080,
+    "name": "Manuel Cominges,64",
+    "location": {
+        "lng": -8.73220256495216,
+        "lat": 42.1977205023077
+    }
+},
+{
+    "number": 6090,
+    "name": "Manuel Cominges, 71",
+    "location": {
+        "lng": -8.73254239185693,
+        "lat": 42.1975591789139
+    }
+},
+{
+    "number": 6100,
+    "name": "Manuel Cominges, 80 (Esq. Cño do Outeiro",
+    "location": {
+        "lng": -8.73084361861425,
+        "lat": 42.1973840857064
+    }
+},
+{
+    "number": 6110,
+    "name": "Manuel Costas Bastos, 53",
+    "location": {
+        "lng": -8.66911588220614,
+        "lat": 42.2437317238595
+    }
+},
+{
+    "number": 6120,
+    "name": "Manuel COSTAS,38",
+    "location": {
+        "lng": -8.66951703224325,
+        "lat": 42.2430754160545
+    }
+},
+{
+    "number": 6130,
+    "name": "Marco, 105",
+    "location": {
+        "lng": -8.70721117705571,
+        "lat": 42.207179258925
+    }
+},
+{
+    "number": 6140,
+    "name": "Marco,S/N (COLEGIO)",
+    "location": {
+        "lng": -8.70676770796201,
+        "lat": 42.2071330946722
+    }
+},
+{
+    "number": 6150,
+    "name": "Crta de Marcosende, 233",
+    "location": {
+        "lng": -8.69116447031617,
+        "lat": 42.1606459100266
+    }
+},
+{
+    "number": 6160,
+    "name": "Crta de Marcosende, 150",
+    "location": {
+        "lng": -8.6912259152059,
+        "lat": 42.1604569391325
+    }
+},
+{
+    "number": 6180,
+    "name": "Marín (S. Francisco)",
+    "location": {
+        "lng": -8.75372842948042,
+        "lat": 42.2184294235059
+    }
+},
+{
+    "number": 6187,
+    "name": "Martin Echegaray",
+    "location": {
+        "lng": -8.74214633049579,
+        "lat": 42.2151706896691
+    }
+},
+{
+    "number": 6190,
+    "name": "Martinez Garrido,106",
+    "location": {
+        "lng": -8.70650718334509,
+        "lat": 42.2249831133486
+    }
+},
+{
+    "number": 6200,
+    "name": "Martinez Garrido,11",
+    "location": {
+        "lng": -8.69947368297931,
+        "lat": 42.2291348653469
+    }
+},
+{
+    "number": 6210,
+    "name": "Martinez Garrido, 16",
+    "location": {
+        "lng": -8.70008778491437,
+        "lat": 42.2286861529065
+    }
+},
+{
+    "number": 6220,
+    "name": "Martinez Garrido,45",
+    "location": {
+        "lng": -8.70399714687127,
+        "lat": 42.2256701584503
+    }
+},
+{
+    "number": 6230,
+    "name": "Martinez Garrido,69",
+    "location": {
+        "lng": -8.70612227535179,
+        "lat": 42.2246939239953
+    }
+},
+{
+    "number": 6240,
+    "name": "Martinez Garrido,77",
+    "location": {
+        "lng": -8.70803779889346,
+        "lat": 42.2241584299131
+    }
+},
+{
+    "number": 6250,
+    "name": "Martinez Garrido,80",
+    "location": {
+        "lng": -8.70299764421315,
+        "lat": 42.2265952336525
+    }
+},
+{
+    "number": 6260,
+    "name": "ENTRADA DA BALSA, 15 (Matama)",
+    "location": {
+        "lng": -8.74073626669773,
+        "lat": 42.199631445455
+    }
+},
+{
+    "number": 6280,
+    "name": "Rua Molais,116 (GRILEIRA)",
+    "location": {
+        "lng": -8.65325672067016,
+        "lat": 42.2238168501608
+    }
+},
+{
+    "number": 6290,
+    "name": "Muiños",
+    "location": {
+        "lng": -8.76993216823147,
+        "lat": 42.2018282002062
+    }
+},
+{
+    "number": 6300,
+    "name": "A LAXE",
+    "location": {
+        "lng": -8.72597976135319,
+        "lat": 42.2404952052653
+    }
+},
+{
+    "number": 6310,
+    "name": "O Feixón, 60",
+    "location": {
+        "lng": -8.61688081524573,
+        "lat": 42.2618250469477
+    }
+},
+{
+    "number": 6320,
+    "name": "O Feixón, S/N",
+    "location": {
+        "lng": -8.61642232546271,
+        "lat": 42.2614542559276
+    }
+},
+{
+    "number": 6360,
+    "name": "Pablo Iglesias,(COLEGIO)",
+    "location": {
+        "lng": -8.74377833214905,
+        "lat": 42.2111935125056
+    }
+},
+{
+    "number": 6370,
+    "name": "PABLO IGLESIAS, (RIO)",
+    "location": {
+        "lng": -8.7449871507593,
+        "lat": 42.2100704032051
+    }
+},
+{
+    "number": 6380,
+    "name": "Pablo Iglesias, 10",
+    "location": {
+        "lng": -8.74339415742719,
+        "lat": 42.2115439042491
+    }
+},
+{
+    "number": 6390,
+    "name": "Pablo Iglesias,20",
+    "location": {
+        "lng": -8.74532662881282,
+        "lat": 42.2102873108378
+    }
+},
+{
+    "number": 6420,
+    "name": "Paseo de Alfonso XII",
+    "location": {
+        "lng": -8.728451695128,
+        "lat": 42.2361419994579
+    }
+},
+{
+    "number": 6430,
+    "name": "PASEO DE ALFONSO XII,15",
+    "location": {
+        "lng": -8.72824695236902,
+        "lat": 42.2361054893449
+    }
+},
+{
+    "number": 6440,
+    "name": "Peinador (Cotogrande)",
+    "location": {
+        "lng": -8.63507948621713,
+        "lat": 42.2240216703165
+    }
+},
+{
+    "number": 6450,
+    "name": "Alameda Suarez Llanos (Bouzas).",
+    "location": {
+        "lng": -8.75316853167458,
+        "lat": 42.2243364159147
+    }
+},
+{
+    "number": 6460,
+    "name": "Pescadores,10",
+    "location": {
+        "lng": -8.75251611670091,
+        "lat": 42.2248123496682
+    }
+},
+{
+    "number": 6470,
+    "name": "Pi y Margall,102",
+    "location": {
+        "lng": -8.73228148212767,
+        "lat": 42.2287117305954
+    }
+},
+{
+    "number": 6480,
+    "name": "Pi y Margall,141",
+    "location": {
+        "lng": -8.73214527027998,
+        "lat": 42.2285042659842
+    }
+},
+{
+    "number": 6490,
+    "name": "Pi y Margall, 32",
+    "location": {
+        "lng": -8.72986719047448,
+        "lat": 42.234154931826
+    }
+},
+{
+    "number": 6500,
+    "name": "Pi y Margall, 51",
+    "location": {
+        "lng": -8.729928899587,
+        "lat": 42.2338938922273
+    }
+},
+{
+    "number": 6510,
+    "name": "Pi y Margall, 86",
+    "location": {
+        "lng": -8.73174963103337,
+        "lat": 42.2306288477605
+    }
+},
+{
+    "number": 6520,
+    "name": "Pi y Margall, 93",
+    "location": {
+        "lng": -8.73092999718268,
+        "lat": 42.2316356434169
+    }
+},
+{
+    "number": 6530,
+    "name": "Pintor Laxeiro, 6",
+    "location": {
+        "lng": -8.72972247586521,
+        "lat": 42.2226174153205
+    }
+},
+{
+    "number": 6550,
+    "name": "Pizarro, 8 (Hospital Xeral)",
+    "location": {
+        "lng": -8.71746385236291,
+        "lat": 42.2298920698273
+    }
+},
+{
+    "number": 6560,
+    "name": "Pizarro,32",
+    "location": {
+        "lng": -8.71184746338374,
+        "lat": 42.2311029727739
+    }
+},
+{
+    "number": 6570,
+    "name": "Pizarro, 65",
+    "location": {
+        "lng": -8.71271878045297,
+        "lat": 42.2313753485194
+    }
+},
+{
+    "number": 6580,
+    "name": "PIZARRO, 9",
+    "location": {
+        "lng": -8.71805741401384,
+        "lat": 42.2299475678474
+    }
+},
+{
+    "number": 6587,
+    "name": "POLICARPO SANZ, 16",
+    "location": {
+        "lng": -8.7238029385743,
+        "lat": 42.2374638482156
+    }
+},
+{
+    "number": 6590,
+    "name": "POLICARPO SANZ, 12",
+    "location": {
+        "lng": -8.72432573832049,
+        "lat": 42.2376092071172
+    }
+},
+{
+    "number": 6600,
+    "name": "POLICARPO SANZ,15 (Casa das Artes)",
+    "location": {
+        "lng": -8.72294844328909,
+        "lat": 42.2377319795578
+    }
+},
+{
+    "number": 6620,
+    "name": "POLICARPO SANZ, 40",
+    "location": {
+        "lng": -8.72113290059461,
+        "lat": 42.2374303721084
+    }
+},
+{
+    "number": 6640,
+    "name": "Porriño (Ambulatorio)",
+    "location": {
+        "lng": -8.75277477749873,
+        "lat": 42.2149959340774
+    }
+},
+{
+    "number": 6650,
+    "name": "Porriño (Instituto)",
+    "location": {
+        "lng": -8.75293091197862,
+        "lat": 42.2153475200574
+    }
+},
+{
+    "number": 6660,
+    "name": "PORTA DO SOL",
+    "location": {
+        "lng": -8.72489006093065,
+        "lat": 42.2379618096238
+    }
+},
+{
+    "number": 6670,
+    "name": "Crta da Venda, 109 (Porto).",
+    "location": {
+        "lng": -8.70308218627553,
+        "lat": 42.1831394895823
+    }
+},
+{
+    "number": 6680,
+    "name": "Portoloureiro, 24",
+    "location": {
+        "lng": -8.71848522494619,
+        "lat": 42.2072885236507
+    }
+},
+{
+    "number": 6690,
+    "name": "Portoloureiro,5 4",
+    "location": {
+        "lng": -8.71550451627946,
+        "lat": 42.2047233515938
+    }
+},
+{
+    "number": 6700,
+    "name": "Portoloureiro,43",
+    "location": {
+        "lng": -8.71535919355318,
+        "lat": 42.2047139848627
+    }
+},
+{
+    "number": 6720,
+    "name": "Portoloureiro, 17",
+    "location": {
+        "lng": -8.71818213270116,
+        "lat": 42.2073418183132
+    }
+},
+{
+    "number": 6730,
+    "name": "Rua do Couto, 29 (Pouleira).",
+    "location": {
+        "lng": -8.69556819916387,
+        "lat": 42.1995475482675
+    }
+},
+{
+    "number": 6740,
+    "name": "VISTA DO MAR, 95 (Poulo).",
+    "location": {
+        "lng": -8.69111122987326,
+        "lat": 42.2434327849694
+    }
+},
+{
+    "number": 6750,
+    "name": "Avda de Samil, (Praia da Fonte)",
+    "location": {
+        "lng": -8.77395861406409,
+        "lat": 42.2216052728294
+    }
+},
+{
+    "number": 6760,
+    "name": "Crta Canido, (Praia das Barcas)",
+    "location": {
+        "lng": -8.78197007146182,
+        "lat": 42.2019237471055
+    }
+},
+{
+    "number": 6780,
+    "name": "AVDA DE SAMIL (Dunas)",
+    "location": {
+        "lng": -8.77472146053975,
+        "lat": 42.2101326125488
+    }
+},
+{
+    "number": 6790,
+    "name": "AVDA DE SAMIL (Heladería)",
+    "location": {
+        "lng": -8.77462262733279,
+        "lat": 42.2137620022463
+    }
+},
+{
+    "number": 6800,
+    "name": "AVDA DE SAMIL (Camaleón)",
+    "location": {
+        "lng": -8.77496363711566,
+        "lat": 42.2156089847108
+    }
+},
+{
+    "number": 6810,
+    "name": "AVDA DE SAMIL (Parking)",
+    "location": {
+        "lng": -8.7760637082311,
+        "lat": 42.2074062948186
+    }
+},
+{
+    "number": 6820,
+    "name": "AVDA DE SAMIL (Polideportivo)",
+    "location": {
+        "lng": -8.77704099416682,
+        "lat": 42.2033643138783
+    }
+},
+{
+    "number": 6830,
+    "name": "Praía do Vao",
+    "location": {
+        "lng": -8.79020887685217,
+        "lat": 42.1977060767462
+    }
+},
+{
+    "number": 6840,
+    "name": "PregalL 16",
+    "location": {
+        "lng": -8.61484705521146,
+        "lat": 42.263295274105
+    }
+},
+{
+    "number": 6850,
+    "name": "Pregal, 21",
+    "location": {
+        "lng": -8.61442236243768,
+        "lat": 42.2633478855647
+    }
+},
+{
+    "number": 6860,
+    "name": "PRAZA COMPOSTELA",
+    "location": {
+        "lng": -8.72243532829713,
+        "lat": 42.2391807646103
+    }
+},
+{
+    "number": 6880,
+    "name": "Pza. Cristo da Victoria",
+    "location": {
+        "lng": -8.7489189888424,
+        "lat": 42.2157531085382
+    }
+},
+{
+    "number": 6890,
+    "name": "Rua da Cruz, 36 (Praza)",
+    "location": {
+        "lng": -8.68627798642052,
+        "lat": 42.1990361827071
+    }
+},
+{
+    "number": 6900,
+    "name": "Rua da Cruz, 49",
+    "location": {
+        "lng": -8.68615712893626,
+        "lat": 42.1989818137299
+    }
+},
+{
+    "number": 6930,
+    "name": "PRAZA AMÉRICA,1",
+    "location": {
+        "lng": -8.73279601443691,
+        "lat": 42.2210124678611
+    }
+},
+{
+    "number": 6940,
+    "name": "PRAZA AMÉRICA,3",
+    "location": {
+        "lng": -8.73329348204971,
+        "lat": 42.2208515098625
+    }
+},
+{
+    "number": 6950,
+    "name": "PRAZA DE ESPAÑA",
+    "location": {
+        "lng": -8.71880569325158,
+        "lat": 42.229273925243
+    }
+},
+{
+    "number": 6955,
+    "name": "PRZA DE ESPAÑA (Kiosco)",
+    "location": {
+        "lng": -8.71998551598921,
+        "lat": 42.2296640842932
+    }
+},
+{
+    "number": 6960,
+    "name": "PRAZA DO REI",
+    "location": {
+        "lng": -8.72677290325882,
+        "lat": 42.2350482440475
+    }
+},
+{
+    "number": 6970,
+    "name": "PRAZA EUGENIO FADRIQUE, 10",
+    "location": {
+        "lng": -8.73544328188599,
+        "lat": 42.2242518951909
+    }
+},
+{
+    "number": 6980,
+    "name": "PRAZA EUGENIO FADRIQUE, 3",
+    "location": {
+        "lng": -8.73613337099862,
+        "lat": 42.2243975860609
+    }
+},
+{
+    "number": 6990,
+    "name": "PRAZA EUGENIO FADRIQUE, 9",
+    "location": {
+        "lng": -8.73596261842521,
+        "lat": 42.2241179952929
+    }
+},
+{
+    "number": 7000,
+    "name": "Pza. Fernando Católico",
+    "location": {
+        "lng": -8.7115845936108,
+        "lat": 42.2324442624156
+    }
+},
+{
+    "number": 7020,
+    "name": "Pza. Isabel la Católica, 2",
+    "location": {
+        "lng": -8.71203521081969,
+        "lat": 42.2313736353242
+    }
+},
+{
+    "number": 7030,
+    "name": "Pza. Manuel de Castro",
+    "location": {
+        "lng": -8.74010328019236,
+        "lat": 42.2128694481481
+    }
+},
+{
+    "number": 7040,
+    "name": "Crta de Miraflores, 3 (Praza)",
+    "location": {
+        "lng": -8.7102329331988,
+        "lat": 42.2184449344718
+    }
+},
+{
+    "number": 7050,
+    "name": "Pza. Miraflores, 1 (AAVV)",
+    "location": {
+        "lng": -8.70984310750195,
+        "lat": 42.2184079239786
+    }
+},
+{
+    "number": 7060,
+    "name": "Crta de Moledo, 70",
+    "location": {
+        "lng": -8.70397055337325,
+        "lat": 42.2102781579131
+    }
+},
+{
+    "number": 7070,
+    "name": "Crta de Moledo, 109",
+    "location": {
+        "lng": -8.70406793272818,
+        "lat": 42.2101793385509
+    }
+},
+{
+    "number": 7080,
+    "name": "Rua Rabadeira, 95",
+    "location": {
+        "lng": -8.65072894400848,
+        "lat": 42.2387597604577
+    }
+},
+{
+    "number": 7090,
+    "name": "RAMIRO PASCUAL, 108",
+    "location": {
+        "lng": -8.70650741774727,
+        "lat": 42.191875543951
+    }
+},
+{
+    "number": 7100,
+    "name": "Ramiro Pascual,16",
+    "location": {
+        "lng": -8.71966169282873,
+        "lat": 42.1951507434363
+    }
+},
+{
+    "number": 7110,
+    "name": "Ramiro Pascual, 30",
+    "location": {
+        "lng": -8.71658557085347,
+        "lat": 42.195422388368
+    }
+},
+{
+    "number": 7120,
+    "name": "Ramiro Pascual,33",
+    "location": {
+        "lng": -8.71672580114876,
+        "lat": 42.1957199468311
+    }
+},
+{
+    "number": 7130,
+    "name": "Ramiro Pascual,46",
+    "location": {
+        "lng": -8.71534779755109,
+        "lat": 42.1937531349637
+    }
+},
+{
+    "number": 7140,
+    "name": "Ramiro Pascual, 71",
+    "location": {
+        "lng": -8.71515486239188,
+        "lat": 42.193563521165
+    }
+},
+{
+    "number": 7150,
+    "name": "Ramiro Pascual,70",
+    "location": {
+        "lng": -8.71260452342549,
+        "lat": 42.1924133461476
+    }
+},
+{
+    "number": 7160,
+    "name": "Ramiro Pascual, 93",
+    "location": {
+        "lng": -8.7129067748552,
+        "lat": 42.1925311862554
+    }
+},
+{
+    "number": 7170,
+    "name": "Ramiro Pascual, 9 (Colegio)",
+    "location": {
+        "lng": -8.7193616082179,
+        "lat": 42.1953931838087
+    }
+},
+{
+    "number": 7190,
+    "name": "Ramón Nieto,1",
+    "location": {
+        "lng": -8.7006018901614,
+        "lat": 42.2309661088922
+    }
+},
+{
+    "number": 7200,
+    "name": "Ramón Nieto,125",
+    "location": {
+        "lng": -8.69446507858815,
+        "lat": 42.2310039726126
+    }
+},
+{
+    "number": 7210,
+    "name": "Ramón Nieto,136",
+    "location": {
+        "lng": -8.69179815807371,
+        "lat": 42.2296098592139
+    }
+},
+{
+    "number": 7220,
+    "name": "Ramón Nieto,173",
+    "location": {
+        "lng": -8.69149493692746,
+        "lat": 42.2296630827318
+    }
+},
+{
+    "number": 7230,
+    "name": "Ramón Nieto,200",
+    "location": {
+        "lng": -8.68772688981764,
+        "lat": 42.2294997828132
+    }
+},
+{
+    "number": 7240,
+    "name": "Ramón Nieto,252",
+    "location": {
+        "lng": -8.68512185843874,
+        "lat": 42.229411607174
+    }
+},
+{
+    "number": 7250,
+    "name": "Ramón Nieto, 275",
+    "location": {
+        "lng": -8.6846014357229,
+        "lat": 42.2295812991926
+    }
+},
+{
+    "number": 7260,
+    "name": "Ramón Nieto,312",
+    "location": {
+        "lng": -8.68147371393114,
+        "lat": 42.2295096157033
+    }
+},
+{
+    "number": 7270,
+    "name": "Ramón Nieto, 341",
+    "location": {
+        "lng": -8.68118954280926,
+        "lat": 42.2296889541198
+    }
+},
+{
+    "number": 7280,
+    "name": "Ramón Nieto, 355",
+    "location": {
+        "lng": -8.67814821192947,
+        "lat": 42.2285636738018
+    }
+},
+{
+    "number": 7290,
+    "name": "Ramón Nieto,360",
+    "location": {
+        "lng": -8.67862829280065,
+        "lat": 42.2282858215303
+    }
+},
+{
+    "number": 7300,
+    "name": "Ramón Nieto,394",
+    "location": {
+        "lng": -8.67392229630018,
+        "lat": 42.2242286809021
+    }
+},
+{
+    "number": 7310,
+    "name": "Ramón Nieto,406",
+    "location": {
+        "lng": -8.67234345533732,
+        "lat": 42.2231614304064
+    }
+},
+{
+    "number": 7320,
+    "name": "Ramón Nieto,479",
+    "location": {
+        "lng": -8.67339145458022,
+        "lat": 42.22421816493
+    }
+},
+{
+    "number": 7330,
+    "name": "Ramón Nieto,50",
+    "location": {
+        "lng": -8.69759248294727,
+        "lat": 42.2317958110427
+    }
+},
+{
+    "number": 7340,
+    "name": "Ramón Nieto,503",
+    "location": {
+        "lng": -8.67201554897171,
+        "lat": 42.2233045958701
+    }
+},
+{
+    "number": 7350,
+    "name": "Ramón Nieto,57",
+    "location": {
+        "lng": -8.69779850170827,
+        "lat": 42.2317963537481
+    }
+},
+{
+    "number": 7360,
+    "name": "Ramón Nieto,96",
+    "location": {
+        "lng": -8.69419376325716,
+        "lat": 42.230408829128
+    }
+},
+{
+    "number": 7370,
+    "name": "Ramón Nieto, 247 (ESCOLAS)",
+    "location": {
+        "lng": -8.68790261221978,
+        "lat": 42.229806477664
+    }
+},
+{
+    "number": 7380,
+    "name": "Raviso,8",
+    "location": {
+        "lng": -8.70695431476527,
+        "lat": 42.2200037223749
+    }
+},
+{
+    "number": 7390,
+    "name": "Raviso, 35",
+    "location": {
+        "lng": -8.70678451709971,
+        "lat": 42.2200393142576
+    }
+},
+{
+    "number": 7410,
+    "name": "BOUZAS",
+    "location": {
+        "lng": -8.753205874128,
+        "lat": 42.2269033168931
+    }
+},
+{
+    "number": 7420,
+    "name": "FALPERRA, 37",
+    "location": {
+        "lng": -8.72859014065611,
+        "lat": 42.2349444796078
+    }
+},
+{
+    "number": 7422,
+    "name": "Rosalia de Castro, 31",
+    "location": {
+        "lng": -8.71665211913247,
+        "lat": 42.2379777912102
+    }
+},
+{
+    "number": 7423,
+    "name": "ROSALIA DE CASTRO, 69",
+    "location": {
+        "lng": -8.71215468580292,
+        "lat": 42.2379215669098
+    }
+},
+{
+    "number": 7430,
+    "name": "Rua da Cruz, 1",
+    "location": {
+        "lng": -8.68458611481572,
+        "lat": 42.2023639216956
+    }
+},
+{
+    "number": 7440,
+    "name": "Rua da Cruz,16",
+    "location": {
+        "lng": -8.68493787772192,
+        "lat": 42.2005906229701
+    }
+},
+{
+    "number": 7450,
+    "name": "Rua da Cruz, 2",
+    "location": {
+        "lng": -8.68496465267223,
+        "lat": 42.2022118522639
+    }
+},
+{
+    "number": 7460,
+    "name": "Rua da Cruz, ,46",
+    "location": {
+        "lng": -8.68501229552874,
+        "lat": 42.1981050541299
+    }
+},
+{
+    "number": 7470,
+    "name": "Rua da Cruz, ,61",
+    "location": {
+        "lng": -8.68480268736577,
+        "lat": 42.1982395750555
+    }
+},
+{
+    "number": 7480,
+    "name": "Rua da Cruz, 19",
+    "location": {
+        "lng": -8.68474434187697,
+        "lat": 42.2005360529787
+    }
+},
+{
+    "number": 7490,
+    "name": "Rua do Carballal, 52",
+    "location": {
+        "lng": -8.68340354667587,
+        "lat": 42.194020715118
+    }
+},
+{
+    "number": 7500,
+    "name": "Rua do Carballal, 18",
+    "location": {
+        "lng": -8.684496051223,
+        "lat": 42.1965725434635
+    }
+},
+{
+    "number": 7540,
+    "name": "Rua do Tranvía, 104",
+    "location": {
+        "lng": -8.65929861300475,
+        "lat": 42.2265188489913
+    }
+},
+{
+    "number": 7590,
+    "name": "Rua do Tranvía,40",
+    "location": {
+        "lng": -8.66857972179522,
+        "lat": 42.224429529038
+    }
+},
+{
+    "number": 7600,
+    "name": "Rua dos Chans, 29",
+    "location": {
+        "lng": -8.67760072579145,
+        "lat": 42.1984537368985
+    }
+},
+{
+    "number": 7610,
+    "name": "Rua dos Chans, 47",
+    "location": {
+        "lng": -8.67773169940872,
+        "lat": 42.1960674016087
+    }
+},
+{
+    "number": 7620,
+    "name": "CHANS, 97",
+    "location": {
+        "lng": -8.67843159694885,
+        "lat": 42.1892605005127
+    }
+},
+{
+    "number": 7630,
+    "name": "Rua Salgueiro, 4",
+    "location": {
+        "lng": -8.66192021796765,
+        "lat": 42.243206393401
+    }
+},
+{
+    "number": 7640,
+    "name": "RABADEIRA,131",
+    "location": {
+        "lng": -8.65240107765125,
+        "lat": 42.2414667451544
+    }
+},
+{
+    "number": 7650,
+    "name": "RABADEIRA, 64",
+    "location": {
+        "lng": -8.65029114589296,
+        "lat": 42.2386143252995
+    }
+},
+{
+    "number": 7660,
+    "name": "Rua Rabadeira, 104",
+    "location": {
+        "lng": -8.6519320462677,
+        "lat": 42.2417625331004
+    }
+},
+{
+    "number": 7662,
+    "name": "Rua Recaré, 4",
+    "location": {
+        "lng": -8.68535432701226,
+        "lat": 42.2106519304446
+    }
+},
+{
+    "number": 7664,
+    "name": "Rua Recaré (Cruce Segade)",
+    "location": {
+        "lng": -8.68830239668912,
+        "lat": 42.2110382442331
+    }
+},
+{
+    "number": 7666,
+    "name": "Rua Recaré, 3",
+    "location": {
+        "lng": -8.6854452765468,
+        "lat": 42.2106341669477
+    }
+},
+{
+    "number": 7668,
+    "name": "Rua Recaré, 39",
+    "location": {
+        "lng": -8.68824217697916,
+        "lat": 42.2109660294125
+    }
+},
+{
+    "number": 7670,
+    "name": "Rua S. Cristobo, 6",
+    "location": {
+        "lng": -8.67125257179453,
+        "lat": 42.235199835694
+    }
+},
+{
+    "number": 7680,
+    "name": "Rua S. Cristobo,(Subida a Madroa)",
+    "location": {
+        "lng": -8.66950969770838,
+        "lat": 42.2408508249608
+    }
+},
+{
+    "number": 7690,
+    "name": "Rua S. Cristobo,11",
+    "location": {
+        "lng": -8.67133698700744,
+        "lat": 42.2352811347996
+    }
+},
+{
+    "number": 7700,
+    "name": "Rua S. Cristobo,30",
+    "location": {
+        "lng": -8.66927025205814,
+        "lat": 42.2365090689536
+    }
+},
+{
+    "number": 7710,
+    "name": "Rua S. Cristobo,41",
+    "location": {
+        "lng": -8.66944255764228,
+        "lat": 42.2360052089851
+    }
+},
+{
+    "number": 7720,
+    "name": "Rua S. Cristobo,80",
+    "location": {
+        "lng": -8.6691437595556,
+        "lat": 42.2407146750777
+    }
+},
+{
+    "number": 7730,
+    "name": "Rua Salgueiro, 24",
+    "location": {
+        "lng": -8.65811996861305,
+        "lat": 42.2412947930455
+    }
+},
+{
+    "number": 7740,
+    "name": "Rua Salgueiro, 23",
+    "location": {
+        "lng": -8.65819732306571,
+        "lat": 42.2417003095016
+    }
+},
+{
+    "number": 7750,
+    "name": "Rua Salgueiro, 1",
+    "location": {
+        "lng": -8.66137913064338,
+        "lat": 42.2432408233491
+    }
+},
+{
+    "number": 7760,
+    "name": "Camiños das Cunchadas (Monte)",
+    "location": {
+        "lng": -8.68122058527515,
+        "lat": 42.193384222325
+    }
+},
+{
+    "number": 7762,
+    "name": "Segade, 41",
+    "location": {
+        "lng": -8.69055101153963,
+        "lat": 42.2095312528591
+    }
+},
+{
+    "number": 7764,
+    "name": "Segade, 86 (LAVADERO)",
+    "location": {
+        "lng": -8.69044176140178,
+        "lat": 42.209575990275
+    }
+},
+{
+    "number": 7770,
+    "name": "S. Esteban de Negros,(BARRIO DA IGREXA)",
+    "location": {
+        "lng": -8.62029242097821,
+        "lat": 42.2570180047404
+    }
+},
+{
+    "number": 7780,
+    "name": "S. Esteban de Negros,24",
+    "location": {
+        "lng": -8.61851175754708,
+        "lat": 42.2587773380015
+    }
+},
+{
+    "number": 7790,
+    "name": "S. Esteban de Negros,72",
+    "location": {
+        "lng": -8.61983196218872,
+        "lat": 42.260258757088
+    }
+},
+{
+    "number": 7800,
+    "name": "S. Esteban de Negros,80",
+    "location": {
+        "lng": -8.61873272749537,
+        "lat": 42.2603361664991
+    }
+},
+{
+    "number": 7810,
+    "name": "S. Pedro de Sardoma,(IGREXA)",
+    "location": {
+        "lng": -8.71058586530164,
+        "lat": 42.2181035819473
+    }
+},
+{
+    "number": 7820,
+    "name": "SA do monte, ,20",
+    "location": {
+        "lng": -8.71090951829256,
+        "lat": 42.2029195921817
+    }
+},
+{
+    "number": 7830,
+    "name": "Rua do Sa, 74",
+    "location": {
+        "lng": -8.70767360745907,
+        "lat": 42.2030284793769
+    }
+},
+{
+    "number": 7840,
+    "name": "Sa do Monte, 71",
+    "location": {
+        "lng": -8.71093377250958,
+        "lat": 42.2031628266286
+    }
+},
+{
+    "number": 7850,
+    "name": "Crta de Sa, 59",
+    "location": {
+        "lng": -8.7082423924148,
+        "lat": 42.2031470101359
+    }
+},
+{
+    "number": 7860,
+    "name": "Severino Cobas, 73 (Rio)",
+    "location": {
+        "lng": -8.68933255901431,
+        "lat": 42.2254872951036
+    }
+},
+{
+    "number": 7870,
+    "name": "BAIXADA A PRAIZ, 4 (SAIANS)",
+    "location": {
+        "lng": -8.80188395151971,
+        "lat": 42.1670598250488
+    }
+},
+{
+    "number": 7880,
+    "name": "Salgueira, 106 (Grupo Sindical).",
+    "location": {
+        "lng": -8.71889145616685,
+        "lat": 42.2222311417553
+    }
+},
+{
+    "number": 7890,
+    "name": "CESAREO VAZQUEZ, 61 (San Miguel).",
+    "location": {
+        "lng": -8.8026957731399,
+        "lat": 42.1808501323316
+    }
+},
+{
+    "number": 7900,
+    "name": "San Paio (Cruce Cño. Quintela)",
+    "location": {
+        "lng": -8.76873399080866,
+        "lat": 42.2048699639044
+    }
+},
+{
+    "number": 7910,
+    "name": "San Paio (Igrexa)",
+    "location": {
+        "lng": -8.76727232981071,
+        "lat": 42.2077760832583
+    }
+},
+{
+    "number": 7920,
+    "name": "San Paio (Torreiro)",
+    "location": {
+        "lng": -8.76525204806745,
+        "lat": 42.2089608163076
+    }
+},
+{
+    "number": 7930,
+    "name": "San Paio, 194",
+    "location": {
+        "lng": -8.76527607703925,
+        "lat": 42.2090149039384
+    }
+},
+{
+    "number": 7940,
+    "name": "San Paio, 228",
+    "location": {
+        "lng": -8.76793210964297,
+        "lat": 42.2082097270719
+    }
+},
+{
+    "number": 7950,
+    "name": "San Paio, 250",
+    "location": {
+        "lng": -8.76931317583111,
+        "lat": 42.2048711293423
+    }
+},
+{
+    "number": 7960,
+    "name": "San Paio, 284",
+    "location": {
+        "lng": -8.77019928983141,
+        "lat": 42.2020719087951
+    }
+},
+{
+    "number": 7970,
+    "name": "San Paio, 53",
+    "location": {
+        "lng": -8.76062952658597,
+        "lat": 42.2139948597854
+    }
+},
+{
+    "number": 7980,
+    "name": "San Paio, 56",
+    "location": {
+        "lng": -8.76072644986542,
+        "lat": 42.2139950618723
+    }
+},
+{
+    "number": 7990,
+    "name": "San Paio, 76",
+    "location": {
+        "lng": -8.76124400939506,
+        "lat": 42.2116814925123
+    }
+},
+{
+    "number": 8000,
+    "name": "San Paio, 93 (Gándara)",
+    "location": {
+        "lng": -8.76115927243746,
+        "lat": 42.2116633034007
+    }
+},
+{
+    "number": 8010,
+    "name": "Sanjurjo Badía, 98",
+    "location": {
+        "lng": -8.70390782823765,
+        "lat": 42.2444662219813
+    }
+},
+{
+    "number": 8020,
+    "name": "Sanjurjo Badía, 121",
+    "location": {
+        "lng": -8.70055875404922,
+        "lat": 42.2469883169789
+    }
+},
+{
+    "number": 8030,
+    "name": "Sanjurjo Badía, 136",
+    "location": {
+        "lng": -8.70169447934785,
+        "lat": 42.2460095825951
+    }
+},
+{
+    "number": 8040,
+    "name": "Sanjurjo Badía, 195",
+    "location": {
+        "lng": -8.69636047469055,
+        "lat": 42.2495891261509
+    }
+},
+{
+    "number": 8050,
+    "name": "Sanjurjo Badía, 200",
+    "location": {
+        "lng": -8.69925092278855,
+        "lat": 42.2475072651667
+    }
+},
+{
+    "number": 8060,
+    "name": "Sanjurjo Badía, 71",
+    "location": {
+        "lng": -8.704275378557,
+        "lat": 42.2446022650707
+    }
+},
+{
+    "number": 8070,
+    "name": "Sanjurjo Badía, 97",
+    "location": {
+        "lng": -8.70211902742905,
+        "lat": 42.2459476409572
+    }
+},
+{
+    "number": 8080,
+    "name": "Sardoma,(AMBULATORIO)",
+    "location": {
+        "lng": -8.7158024581854,
+        "lat": 42.2161262041177
+    }
+},
+{
+    "number": 8090,
+    "name": "Sardoma,S/N (AMBULATORIO)",
+    "location": {
+        "lng": -8.71615859079528,
+        "lat": 42.2166674694491
+    }
+},
+{
+    "number": 8100,
+    "name": "Seoane, (BAJA)",
+    "location": {
+        "lng": -8.71035927987905,
+        "lat": 42.1610742214225
+    }
+},
+{
+    "number": 8110,
+    "name": "Seoane, (SUBE)",
+    "location": {
+        "lng": -8.71033532167289,
+        "lat": 42.1606868820385
+    }
+},
+{
+    "number": 8120,
+    "name": "Severino Cobas,37",
+    "location": {
+        "lng": -8.69430279100916,
+        "lat": 42.2250773423064
+    }
+},
+{
+    "number": 8130,
+    "name": "Severino Cobas, 49",
+    "location": {
+        "lng": -8.69132194341435,
+        "lat": 42.2256817973884
+    }
+},
+{
+    "number": 8140,
+    "name": "Severino Cobas,6",
+    "location": {
+        "lng": -8.69748427004856,
+        "lat": 42.2249506771437
+    }
+},
+{
+    "number": 8150,
+    "name": "Severino Cobas, 3",
+    "location": {
+        "lng": -8.69767261723011,
+        "lat": 42.2251583203354
+    }
+},
+{
+    "number": 8160,
+    "name": "Severino Cobas,92",
+    "location": {
+        "lng": -8.69430355365909,
+        "lat": 42.2247621208627
+    }
+},
+{
+    "number": 8170,
+    "name": "Severino Cobas, 140",
+    "location": {
+        "lng": -8.69003041818978,
+        "lat": 42.2252640225627
+    }
+},
+{
+    "number": 8180,
+    "name": "Ctra. Da Garrida-(Sobreira)",
+    "location": {
+        "lng": -8.70357652794489,
+        "lat": 42.1740352378633
+    }
+},
+{
+    "number": 8190,
+    "name": "Subida a Costa, (Colina)",
+    "location": {
+        "lng": -8.72270530255417,
+        "lat": 42.2146120012661
+    }
+},
+{
+    "number": 8200,
+    "name": "Subida a Costa, 21",
+    "location": {
+        "lng": -8.72289875692487,
+        "lat": 42.2147025325356
+    }
+},
+{
+    "number": 8210,
+    "name": "Subida a Costa,3",
+    "location": {
+        "lng": -8.72558984217571,
+        "lat": 42.2143757613369
+    }
+},
+{
+    "number": 8220,
+    "name": "Corredoira, 1(Esq. Parque de Castrelos).",
+    "location": {
+        "lng": -8.72667466927686,
+        "lat": 42.2140000809559
+    }
+},
+{
+    "number": 8230,
+    "name": "Rua dos Chans, 1",
+    "location": {
+        "lng": -8.67638191672989,
+        "lat": 42.1990447306358
+    }
+},
+{
+    "number": 8240,
+    "name": "Subida a Madroa,(URBANIZACION)",
+    "location": {
+        "lng": -8.6742894603378,
+        "lat": 42.2432691886083
+    }
+},
+{
+    "number": 8250,
+    "name": "Subida a Madroa,15",
+    "location": {
+        "lng": -8.67003942834632,
+        "lat": 42.2424104491146
+    }
+},
+{
+    "number": 8260,
+    "name": "Subida a Madroa,22",
+    "location": {
+        "lng": -8.67002716687465,
+        "lat": 42.2424374329228
+    }
+},
+{
+    "number": 8270,
+    "name": "Subida a Madroa,44",
+    "location": {
+        "lng": -8.67383857458079,
+        "lat": 42.2432949269802
+    }
+},
+{
+    "number": 8280,
+    "name": "Subida a Madroa,56",
+    "location": {
+        "lng": -8.67219735931855,
+        "lat": 42.245406743193
+    }
+},
+{
+    "number": 8282,
+    "name": "Subida a Mouteira, 6",
+    "location": {
+        "lng": -8.68602181147426,
+        "lat": 42.2067449766922
+    }
+},
+{
+    "number": 8284,
+    "name": "Subida Mouteira , 1",
+    "location": {
+        "lng": -8.68611845568063,
+        "lat": 42.2067992795276
+    }
+},
+{
+    "number": 8330,
+    "name": "Tomas Alonso,102",
+    "location": {
+        "lng": -8.74234275691821,
+        "lat": 42.2240424318637
+    }
+},
+{
+    "number": 8340,
+    "name": "Tomas Alonso,153",
+    "location": {
+        "lng": -8.74210099677795,
+        "lat": 42.2238977866294
+    }
+},
+{
+    "number": 8350,
+    "name": "Tomas Alonso,186",
+    "location": {
+        "lng": -8.74854814534952,
+        "lat": 42.2237229582724
+    }
+},
+{
+    "number": 8380,
+    "name": "Tomas Alonso,234",
+    "location": {
+        "lng": -8.75209670699652,
+        "lat": 42.224190003637
+    }
+},
+{
+    "number": 8390,
+    "name": "Tomas Alonso,251",
+    "location": {
+        "lng": -8.74884002981695,
+        "lat": 42.2234534056354
+    }
+},
+{
+    "number": 8400,
+    "name": "Tomas Alonso, 22",
+    "location": {
+        "lng": -8.73309143961705,
+        "lat": 42.2273806724141
+    }
+},
+{
+    "number": 8410,
+    "name": "Tomas Paredes,(S. FRANCISCO)",
+    "location": {
+        "lng": -8.75409113586608,
+        "lat": 42.2182410667723
+    }
+},
+{
+    "number": 8420,
+    "name": "Tomas Paredes,108",
+    "location": {
+        "lng": -8.75433680834945,
+        "lat": 42.2180614648532
+    }
+},
+{
+    "number": 8430,
+    "name": "Tomas Paredes,23",
+    "location": {
+        "lng": -8.75374703010208,
+        "lat": 42.2204649093772
+    }
+},
+{
+    "number": 8440,
+    "name": "Tomas Paredes,86",
+    "location": {
+        "lng": -8.75424248289584,
+        "lat": 42.2202227985852
+    }
+},
+{
+    "number": 8450,
+    "name": "Torrecedeira,(PARQUE)",
+    "location": {
+        "lng": -8.73224200817469,
+        "lat": 42.2314225588564
+    }
+},
+{
+    "number": 8460,
+    "name": "Torrecedeira, 105",
+    "location": {
+        "lng": -8.73395200261857,
+        "lat": 42.2273376386071
+    }
+},
+{
+    "number": 8470,
+    "name": "Torrecedeira,17",
+    "location": {
+        "lng": -8.73106225226106,
+        "lat": 42.2343828978461
+    }
+},
+{
+    "number": 8480,
+    "name": "Torrecedeira,81",
+    "location": {
+        "lng": -8.73289124527999,
+        "lat": 42.2297759043495
+    }
+},
+{
+    "number": 8490,
+    "name": "TRAVESIA DE VIGO, 202 (Carrefour)",
+    "location": {
+        "lng": -8.69493969428386,
+        "lat": 42.2445958398343
+    }
+},
+{
+    "number": 8500,
+    "name": "Tva de Vigo,105",
+    "location": {
+        "lng": -8.7037426524647,
+        "lat": 42.2383144518274
+    }
+},
+{
+    "number": 8510,
+    "name": "Tva de Vigo,124",
+    "location": {
+        "lng": -8.70361442355085,
+        "lat": 42.2385212671078
+    }
+},
+{
+    "number": 8520,
+    "name": "Tva de Vigo, 153",
+    "location": {
+        "lng": -8.70194735601398,
+        "lat": 42.2416961951723
+    }
+},
+{
+    "number": 8530,
+    "name": "Tva de Vigo,160",
+    "location": {
+        "lng": -8.70152098794533,
+        "lat": 42.2416680679103
+    }
+},
+{
+    "number": 8540,
+    "name": "TRAVESIA DE VIGO, 193",
+    "location": {
+        "lng": -8.69828753427704,
+        "lat": 42.2428304387336
+    }
+},
+{
+    "number": 8550,
+    "name": "Tva de Vigo,220",
+    "location": {
+        "lng": -8.69301207266704,
+        "lat": 42.246382963444
+    }
+},
+{
+    "number": 8560,
+    "name": "Tva de Vigo, 209",
+    "location": {
+        "lng": -8.69634842962135,
+        "lat": 42.244041182156
+    }
+},
+{
+    "number": 8570,
+    "name": "Tva de Vigo,239",
+    "location": {
+        "lng": -8.69375500442725,
+        "lat": 42.245970656363
+    }
+},
+{
+    "number": 8580,
+    "name": "Tva de Vigo,30",
+    "location": {
+        "lng": -8.70619885808498,
+        "lat": 42.2339887032509
+    }
+},
+{
+    "number": 8590,
+    "name": "Tva de Vigo,37",
+    "location": {
+        "lng": -8.70656293386585,
+        "lat": 42.2338815582934
+    }
+},
+{
+    "number": 8600,
+    "name": "Tva de Vigo,71",
+    "location": {
+        "lng": -8.70395706549776,
+        "lat": 42.236522738279
+    }
+},
+{
+    "number": 8610,
+    "name": "Tva de Vigo,8",
+    "location": {
+        "lng": -8.70824429173228,
+        "lat": 42.2319494748093
+    }
+},
+{
+    "number": 8620,
+    "name": "Tva de Vigo,82",
+    "location": {
+        "lng": -8.70399523339219,
+        "lat": 42.2361355629142
+    }
+},
+{
+    "number": 8630,
+    "name": "TRAVESIA DE VIGO, 7",
+    "location": {
+        "lng": -8.70851020102468,
+        "lat": 42.2321032588933
+    }
+},
+{
+    "number": 8660,
+    "name": "Ciencias do Mar (lateral).",
+    "location": {
+        "lng": -8.68313407516055,
+        "lat": 42.168540717465
+    }
+},
+{
+    "number": 8670,
+    "name": "Fac. Ciencias do Mar (bioloxia quimica)",
+    "location": {
+        "lng": -8.68638092436479,
+        "lat": 42.1676309745655
+    }
+},
+{
+    "number": 8680,
+    "name": "Fac. CC. Economicas e Empresariais",
+    "location": {
+        "lng": -8.68024973462115,
+        "lat": 42.1697215728273
+    }
+},
+{
+    "number": 8700,
+    "name": "UNIV., (INGENIEROS) B",
+    "location": {
+        "lng": -8.6880186943404,
+        "lat": 42.1680227161593
+    }
+},
+{
+    "number": 8710,
+    "name": "UNIVERSIDADE ( I)",
+    "location": {
+        "lng": -8.68820980956011,
+        "lat": 42.1677800606651
+    }
+},
+{
+    "number": 8720,
+    "name": "E. T. S. E. Industriais",
+    "location": {
+        "lng": -8.6773096468368,
+        "lat": 42.1718748971298
+    }
+},
+{
+    "number": 8721,
+    "name": "UNIVERSIDADE (H)",
+    "location": {
+        "lng": -8.6772786006622,
+        "lat": 42.172027919773
+    }
+},
+{
+    "number": 8740,
+    "name": "E. T. S. E. Telecomunicacions",
+    "location": {
+        "lng": -8.6873113889736,
+        "lat": 42.169984202402
+    }
+},
+{
+    "number": 8750,
+    "name": "URZAIZ, (MURO ESTACION)",
+    "location": {
+        "lng": -8.71457633973529,
+        "lat": 42.2338207109621
+    }
+},
+{
+    "number": 8760,
+    "name": "Urzaiz,124",
+    "location": {
+        "lng": -8.70817522803347,
+        "lat": 42.2311567381444
+    }
+},
+{
+    "number": 8770,
+    "name": "URZAIZ, 13",
+    "location": {
+        "lng": -8.71869723308381,
+        "lat": 42.2354520328885
+    }
+},
+{
+    "number": 8780,
+    "name": "Urzaiz,156",
+    "location": {
+        "lng": -8.70463742537677,
+        "lat": 42.2309675598541
+    }
+},
+{
+    "number": 8790,
+    "name": "Urzaiz,157",
+    "location": {
+        "lng": -8.70600645131637,
+        "lat": 42.2310521325638
+    }
+},
+{
+    "number": 8800,
+    "name": "Urzaiz,197",
+    "location": {
+        "lng": -8.70365560831411,
+        "lat": 42.2310100606091
+    }
+},
+{
+    "number": 8810,
+    "name": "URZAIZ, 204",
+    "location": {
+        "lng": -8.7008929914534,
+        "lat": 42.2309128297219
+    }
+},
+{
+    "number": 8820,
+    "name": "Urzaiz,28",
+    "location": {
+        "lng": -8.71828932500236,
+        "lat": 42.2350277328829
+    }
+},
+{
+    "number": 8840,
+    "name": "Urzaiz,60",
+    "location": {
+        "lng": -8.71544604015977,
+        "lat": 42.2339579662805
+    }
+},
+{
+    "number": 8850,
+    "name": "Urzaiz,95",
+    "location": {
+        "lng": -8.71084839431875,
+        "lat": 42.2322712887432
+    }
+},
+{
+    "number": 8860,
+    "name": "Vazquea Varela, 34",
+    "location": {
+        "lng": -8.71483711973862,
+        "lat": 42.231921014296
+    }
+},
+{
+    "number": 8870,
+    "name": "VENEZUELA, 4",
+    "location": {
+        "lng": -8.7245097460903,
+        "lat": 42.2343133175304
+    }
+},
+{
+    "number": 8880,
+    "name": "Venezuela,20",
+    "location": {
+        "lng": -8.72166662467563,
+        "lat": 42.2331896671073
+    }
+},
+{
+    "number": 8900,
+    "name": "Venezuela,45",
+    "location": {
+        "lng": -8.71840841180772,
+        "lat": 42.2322630685597
+    }
+},
+{
+    "number": 8910,
+    "name": "Venezuela,48",
+    "location": {
+        "lng": -8.71843608206178,
+        "lat": 42.232001951557
+    }
+},
+{
+    "number": 8912,
+    "name": "Venezuela (ENFRENTE MARISTAS)",
+    "location": {
+        "lng": -8.72164151639928,
+        "lat": 42.2333877464394
+    }
+},
+{
+    "number": 8916,
+    "name": "Venezuela Nº 74",
+    "location": {
+        "lng": -8.71602835270718,
+        "lat": 42.2311224005917
+    }
+},
+{
+    "number": 8920,
+    "name": "Vilar, 48",
+    "location": {
+        "lng": -8.62537747303054,
+        "lat": 42.2438404341568
+    }
+},
+{
+    "number": 8930,
+    "name": "Vilagarcía,(ALCAMPO)",
+    "location": {
+        "lng": -8.74512139795644,
+        "lat": 42.2200948294052
+    }
+},
+{
+    "number": 8950,
+    "name": "Vilagarcía,(ROCIO)",
+    "location": {
+        "lng": -8.74867651265609,
+        "lat": 42.2188507798278
+    }
+},
+{
+    "number": 8970,
+    "name": "Xeiso, 41",
+    "location": {
+        "lng": -8.71373278970832,
+        "lat": 42.1973606977956
+    }
+},
+{
+    "number": 8980,
+    "name": "Xeiso,38",
+    "location": {
+        "lng": -8.71361166784521,
+        "lat": 42.1973603956359
+    }
+},
+{
+    "number": 8990,
+    "name": "Xeiso, 77",
+    "location": {
+        "lng": -8.71441610883926,
+        "lat": 42.2005326624883
+    }
+},
+{
+    "number": 9000,
+    "name": "Xeiso,72",
+    "location": {
+        "lng": -8.71377746920677,
+        "lat": 42.2006301423091
+    }
+},
+{
+    "number": 9010,
+    "name": "XEME, 71",
+    "location": {
+        "lng": -8.69405079174662,
+        "lat": 42.2032181334136
+    }
+},
+{
+    "number": 9020,
+    "name": "XESTOSO",
+    "location": {
+        "lng": -8.66993906114499,
+        "lat": 42.2078616769683
+    }
+},
+{
+    "number": 9030,
+    "name": "Xestoso, (B)",
+    "location": {
+        "lng": -8.66993758642014,
+        "lat": 42.2077085637613
+    }
+},
+{
+    "number": 9040,
+    "name": "Xestoso-Universidade, esq. Cmño do Monte",
+    "location": {
+        "lng": -8.67048348722406,
+        "lat": 42.2078542350469
+    }
+},
+{
+    "number": 9050,
+    "name": "Zamans,(IGREXA)",
+    "location": {
+        "lng": -8.68799558735439,
+        "lat": 42.1548551737805
+    }
+},
+{
+    "number": 10061,
+    "name": "Crta San Xoan, 193",
+    "location": {
+        "lng": -8.74157254336993,
+        "lat": 42.1855652730968
+    }
+},
+{
+    "number": 14101,
+    "name": "Ctra Garrida, 181",
+    "location": {
+        "lng": -8.71021363099422,
+        "lat": 42.1685402262016
+    }
+},
+{
+    "number": 14102,
+    "name": "Ctra Garrida, 114",
+    "location": {
+        "lng": -8.70969062647098,
+        "lat": 42.1683227492459
+    }
+},
+{
+    "number": 14105,
+    "name": "Fac. Ciencias Xuridicas e do traballo",
+    "location": {
+        "lng": -8.68074153017784,
+        "lat": 42.1676244338305
+    }
+},
+{
+    "number": 14106,
+    "name": "Avda Aeropuerto, 90",
+    "location": {
+        "lng": -8.69483657497354,
+        "lat": 42.2337609113319
+    }
+},
+{
+    "number": 14107,
+    "name": "Rotonda Autopista",
+    "location": {
+        "lng": -8.67696962907634,
+        "lat": 42.2575518193038
+    }
+},
+{
+    "number": 14108,
+    "name": "Gorxal solo Hospital",
+    "location": {
+        "lng": -8.67145426735852,
+        "lat": 42.2141164696974
+    }
+},
+{
+    "number": 14111,
+    "name": "Crta Bembrive (CENTRO DE SAUDE)",
+    "location": {
+        "lng": -8.68477284338782,
+        "lat": 42.2042467761044
+    }
+},
+{
+    "number": 14112,
+    "name": "Ctra Bembrive, 258",
+    "location": {
+        "lng": -8.68473156514968,
+        "lat": 42.2040215022999
+    }
+},
+{
+    "number": 14113,
+    "name": "Crta Coutadas, 30",
+    "location": {
+        "lng": -8.70127068129964,
+        "lat": 42.1935102114386
+    }
+},
+{
+    "number": 14117,
+    "name": "Couto S. Honorato, 26",
+    "location": {
+        "lng": -8.71306354688783,
+        "lat": 42.2285842336829
+    }
+},
+{
+    "number": 14118,
+    "name": "Vazquez Varela (XERAL)",
+    "location": {
+        "lng": -8.71609334105302,
+        "lat": 42.2290420879109
+    }
+},
+{
+    "number": 14119,
+    "name": "Couto S. Honorato, 80",
+    "location": {
+        "lng": -8.70992398546135,
+        "lat": 42.2295310173171
+    }
+},
+{
+    "number": 14120,
+    "name": "Faisan, (Centro Salud Doblada)",
+    "location": {
+        "lng": -8.70908908191354,
+        "lat": 42.2290065339554
+    }
+},
+{
+    "number": 14121,
+    "name": "Reconquista, (CORREOS)",
+    "location": {
+        "lng": -8.72340096700393,
+        "lat": 42.238705758694
+    }
+},
+{
+    "number": 14122,
+    "name": "Gregorio Espino,13",
+    "location": {
+        "lng": -8.70687253140425,
+        "lat": 42.2314686413067
+    }
+},
+{
+    "number": 14123,
+    "name": "PORRIÑO, 9",
+    "location": {
+        "lng": -8.75186477991845,
+        "lat": 42.2140753170239
+    }
+},
+{
+    "number": 14124,
+    "name": "Bouzas, (LICEO)",
+    "location": {
+        "lng": -8.75286108913356,
+        "lat": 42.2270466771791
+    }
+},
+{
+    "number": 14125,
+    "name": "PORRIÑO - COIA",
+    "location": {
+        "lng": -8.75204986556961,
+        "lat": 42.2138955888722
+    }
+},
+{
+    "number": 14126,
+    "name": "Trva de Vigo, 194",
+    "location": {
+        "lng": -8.69909894207767,
+        "lat": 42.2424993339748
+    }
+},
+{
+    "number": 14127,
+    "name": "Buenos Aires, 15",
+    "location": {
+        "lng": -8.69494738198715,
+        "lat": 42.2491350610006
+    }
+},
+{
+    "number": 14128,
+    "name": "Caramuxo",
+    "location": {
+        "lng": -8.75258830138509,
+        "lat": 42.2074751791914
+    }
+},
+{
+    "number": 14129,
+    "name": "Camiño Caramuxo, 11",
+    "location": {
+        "lng": -8.75333655211334,
+        "lat": 42.207035475163
+    }
+},
+{
+    "number": 14130,
+    "name": "P. Freire, 19",
+    "location": {
+        "lng": -8.75259518228656,
+        "lat": 42.2231823633831
+    }
+},
+{
+    "number": 14131,
+    "name": "Tomas Paredes Nº 4",
+    "location": {
+        "lng": -8.75325818829416,
+        "lat": 42.2221210362357
+    }
+},
+{
+    "number": 14132,
+    "name": "Sanjurjo Badía, 252",
+    "location": {
+        "lng": -8.69658487754525,
+        "lat": 42.2490853642845
+    }
+},
+{
+    "number": 14133,
+    "name": "Avda Galicia, 37 (Igrexa)",
+    "location": {
+        "lng": -8.69489829421591,
+        "lat": 42.2506750156433
+    }
+},
+{
+    "number": 14134,
+    "name": "Avda Galicia 182",
+    "location": {
+        "lng": -8.68661208741238,
+        "lat": 42.2535257079391
+    }
+},
+{
+    "number": 14135,
+    "name": "S. AMARO(GASOLINERA)",
+    "location": {
+        "lng": -8.72036097918818,
+        "lat": 42.2291966680108
+    }
+},
+{
+    "number": 14136,
+    "name": "Avda Galicia 18",
+    "location": {
+        "lng": -8.69473765318501,
+        "lat": 42.2505214805564
+    }
+},
+{
+    "number": 14137,
+    "name": "Crta de Matama Pazó (Igrexia S. Andres)",
+    "location": {
+        "lng": -8.75285340022196,
+        "lat": 42.2000634645007
+    }
+},
+{
+    "number": 14138,
+    "name": "Enlace Autovia, Crta Vella de Madrid.",
+    "location": {
+        "lng": -8.67811417696948,
+        "lat": 42.2166211088185
+    }
+},
+{
+    "number": 14139,
+    "name": "Martinez Garrido, 27",
+    "location": {
+        "lng": -8.70037545824486,
+        "lat": 42.2272729025707
+    }
+},
+{
+    "number": 14140,
+    "name": "Martinez Garrido, 30",
+    "location": {
+        "lng": -8.7001407025067,
+        "lat": 42.2282269658104
+    }
+},
+{
+    "number": 14141,
+    "name": "Jenaro de la Fuente 43",
+    "location": {
+        "lng": -8.70001515471338,
+        "lat": 42.2315499910642
+    }
+},
+{
+    "number": 14142,
+    "name": "Hispanidad, 20",
+    "location": {
+        "lng": -8.72880026585708,
+        "lat": 42.2323061087455
+    }
+},
+{
+    "number": 14143,
+    "name": "Hispanidad (PINTADO)",
+    "location": {
+        "lng": -8.72905450083034,
+        "lat": 42.229532744715
+    }
+},
+{
+    "number": 14144,
+    "name": "Hispanidad, 82",
+    "location": {
+        "lng": -8.7280742877745,
+        "lat": 42.2271797606345
+    }
+},
+{
+    "number": 14150,
+    "name": "P. Don Rua, 9",
+    "location": {
+        "lng": -8.72042802468395,
+        "lat": 42.2315114706472
+    }
+},
+{
+    "number": 14152,
+    "name": "Crta de Bembrive, 237",
+    "location": {
+        "lng": -8.68800523178126,
+        "lat": 42.2044897756945
+    }
+},
+{
+    "number": 14153,
+    "name": "Crta de Bembrive, 173 (cruce eifonso)",
+    "location": {
+        "lng": -8.69228147955276,
+        "lat": 42.2054019625446
+    }
+},
+{
+    "number": 14154,
+    "name": "Rua chans, 95",
+    "location": {
+        "lng": -8.67720511068929,
+        "lat": 42.1934810761162
+    }
+},
+{
+    "number": 14156,
+    "name": "Rua do Xeme, 46",
+    "location": {
+        "lng": -8.69682878570588,
+        "lat": 42.2034866914388
+    }
+},
+{
+    "number": 14157,
+    "name": "Rua do Xeme, Cruce Rua de Eifonso.",
+    "location": {
+        "lng": -8.69422444779215,
+        "lat": 42.2030024421499
+    }
+},
+{
+    "number": 14161,
+    "name": "Lopez Mora, 60 (SEGURIDAD SOCIAL)",
+    "location": {
+        "lng": -8.73277428286916,
+        "lat": 42.2244618651836
+    }
+},
+{
+    "number": 14162,
+    "name": "Florida, 82",
+    "location": {
+        "lng": -8.74647850632117,
+        "lat": 42.2115597648109
+    }
+},
+{
+    "number": 14163,
+    "name": "Florida, enfrente 82",
+    "location": {
+        "lng": -8.74607070905375,
+        "lat": 42.2114778056569
+    }
+},
+{
+    "number": 14164,
+    "name": "Tomas Alonso, 140",
+    "location": {
+        "lng": -8.7454784454797,
+        "lat": 42.2250041057236
+    }
+},
+{
+    "number": 14165,
+    "name": "Tomas Alonso, 193",
+    "location": {
+        "lng": -8.74521714511861,
+        "lat": 42.2249134620756
+    }
+},
+{
+    "number": 14166,
+    "name": "Camelias 114",
+    "location": {
+        "lng": -8.72988289061534,
+        "lat": 42.2250495181431
+    }
+},
+{
+    "number": 14167,
+    "name": "BEIRAMAR, frente Buraquiño",
+    "location": {
+        "lng": -8.75132018345661,
+        "lat": 42.2250259180443
+    }
+},
+{
+    "number": 14168,
+    "name": "CAMELIAS, 113",
+    "location": {
+        "lng": -8.72952240072077,
+        "lat": 42.2249586052602
+    }
+},
+{
+    "number": 14169,
+    "name": "CAMELIAS, 136",
+    "location": {
+        "lng": -8.73154935229756,
+        "lat": 42.2223875367989
+    }
+},
+{
+    "number": 14170,
+    "name": "Avda de Samil, (Praia da Punta)",
+    "location": {
+        "lng": -8.77578812937045,
+        "lat": 42.218861909622
+    }
+},
+{
+    "number": 14171,
+    "name": "Avda de Samil (frente a praia da Punta)",
+    "location": {
+        "lng": -8.77539709403702,
+        "lat": 42.218834125936
+    }
+},
+{
+    "number": 14173,
+    "name": "Gaiteiro Ricardo Portela",
+    "location": {
+        "lng": -8.73290908372504,
+        "lat": 42.2339008666064
+    }
+},
+{
+    "number": 14174,
+    "name": "Padre Seixas (bouza)",
+    "location": {
+        "lng": -8.74901651357899,
+        "lat": 42.2115833554831
+    }
+},
+{
+    "number": 14175,
+    "name": "Padre Seixas, 32",
+    "location": {
+        "lng": -8.7492791754821,
+        "lat": 42.2114128077418
+    }
+},
+{
+    "number": 14177,
+    "name": "Couto 41 (esq. Caracas)",
+    "location": {
+        "lng": -8.71977416399136,
+        "lat": 42.2300148172143
+    }
+},
+{
+    "number": 14178,
+    "name": "Marques de Alcedo, s/n",
+    "location": {
+        "lng": -8.72452234398394,
+        "lat": 42.2330704682087
+    }
+},
+{
+    "number": 14179,
+    "name": "Costa, 4 (colegio)",
+    "location": {
+        "lng": -8.72276907463372,
+        "lat": 42.2136214508629
+    }
+},
+{
+    "number": 14181,
+    "name": "Corredoira (lateral Parque)",
+    "location": {
+        "lng": -8.72774431635131,
+        "lat": 42.2108954128041
+    }
+},
+{
+    "number": 14182,
+    "name": "Costa, 37",
+    "location": {
+        "lng": -8.7214612598943,
+        "lat": 42.21183501593
+    }
+},
+{
+    "number": 14183,
+    "name": "Rua do Xalon, (Colegio Sta Marina)",
+    "location": {
+        "lng": -8.65509586930978,
+        "lat": 42.2205530745619
+    }
+},
+{
+    "number": 14184,
+    "name": "Rua do Xalon, 5",
+    "location": {
+        "lng": -8.65741717171655,
+        "lat": 42.2174348101691
+    }
+},
+{
+    "number": 14185,
+    "name": "Becerreira, 79",
+    "location": {
+        "lng": -8.65939331844682,
+        "lat": 42.2197463288079
+    }
+},
+{
+    "number": 14186,
+    "name": "Becerreira, 27",
+    "location": {
+        "lng": -8.66265585933045,
+        "lat": 42.2181528281664
+    }
+},
+{
+    "number": 14187,
+    "name": "Becerreira, 1",
+    "location": {
+        "lng": -8.66221172360414,
+        "lat": 42.2214928924769
+    }
+},
+{
+    "number": 14188,
+    "name": "Becerreira 41",
+    "location": {
+        "lng": -8.66125465928149,
+        "lat": 42.2180586366928
+    }
+},
+{
+    "number": 14189,
+    "name": "Rua Molais, 84",
+    "location": {
+        "lng": -8.65416387709268,
+        "lat": 42.2260621766222
+    }
+},
+{
+    "number": 14190,
+    "name": "Severino Cobas, 196",
+    "location": {
+        "lng": -8.6859761822568,
+        "lat": 42.2252890258664
+    }
+},
+{
+    "number": 14191,
+    "name": "Bouciña, 74",
+    "location": {
+        "lng": -8.68162027427694,
+        "lat": 42.2244574428419
+    }
+},
+{
+    "number": 14192,
+    "name": "Figueiras, 282",
+    "location": {
+        "lng": -8.65182684279955,
+        "lat": 42.231819189588
+    }
+},
+{
+    "number": 14193,
+    "name": "Santa Mariña , 443",
+    "location": {
+        "lng": -8.64186856620487,
+        "lat": 42.23053665679
+    }
+},
+{
+    "number": 14194,
+    "name": "Santa Mariña , 425",
+    "location": {
+        "lng": -8.64108415685603,
+        "lat": 42.2286158485622
+    }
+},
+{
+    "number": 14195,
+    "name": "Santa Mariña , 249 (Pte Autopista)",
+    "location": {
+        "lng": -8.64499454725141,
+        "lat": 42.2264574760478
+    }
+},
+{
+    "number": 14196,
+    "name": "Santa Mariña , 193",
+    "location": {
+        "lng": -8.64972065033601,
+        "lat": 42.2253371958835
+    }
+},
+{
+    "number": 14197,
+    "name": "Molais, Cruce Vía do Tranvía",
+    "location": {
+        "lng": -8.65393613121873,
+        "lat": 42.2261605602073
+    }
+},
+{
+    "number": 14198,
+    "name": "Riomao, 21",
+    "location": {
+        "lng": -8.65882479282372,
+        "lat": 42.2268867028
+    }
+},
+{
+    "number": 14199,
+    "name": "Bociña, 79",
+    "location": {
+        "lng": -8.68132505021545,
+        "lat": 42.2244296042569
+    }
+},
+{
+    "number": 14200,
+    "name": "Severino Cobas, 119",
+    "location": {
+        "lng": -8.68571881779854,
+        "lat": 42.2254144107041
+    }
+},
+{
+    "number": 14201,
+    "name": "Sta Mariña , (Cruce Vía do Tranvía)",
+    "location": {
+        "lng": -8.64229305078905,
+        "lat": 42.2268543736789
+    }
+},
+{
+    "number": 14202,
+    "name": "Jenaro de la Fuente, 58",
+    "location": {
+        "lng": -8.700374435776,
+        "lat": 42.2313347766649
+    }
+},
+{
+    "number": 14203,
+    "name": "Rua do Tranvía, S/N 2ª",
+    "location": {
+        "lng": -8.66194841750558,
+        "lat": 42.2258512070461
+    }
+},
+{
+    "number": 14204,
+    "name": "Manuel Alvarez, 151",
+    "location": {
+        "lng": -8.68201716712661,
+        "lat": 42.2230895726343
+    }
+},
+{
+    "number": 14205,
+    "name": "Ctrio particular de Valladares",
+    "location": {
+        "lng": -8.73448920806808,
+        "lat": 42.1783439427936
+    }
+},
+{
+    "number": 14206,
+    "name": "Gran Vía (Instituto)",
+    "location": {
+        "lng": -8.73186750519447,
+        "lat": 42.2205779954655
+    }
+},
+{
+    "number": 14207,
+    "name": "camiño pinal, 19",
+    "location": {
+        "lng": -8.71630594788032,
+        "lat": 42.1625391164284
+    }
+},
+{
+    "number": 14208,
+    "name": "crta valladares, 452",
+    "location": {
+        "lng": -8.71893677635746,
+        "lat": 42.161401764482
+    }
+},
+{
+    "number": 14209,
+    "name": "crta Garrida, 245",
+    "location": {
+        "lng": -8.70640021444908,
+        "lat": 42.1726645058069
+    }
+},
+{
+    "number": 14210,
+    "name": "Crta Garrida s/n (frente 245)",
+    "location": {
+        "lng": -8.70602516845615,
+        "lat": 42.1724383841778
+    }
+},
+{
+    "number": 14211,
+    "name": "crta Monte Alba, 16",
+    "location": {
+        "lng": -8.72208289997774,
+        "lat": 42.1658496208701
+    }
+},
+{
+    "number": 14212,
+    "name": "Crta Monte Alba, 54",
+    "location": {
+        "lng": -8.72457611430431,
+        "lat": 42.1651351116501
+    }
+},
+{
+    "number": 14213,
+    "name": "Crta Freixo Campo Futbol",
+    "location": {
+        "lng": -8.72863280999062,
+        "lat": 42.1694768893562
+    }
+},
+{
+    "number": 14214,
+    "name": "Crta Freixo, 189",
+    "location": {
+        "lng": -8.73425399502916,
+        "lat": 42.1758666211326
+    }
+},
+{
+    "number": 14215,
+    "name": "Crta Freixo, 88",
+    "location": {
+        "lng": -8.73480971760696,
+        "lat": 42.175804861077
+    }
+},
+{
+    "number": 14216,
+    "name": "Crtra Freixo campo futbol (vuelta)",
+    "location": {
+        "lng": -8.72938067314507,
+        "lat": 42.1695056743179
+    }
+},
+{
+    "number": 14217,
+    "name": "Crta Monte Alba, (Precisgal)",
+    "location": {
+        "lng": -8.72426092430088,
+        "lat": 42.1647110503329
+    }
+},
+{
+    "number": 14218,
+    "name": "Crta Monte Alba, 17",
+    "location": {
+        "lng": -8.72156446561344,
+        "lat": 42.1653620145867
+    }
+},
+{
+    "number": 14219,
+    "name": "Camiño Pinal, 59",
+    "location": {
+        "lng": -8.71826823877169,
+        "lat": 42.1595447891028
+    }
+},
+{
+    "number": 14220,
+    "name": "Bouciña, 10",
+    "location": {
+        "lng": -8.68162802642291,
+        "lat": 42.2256282942345
+    }
+},
+{
+    "number": 14221,
+    "name": "Bouciña , 41",
+    "location": {
+        "lng": -8.68151815401183,
+        "lat": 42.2257901042534
+    }
+},
+{
+    "number": 14222,
+    "name": "Camiño Pinal, 1 ( cruce)",
+    "location": {
+        "lng": -8.71643552672568,
+        "lat": 42.1639354415443
+    }
+},
+{
+    "number": 14223,
+    "name": "Gaiteiro Portela (Guezuraga)",
+    "location": {
+        "lng": -8.73146510764508,
+        "lat": 42.2354826185848
+    }
+},
+{
+    "number": 14224,
+    "name": "Torrecedeira, 12",
+    "location": {
+        "lng": -8.73130762334596,
+        "lat": 42.2345726064087
+    }
+},
+{
+    "number": 14225,
+    "name": "Torrecedeira, 50",
+    "location": {
+        "lng": -8.73238606389244,
+        "lat": 42.231747124447
+    }
+},
+{
+    "number": 14226,
+    "name": "Torrecedeira, 70",
+    "location": {
+        "lng": -8.73315137515881,
+        "lat": 42.2296053882461
+    }
+},
+{
+    "number": 14227,
+    "name": "Torrecedeira, 86 (Peritos)",
+    "location": {
+        "lng": -8.73463696251649,
+        "lat": 42.2269969817636
+    }
+},
+{
+    "number": 14228,
+    "name": "Peinador (aserradero)",
+    "location": {
+        "lng": -8.63262407441513,
+        "lat": 42.2214290037367
+    }
+},
+{
+    "number": 14229,
+    "name": "Rabadeira, cruce Cño Rinxela Pte Autopis",
+    "location": {
+        "lng": -8.65170579525003,
+        "lat": 42.232620389157
+    }
+},
+{
+    "number": 14230,
+    "name": "Rabadeira, cruce Camiño Rinxela",
+    "location": {
+        "lng": -8.65110950087224,
+        "lat": 42.2326546031968
+    }
+},
+{
+    "number": 14231,
+    "name": "Rabadeira, 39",
+    "location": {
+        "lng": -8.65266622456475,
+        "lat": 42.2351090576259
+    }
+},
+{
+    "number": 14232,
+    "name": "Rabadeira, 36",
+    "location": {
+        "lng": -8.65230771673771,
+        "lat": 42.2348738064046
+    }
+},
+{
+    "number": 14233,
+    "name": "Rua S. Cristobo, 84",
+    "location": {
+        "lng": -8.66737124640292,
+        "lat": 42.24126794492
+    }
+},
+{
+    "number": 14236,
+    "name": "Manuel Cominges, 175",
+    "location": {
+        "lng": -8.72332254225094,
+        "lat": 42.196186359824
+    }
+},
+{
+    "number": 14237,
+    "name": "Manuel Cominges, 112",
+    "location": {
+        "lng": -8.72365242475807,
+        "lat": 42.1960520580569
+    }
+},
+{
+    "number": 14238,
+    "name": "Sa do monte ,3",
+    "location": {
+        "lng": -8.71459982275347,
+        "lat": 42.2047120990872
+    }
+},
+{
+    "number": 14239,
+    "name": "Sa do monte, 4",
+    "location": {
+        "lng": -8.71445189022971,
+        "lat": 42.2044415385795
+    }
+},
+{
+    "number": 14240,
+    "name": "Chabarras, 21",
+    "location": {
+        "lng": -8.71428747709606,
+        "lat": 42.1984158321201
+    }
+},
+{
+    "number": 14241,
+    "name": "Chabarras, 32",
+    "location": {
+        "lng": -8.71411960776066,
+        "lat": 42.1980371441213
+    }
+},
+{
+    "number": 14242,
+    "name": "Chabarras, 5",
+    "location": {
+        "lng": -8.7171663425207,
+        "lat": 42.196576644296
+    }
+},
+{
+    "number": 14243,
+    "name": "Chabarra, 6",
+    "location": {
+        "lng": -8.71665678281856,
+        "lat": 42.1965123424837
+    }
+},
+{
+    "number": 14244,
+    "name": "Macal, 44",
+    "location": {
+        "lng": -8.7216355799199,
+        "lat": 42.1979925735286
+    }
+},
+{
+    "number": 14245,
+    "name": "Garcia barbon 45",
+    "location": {
+        "lng": -8.71561189578229,
+        "lat": 42.2370025305145
+    }
+},
+{
+    "number": 14246,
+    "name": "Baixada a praia, 5 (Saians)",
+    "location": {
+        "lng": -8.80227327868027,
+        "lat": 42.1668083146432
+    }
+},
+{
+    "number": 14247,
+    "name": "Camiño Muiños, 75",
+    "location": {
+        "lng": -8.76901247267758,
+        "lat": 42.2003312861788
+    }
+},
+{
+    "number": 14248,
+    "name": "Camiño Muiños, 74",
+    "location": {
+        "lng": -8.76869931847529,
+        "lat": 42.2004657520348
+    }
+},
+{
+    "number": 14249,
+    "name": "Cesareo Vazquez (cruce)",
+    "location": {
+        "lng": -8.80033144457539,
+        "lat": 42.1776037177507
+    }
+},
+{
+    "number": 14250,
+    "name": "Avda Aeroporto 463",
+    "location": {
+        "lng": -8.65659033919968,
+        "lat": 42.2339140151699
+    }
+},
+{
+    "number": 14251,
+    "name": "Avda Aeroporto 528",
+    "location": {
+        "lng": -8.65728896811165,
+        "lat": 42.2337269700699
+    }
+},
+{
+    "number": 14252,
+    "name": "Clara Campoamor - Inst. Valladares.",
+    "location": {
+        "lng": -8.70737808814245,
+        "lat": 42.1662183681915
+    }
+},
+{
+    "number": 14253,
+    "name": "Clara Campoamor - Esq. Estrada Zamans",
+    "location": {
+        "lng": -8.70667633502164,
+        "lat": 42.1651448060924
+    }
+},
+{
+    "number": 14255,
+    "name": "Pintor Colmeiro 23",
+    "location": {
+        "lng": -8.72577877618138,
+        "lat": 42.2253189833775
+    }
+},
+{
+    "number": 14256,
+    "name": "Zamora, 89",
+    "location": {
+        "lng": -8.72848979608458,
+        "lat": 42.2221191542485
+    }
+},
+{
+    "number": 14257,
+    "name": "Zamora, 71",
+    "location": {
+        "lng": -8.72570170144956,
+        "lat": 42.223265342621
+    }
+},
+{
+    "number": 14258,
+    "name": "Zamora (parque Castañal)",
+    "location": {
+        "lng": -8.72370679897909,
+        "lat": 42.2247646243522
+    }
+},
+{
+    "number": 14259,
+    "name": "Zamora, 39",
+    "location": {
+        "lng": -8.72160728771239,
+        "lat": 42.2268670450091
+    }
+},
+{
+    "number": 14260,
+    "name": "Gran Vía (Esq. Avda Madrid).",
+    "location": {
+        "lng": -8.71959629045774,
+        "lat": 42.2286183938343
+    }
+},
+{
+    "number": 14261,
+    "name": "Zamora 1",
+    "location": {
+        "lng": -8.72071749868195,
+        "lat": 42.2285580831162
+    }
+},
+{
+    "number": 14263,
+    "name": "Tomas Paredes 3",
+    "location": {
+        "lng": -8.75302700554609,
+        "lat": 42.2220755070453
+    }
+},
+{
+    "number": 14264,
+    "name": "Urzaiz - Principe",
+    "location": {
+        "lng": -8.72025467138642,
+        "lat": 42.2359511902326
+    }
+},
+{
+    "number": 14267,
+    "name": "Avda Atlantida, 64",
+    "location": {
+        "lng": -8.75801595333636,
+        "lat": 42.2220411016871
+    }
+},
+{
+    "number": 14268,
+    "name": "Avda Atlantida, 49",
+    "location": {
+        "lng": -8.75812421265622,
+        "lat": 42.2218521955942
+    }
+},
+{
+    "number": 14270,
+    "name": "Carretera da Balsa 65",
+    "location": {
+        "lng": -8.7428641460715,
+        "lat": 42.197060392993
+    }
+},
+{
+    "number": 14271,
+    "name": "Carretera da Balsa 89",
+    "location": {
+        "lng": -8.7490150190733,
+        "lat": 42.1930121045817
+    }
+},
+{
+    "number": 14273,
+    "name": "Xalon, 17",
+    "location": {
+        "lng": -8.65665129258983,
+        "lat": 42.2190266526622
+    }
+},
+{
+    "number": 14274,
+    "name": "Caramuxo (rotonda)",
+    "location": {
+        "lng": -8.75468558301974,
+        "lat": 42.2070833983483
+    }
+},
+{
+    "number": 14275,
+    "name": "Caramuxo Poligono",
+    "location": {
+        "lng": -8.75538837352877,
+        "lat": 42.2070398661198
+    }
+},
+{
+    "number": 14277,
+    "name": "Avda Marina Española, 8",
+    "location": {
+        "lng": -8.69465817429777,
+        "lat": 42.2514489225485
+    }
+},
+{
+    "number": 14278,
+    "name": "Avda Marina Española, 44",
+    "location": {
+        "lng": -8.69391058790017,
+        "lat": 42.2529690026867
+    }
+},
+{
+    "number": 14279,
+    "name": "Riós (rotonda)",
+    "location": {
+        "lng": -8.69338630058571,
+        "lat": 42.2573446830236
+    }
+},
+{
+    "number": 14280,
+    "name": "Avda Marina Española (ETEA)",
+    "location": {
+        "lng": -8.69415267075363,
+        "lat": 42.2532038130334
+    }
+},
+{
+    "number": 14281,
+    "name": "Avda Marina Española (aparcamiento)",
+    "location": {
+        "lng": -8.69503382152513,
+        "lat": 42.2513238326847
+    }
+},
+{
+    "number": 14287,
+    "name": "Santa Tecla (Vulcano)",
+    "location": {
+        "lng": -8.70199342278514,
+        "lat": 42.2504234703748
+    }
+},
+{
+    "number": 14288,
+    "name": "Avda Guixar (Campa Vulcano)",
+    "location": {
+        "lng": -8.70530169002267,
+        "lat": 42.2488829223268
+    }
+},
+{
+    "number": 14289,
+    "name": "Julian Estevez (contenedores)",
+    "location": {
+        "lng": -8.70594075827149,
+        "lat": 42.2465158916139
+    }
+},
+{
+    "number": 14290,
+    "name": "Julian Estevez (ant. pta contenedores)",
+    "location": {
+        "lng": -8.706798944162,
+        "lat": 42.2436090350123
+    }
+},
+{
+    "number": 14291,
+    "name": "Avda da Ponte (VIGOMEMORIAL)",
+    "location": {
+        "lng": -8.67149285183118,
+        "lat": 42.2098835706101
+    }
+},
+{
+    "number": 14294,
+    "name": "Avda Ricardo Mella, 406",
+    "location": {
+        "lng": -8.79927067247197,
+        "lat": 42.1906972554565
+    }
+},
+{
+    "number": 14295,
+    "name": "Pi margall 121",
+    "location": {
+        "lng": -8.73133105343456,
+        "lat": 42.2304747601931
+    }
+},
+{
+    "number": 14296,
+    "name": "VIGOZOO",
+    "location": {
+        "lng": -8.6754714665646,
+        "lat": 42.2484061573988
+    }
+},
+{
+    "number": 14298,
+    "name": "AVDA DE SAMIL (Frente Hotel)",
+    "location": {
+        "lng": -8.77497300186722,
+        "lat": 42.2157440991502
+    }
+},
+{
+    "number": 14299,
+    "name": "AVDA DE SAMIL (Frente Verbum)",
+    "location": {
+        "lng": -8.77462208333667,
+        "lat": 42.2139151101178
+    }
+},
+{
+    "number": 14300,
+    "name": "Florida, 30",
+    "location": {
+        "lng": -8.73698384008033,
+        "lat": 42.2180140047578
+    }
+},
+{
+    "number": 14301,
+    "name": "Florida, 47",
+    "location": {
+        "lng": -8.73641283309633,
+        "lat": 42.2181117651983
+    }
+},
+{
+    "number": 14302,
+    "name": "Crta Vella de Madrid, 7",
+    "location": {
+        "lng": -8.69665338175283,
+        "lat": 42.2145190804054
+    }
+},
+{
+    "number": 14304,
+    "name": "Crta Vella de Madrid, 145",
+    "location": {
+        "lng": -8.6815162247114,
+        "lat": 42.2213499505833
+    }
+},
+{
+    "number": 14307,
+    "name": "Pintor Colmeiro 7",
+    "location": {
+        "lng": -8.7288270202421,
+        "lat": 42.2242814852229
+    }
+},
+{
+    "number": 14308,
+    "name": "Camiño Pinal, 4",
+    "location": {
+        "lng": -8.71682892547325,
+        "lat": 42.1639454191688
+    }
+},
+{
+    "number": 14309,
+    "name": "Camiño Pinal, 26",
+    "location": {
+        "lng": -8.71672854723615,
+        "lat": 42.162531153589
+    }
+},
+{
+    "number": 14310,
+    "name": "Camiño Pinal , frente al 57",
+    "location": {
+        "lng": -8.71822216393427,
+        "lat": 42.159868909623
+    }
+},
+{
+    "number": 14311,
+    "name": "Crta Valladares, 507",
+    "location": {
+        "lng": -8.71859255031453,
+        "lat": 42.1614819795114
+    }
+},
+{
+    "number": 14314,
+    "name": "mantelas 16",
+    "location": {
+        "lng": -8.71985012244187,
+        "lat": 42.2268807818944
+    }
+},
+{
+    "number": 14315,
+    "name": "mantelas 90",
+    "location": {
+        "lng": -8.71698544547398,
+        "lat": 42.2238926394802
+    }
+},
+{
+    "number": 14317,
+    "name": "Salgueira iglesia",
+    "location": {
+        "lng": -8.71922728148243,
+        "lat": 42.2227543344936
+    }
+},
+{
+    "number": 14318,
+    "name": "Salgueira finca, frente",
+    "location": {
+        "lng": -8.71775737273742,
+        "lat": 42.2227417226195
+    }
+},
+{
+    "number": 14319,
+    "name": "Coutadas (Fonte)",
+    "location": {
+        "lng": -8.7208120521765,
+        "lat": 42.2213622099172
+    }
+},
+{
+    "number": 14320,
+    "name": "Baixada a Ponte (Carrefour 2)",
+    "location": {
+        "lng": -8.72311307458101,
+        "lat": 42.2208544199511
+    }
+},
+{
+    "number": 14321,
+    "name": "Camiño do Freixeiro, 74",
+    "location": {
+        "lng": -8.72293180041303,
+        "lat": 42.2179719357793
+    }
+},
+{
+    "number": 14322,
+    "name": "Ponte Santa, 6",
+    "location": {
+        "lng": -8.72150150305335,
+        "lat": 42.2175001412334
+    }
+},
+{
+    "number": 14323,
+    "name": "Rua finca dos Aires, S/N",
+    "location": {
+        "lng": -8.72063016937382,
+        "lat": 42.2167504924137
+    }
+},
+{
+    "number": 14324,
+    "name": "Rua finca dos Aires, (urbanización)",
+    "location": {
+        "lng": -8.72023620403685,
+        "lat": 42.2167945647554
+    }
+},
+{
+    "number": 14325,
+    "name": "Fonte Santa, bajando",
+    "location": {
+        "lng": -8.72155815064758,
+        "lat": 42.2178785474173
+    }
+},
+{
+    "number": 14326,
+    "name": "Ponte nova, 59",
+    "location": {
+        "lng": -8.72326679038172,
+        "lat": 42.2183420063105
+    }
+},
+{
+    "number": 14328,
+    "name": "CITROEN-PSA",
+    "location": {
+        "lng": -8.74833639887281,
+        "lat": 42.2065652936996
+    }
+},
+{
+    "number": 14329,
+    "name": "Citroën (Pta Principal).",
+    "location": {
+        "lng": -8.74090683515752,
+        "lat": 42.2101423227675
+    }
+},
+{
+    "number": 14330,
+    "name": "Subida a Chans, 11",
+    "location": {
+        "lng": -8.68208062399174,
+        "lat": 42.1981960413074
+    }
+},
+{
+    "number": 14331,
+    "name": "Alvaro Cunqueiro, 30",
+    "location": {
+        "lng": -8.72891384407805,
+        "lat": 42.2238133581023
+    }
+},
+{
+    "number": 14333,
+    "name": "Canovas del Castillo, 22",
+    "location": {
+        "lng": -8.72639779151484,
+        "lat": 42.240262037199
+    }
+},
+{
+    "number": 14335,
+    "name": "Arieiro Rdcia de Maiores de Bembrive.",
+    "location": {
+        "lng": -8.67489007443543,
+        "lat": 42.2116945259257
+    }
+},
+{
+    "number": 14336,
+    "name": "Rúa Teixugueiras, 10",
+    "location": {
+        "lng": -8.75611472978613,
+        "lat": 42.2147509001128
+    }
+},
+{
+    "number": 14337,
+    "name": "Rua do Limpiño",
+    "location": {
+        "lng": -8.75537068647736,
+        "lat": 42.2129030033171
+    }
+},
+{
+    "number": 14338,
+    "name": "S. Vicente- Lamosa (Parque Infantil).",
+    "location": {
+        "lng": -8.65400936038525,
+        "lat": 42.2650411898084
+    }
+},
+{
+    "number": 14341,
+    "name": "Camiño da bruxa (frente C.A.P.D.)",
+    "location": {
+        "lng": -8.66430323369771,
+        "lat": 42.2548405805509
+    }
+},
+{
+    "number": 14342,
+    "name": "Camiño da Bruxa, 13",
+    "location": {
+        "lng": -8.65704879856085,
+        "lat": 42.26130368497
+    }
+},
+{
+    "number": 14343,
+    "name": "Camiño da Bruxa, 4",
+    "location": {
+        "lng": -8.65782668967239,
+        "lat": 42.261369051659
+    }
+},
+{
+    "number": 14344,
+    "name": "Camiño da Bruxa (C.A.P.D.)",
+    "location": {
+        "lng": -8.66523576603944,
+        "lat": 42.2548793303221
+    }
+},
+{
+    "number": 14345,
+    "name": "Rua do Areeiro, 49",
+    "location": {
+        "lng": -8.68529671378242,
+        "lat": 42.2373647123864
+    }
+},
+{
+    "number": 14346,
+    "name": "Rua do Areeiro, 48",
+    "location": {
+        "lng": -8.68498253916129,
+        "lat": 42.2371747167012
+    }
+},
+{
+    "number": 14347,
+    "name": "Rua do Areeiro esquina Salcides",
+    "location": {
+        "lng": -8.68365887783492,
+        "lat": 42.2396658379659
+    }
+},
+{
+    "number": 14348,
+    "name": "Rua do Areeiro/ Salcides (sube)",
+    "location": {
+        "lng": -8.68330988848798,
+        "lat": 42.2396198435705
+    }
+},
+{
+    "number": 14349,
+    "name": "Areeiro, Campo de Fútbol Sampaio",
+    "location": {
+        "lng": -8.6789339357087,
+        "lat": 42.2449484529824
+    }
+},
+{
+    "number": 14350,
+    "name": "Areeiro, Frente Campo de Fútbol",
+    "location": {
+        "lng": -8.67806451097997,
+        "lat": 42.2448919789704
+    }
+},
+{
+    "number": 14351,
+    "name": "Camiño do Gallo, 22 (Chapela)",
+    "location": {
+        "lng": -8.66732651213011,
+        "lat": 42.2507965330955
+    }
+},
+{
+    "number": 14352,
+    "name": "Camiño do Gallo, (Cemiterio)",
+    "location": {
+        "lng": -8.66661058492329,
+        "lat": 42.2504972459458
+    }
+},
+{
+    "number": 14353,
+    "name": "Vigozoo (sube)",
+    "location": {
+        "lng": -8.6760521966132,
+        "lat": 42.2481826396596
+    }
+},
+{
+    "number": 14354,
+    "name": "Ramón Nieto (antigua fabrica Vanosa).",
+    "location": {
+        "lng": -8.67660988679598,
+        "lat": 42.2267940987117
+    }
+},
+{
+    "number": 14355,
+    "name": "Ramón Nieto, 409",
+    "location": {
+        "lng": -8.67604535607928,
+        "lat": 42.226702442646
+    }
+},
+{
+    "number": 14356,
+    "name": "Avda Ricardo Mella, 312",
+    "location": {
+        "lng": -8.78407127453128,
+        "lat": 42.1920386528226
+    }
+},
+{
+    "number": 14357,
+    "name": "Avda Ricardo Mella, esq. camiño do Rio",
+    "location": {
+        "lng": -8.78371264277386,
+        "lat": 42.1917677844003
+    }
+},
+{
+    "number": 14358,
+    "name": "Teixugueiras, 28",
+    "location": {
+        "lng": -8.75799955674125,
+        "lat": 42.2091709152634
+    }
+},
+{
+    "number": 14359,
+    "name": "Teixugueiras, 16 Portal 2.",
+    "location": {
+        "lng": -8.75575593638791,
+        "lat": 42.2126516443033
+    }
+},
+{
+    "number": 14360,
+    "name": "Teixugueiras,19 Portal 5.",
+    "location": {
+        "lng": -8.75765388067731,
+        "lat": 42.2089810512344
+    }
+},
+{
+    "number": 14361,
+    "name": "Teixugueiras 19",
+    "location": {
+        "lng": -8.75517977639007,
+        "lat": 42.2099845192018
+    }
+},
+{
+    "number": 14362,
+    "name": "Rua Canido (Public- Samil)",
+    "location": {
+        "lng": -8.77674359249365,
+        "lat": 42.2028954017413
+    }
+},
+{
+    "number": 14364,
+    "name": "Crta Xestoso- Universidade (F.Mercantil)",
+    "location": {
+        "lng": -8.66782541345813,
+        "lat": 42.1819170608769
+    }
+},
+{
+    "number": 14365,
+    "name": "Crta Universidade- Xestoso (Viveros).",
+    "location": {
+        "lng": -8.66743460716,
+        "lat": 42.1818258646399
+    }
+},
+{
+    "number": 14366,
+    "name": "Subida a Hermida (Presa)",
+    "location": {
+        "lng": -8.66130806806141,
+        "lat": 42.2447716934979
+    }
+},
+{
+    "number": 14367,
+    "name": "Subida a Hermida, 27",
+    "location": {
+        "lng": -8.66183039814459,
+        "lat": 42.2449893864509
+    }
+},
+{
+    "number": 14368,
+    "name": "Subida a Hermida, Cmño Gumersindo",
+    "location": {
+        "lng": -8.65908378010308,
+        "lat": 42.2474489985884
+    }
+},
+{
+    "number": 14369,
+    "name": "Subida a Hermida, 41",
+    "location": {
+        "lng": -8.65981996368836,
+        "lat": 42.2476313103886
+    }
+},
+{
+    "number": 14370,
+    "name": "Monte da Facha (cruce Vixiador)",
+    "location": {
+        "lng": -8.66087588206304,
+        "lat": 42.2500751553089
+    }
+},
+{
+    "number": 14371,
+    "name": "Camiño da Facha, esq. Herminda",
+    "location": {
+        "lng": -8.66135273802692,
+        "lat": 42.2498784240947
+    }
+},
+{
+    "number": 14372,
+    "name": "Rua Sta Lucia, 22 (G. S. Salgueira)",
+    "location": {
+        "lng": -8.72003470928137,
+        "lat": 42.2217836167362
+    }
+},
+{
+    "number": 14373,
+    "name": "Pza. S. Mauro Esq. M. Comingues.",
+    "location": {
+        "lng": -8.73901606847634,
+        "lat": 42.200321041963
+    }
+},
+{
+    "number": 14374,
+    "name": "Rua de Manuel Cominges (despues Nº 5)",
+    "location": {
+        "lng": -8.73857059746,
+        "lat": 42.2004911503132
+    }
+},
+{
+    "number": 14376,
+    "name": "Rua Pateira, 16",
+    "location": {
+        "lng": -8.70020336925672,
+        "lat": 42.226506910639
+    }
+},
+{
+    "number": 14377,
+    "name": "Rua Pateira, (Bloque 9)",
+    "location": {
+        "lng": -8.69956119245192,
+        "lat": 42.2268114482683
+    }
+},
+{
+    "number": 14378,
+    "name": "Molais, 83",
+    "location": {
+        "lng": -8.65320333220315,
+        "lat": 42.2240238356363
+    }
+},
+{
+    "number": 14383,
+    "name": "Clara Campoamor, esq. Camiño do portal",
+    "location": {
+        "lng": -8.71321096748976,
+        "lat": 42.170520171738
+    }
+},
+{
+    "number": 14384,
+    "name": "Clara Campoamor- Parque tecnoloxico.",
+    "location": {
+        "lng": -8.71246853087154,
+        "lat": 42.1705453337942
+    }
+},
+{
+    "number": 14385,
+    "name": "Vista do Mar, 45",
+    "location": {
+        "lng": -8.69215727695379,
+        "lat": 42.2408147457711
+    }
+},
+{
+    "number": 14386,
+    "name": "Vista do Mar, (Embalse).",
+    "location": {
+        "lng": -8.69178765371993,
+        "lat": 42.2376885458897
+    }
+},
+{
+    "number": 14387,
+    "name": "Vista do Mar, 1",
+    "location": {
+        "lng": -8.69330451214814,
+        "lat": 42.2373053361518
+    }
+},
+{
+    "number": 14388,
+    "name": "Teixugueiras 11 - Portal 3",
+    "location": {
+        "lng": -8.75422555477025,
+        "lat": 42.2116936981555
+    }
+},
+{
+    "number": 14389,
+    "name": "Teixugueiras, 22",
+    "location": {
+        "lng": -8.75441909524463,
+        "lat": 42.2114779585611
+    }
+},
+{
+    "number": 14390,
+    "name": "Rua Salgueiro, (ESQU. CAMIÑO SANATORIO).",
+    "location": {
+        "lng": -8.65551378627793,
+        "lat": 42.241476132086
+    }
+},
+{
+    "number": 14391,
+    "name": "Rua Salgueiro, 43",
+    "location": {
+        "lng": -8.65547221664564,
+        "lat": 42.2417371915893
+    }
+},
+{
+    "number": 14392,
+    "name": "Pedra Seixa (CEIP ALFONSO R.CASTELAO)",
+    "location": {
+        "lng": -8.76106633505472,
+        "lat": 42.2096006415422
+    }
+},
+{
+    "number": 14393,
+    "name": "Pedra Seixa (FRENTE COLEGIO)",
+    "location": {
+        "lng": -8.7613991470141,
+        "lat": 42.2096913979816
+    }
+},
+{
+    "number": 14394,
+    "name": "Ines Peréz de Ceta, 5",
+    "location": {
+        "lng": -8.7184512680882,
+        "lat": 42.2383875057269
+    }
+},
+{
+    "number": 14395,
+    "name": "Enlace Autovia",
+    "location": {
+        "lng": -8.67533685690567,
+        "lat": 42.2155325176101
+    }
+},
+{
+    "number": 14396,
+    "name": "García Barbón, 106",
+    "location": {
+        "lng": -8.70809425198404,
+        "lat": 42.239775627902
+    }
+},
+{
+    "number": 14397,
+    "name": "García Barbón",
+    "location": {
+        "lng": -8.70831208551693,
+        "lat": 42.2398482326914
+    }
+},
+{
+    "number": 14398,
+    "name": "Gran Vía, 120",
+    "location": {
+        "lng": -8.72424146766766,
+        "lat": 42.2238112331099
+    }
+},
+{
+    "number": 14399,
+    "name": "LOPEZ MORA, 102",
+    "location": {
+        "lng": -8.73253962950927,
+        "lat": 42.2212010049463
+    }
+},
+{
+    "number": 14400,
+    "name": "REP. ARGENTINA, 21",
+    "location": {
+        "lng": -8.7181007052958,
+        "lat": 42.2374139575515
+    }
+},
+{
+    "number": 14401,
+    "name": "Rua de San Paio, esq. Cño. da Barroca",
+    "location": {
+        "lng": -8.76222822505832,
+        "lat": 42.210908984145
+    }
+},
+{
+    "number": 14402,
+    "name": "Rua de San Paio, 113",
+    "location": {
+        "lng": -8.7619021727905,
+        "lat": 42.2106291094906
+    }
+},
+{
+    "number": 14403,
+    "name": "Rua Pedro Alvarado esq. Cño das Maceiras",
+    "location": {
+        "lng": -8.69854755434079,
+        "lat": 42.2505945968042
+    }
+},
+{
+    "number": 14404,
+    "name": "Dr Corbal , 58",
+    "location": {
+        "lng": -8.69685502283889,
+        "lat": 42.2520041340468
+    }
+},
+{
+    "number": 14406,
+    "name": "Enrique Lorenzo, 32",
+    "location": {
+        "lng": -8.69839699671906,
+        "lat": 42.2486398239757
+    }
+},
+{
+    "number": 14408,
+    "name": "Rua de Pedro Alvarado, 5",
+    "location": {
+        "lng": -8.69828122878396,
+        "lat": 42.2535389709482
+    }
+},
+{
+    "number": 14409,
+    "name": "Estr. das Prantas (fr. crta do rebullon)",
+    "location": {
+        "lng": -8.67101065008695,
+        "lat": 42.205189849565
+    }
+},
+{
+    "number": 14411,
+    "name": "Rúa de Xeme, 1",
+    "location": {
+        "lng": -8.69792169501104,
+        "lat": 42.2051467540588
+    }
+},
+{
+    "number": 14412,
+    "name": "Rúa de Xeme, 6",
+    "location": {
+        "lng": -8.69785905693136,
+        "lat": 42.2047863325119
+    }
+},
+{
+    "number": 14414,
+    "name": "Avda. Sta Mariña (antes del nº 38)",
+    "location": {
+        "lng": -8.6661685065656,
+        "lat": 42.2210901772349
+    }
+},
+{
+    "number": 14415,
+    "name": "Avda Sta. Mariña (antes del nº 49)",
+    "location": {
+        "lng": -8.66657711200538,
+        "lat": 42.2212985120817
+    }
+},
+{
+    "number": 14416,
+    "name": "Rua de Severino Cobas, 118",
+    "location": {
+        "lng": -8.69152060698528,
+        "lat": 42.2253220762204
+    }
+},
+{
+    "number": 14419,
+    "name": "Crta de Bembrive (ant. Cño Rapadouros)",
+    "location": {
+        "lng": -8.68855903359293,
+        "lat": 42.2010238084467
+    }
+},
+{
+    "number": 14420,
+    "name": "Crta. de Bembrive, 318",
+    "location": {
+        "lng": -8.68875227096943,
+        "lat": 42.2012945253127
+    }
+},
+{
+    "number": 14421,
+    "name": "Crta das Prantas, (ent. UP563)",
+    "location": {
+        "lng": -8.6688591362031,
+        "lat": 42.1936914663425
+    }
+},
+{
+    "number": 14422,
+    "name": "Crta das Prantas, (d. Campo de beisbol)",
+    "location": {
+        "lng": -8.66815744042504,
+        "lat": 42.1941217482984
+    }
+},
+{
+    "number": 14423,
+    "name": "TOMAS A. ALONSO, 113",
+    "location": {
+        "lng": -8.73861397376723,
+        "lat": 42.2237728150526
+    }
+},
+{
+    "number": 14424,
+    "name": "TOMAS A. ALONSO, 72",
+    "location": {
+        "lng": -8.73901049622855,
+        "lat": 42.2240349027371
+    }
+},
+{
+    "number": 14425,
+    "name": "GREGORIO ESPINO, 2",
+    "location": {
+        "lng": -8.70740335177416,
+        "lat": 42.2321544804409
+    }
+},
+{
+    "number": 14475,
+    "name": "BARCELONA, 78",
+    "location": {
+        "lng": -8.72826873596094,
+        "lat": 42.2230733085543
+    }
+},
+{
+    "number": 14478,
+    "name": "Rua de San Paio, 242",
+    "location": {
+        "lng": -8.76889207992153,
+        "lat": 42.2063653481479
+    }
+},
+{
+    "number": 14890,
+    "name": "Teixugueiras, 25",
+    "location": {
+        "lng": -8.75935272810501,
+        "lat": 42.2078408107129
+    }
+},
+{
+    "number": 14892,
+    "name": "Torrecedeira, 123",
+    "location": {
+        "lng": -8.73535768198946,
+        "lat": 42.2248010875609
+    }
+},
+{
+    "number": 14893,
+    "name": "Candean al pasar Igrexa",
+    "location": {
+        "lng": -8.66683775082571,
+        "lat": 42.2431757445903
+    }
+},
+{
+    "number": 14894,
+    "name": "ALCALDE PORTANET, 8",
+    "location": {
+        "lng": -8.73359318909267,
+        "lat": 42.211791765967
+    }
+},
+{
+    "number": 14895,
+    "name": "Areeiro, (sube)",
+    "location": {
+        "lng": -8.6801050824482,
+        "lat": 42.2421147221013
+    }
+},
+{
+    "number": 14896,
+    "name": "Areeiro, (baja)",
+    "location": {
+        "lng": -8.68051439970155,
+        "lat": 42.2423680404153
+    }
+},
+{
+    "number": 14897,
+    "name": "Areeiro, 70",
+    "location": {
+        "lng": -8.67869770370756,
+        "lat": 42.2132453442817
+    }
+},
+{
+    "number": 14898,
+    "name": "Areeiro (frente 70)",
+    "location": {
+        "lng": -8.67840673750166,
+        "lat": 42.2134336637285
+    }
+},
+{
+    "number": 14899,
+    "name": "LOPEZ MORA, 31",
+    "location": {
+        "lng": -8.73033582778924,
+        "lat": 42.2256630175963
+    }
+},
+{
+    "number": 14900,
+    "name": "MARTIN ECHEGARAY, 24",
+    "location": {
+        "lng": -8.74319734751962,
+        "lat": 42.21704637779
+    }
+},
+{
+    "number": 14901,
+    "name": "Avda Castelao, 1",
+    "location": {
+        "lng": -8.73348121448577,
+        "lat": 42.2203295750617
+    }
+},
+{
+    "number": 14902,
+    "name": "Gran Via, 164",
+    "location": {
+        "lng": -8.72865690020943,
+        "lat": 42.2215611531072
+    }
+},
+{
+    "number": 14903,
+    "name": "Pi y Margall, 66",
+    "location": {
+        "lng": -8.73126204105758,
+        "lat": 42.2319246254804
+    }
+},
+{
+    "number": 14904,
+    "name": "Tomas Alonso, 60-64",
+    "location": {
+        "lng": -8.73489979210247,
+        "lat": 42.2247279797177
+    }
+},
+{
+    "number": 14905,
+    "name": "Ctrio Privado Candean, 2",
+    "location": {
+        "lng": -8.67021734328997,
+        "lat": 42.250435617727
+    }
+},
+{
+    "number": 14906,
+    "name": "Rabadeira, 6",
+    "location": {
+        "lng": -8.65471486235682,
+        "lat": 42.2326655083535
+    }
+},
+{
+    "number": 14907,
+    "name": "Rabadeira, 24",
+    "location": {
+        "lng": -8.65325578786745,
+        "lat": 42.233678828368
+    }
+},
+{
+    "number": 14908,
+    "name": "Rabadeira, 17",
+    "location": {
+        "lng": -8.65353354143196,
+        "lat": 42.2338597946756
+    }
+},
+{
+    "number": 14909,
+    "name": "Rabadeira, 11",
+    "location": {
+        "lng": -8.6551729599642,
+        "lat": 42.2326939049574
+    }
+},
+{
+    "number": 14910,
+    "name": "Crta Marco, 4",
+    "location": {
+        "lng": -8.70735239090885,
+        "lat": 42.2080802604044
+    }
+},
+{
+    "number": 14911,
+    "name": "Crta Marco, 16",
+    "location": {
+        "lng": -8.70673557230586,
+        "lat": 42.2080246474708
+    }
+},
+{
+    "number": 15001,
+    "name": "P.T.L.1",
+    "location": {
+        "lng": -8.71153534606585,
+        "lat": 42.1720830988725
+    }
+},
+{
+    "number": 15002,
+    "name": "P.T.L.2",
+    "location": {
+        "lng": -8.71051299878997,
+        "lat": 42.1721705897568
+    }
+},
+{
+    "number": 15003,
+    "name": "P.T.L.3",
+    "location": {
+        "lng": -8.70974719937506,
+        "lat": 42.1720875976311
+    }
+},
+{
+    "number": 15004,
+    "name": "P.T.L.4",
+    "location": {
+        "lng": -8.71108110080875,
+        "lat": 42.1727124092243
+    }
+},
+{
+    "number": 20008,
+    "name": "TORRECEDEIRA, 37",
+    "location": {
+        "lng": -8.7317117032219,
+        "lat": 42.2327002258945
+    }
+},
+{
+    "number": 20009,
+    "name": "S. COSME",
+    "location": {
+        "lng": -8.67408708216472,
+        "lat": 42.1597250623319
+    }
+},
+{
+    "number": 20010,
+    "name": "AVDA BALAIDOS, 69",
+    "location": {
+        "lng": -8.7370224641319,
+        "lat": 42.2128083921938
+    }
+},
+{
+    "number": 20011,
+    "name": "AVDA BALAIDOS, 1",
+    "location": {
+        "lng": -8.73294658132759,
+        "lat": 42.2132222820782
+    }
+},
+{
+    "number": 20012,
+    "name": "AVD. CASTRELOS, 33",
+    "location": {
+        "lng": -8.73216958841207,
+        "lat": 42.2146795091978
+    }
+},
+{
+    "number": 20013,
+    "name": "AVDA CASTRELOS, 116",
+    "location": {
+        "lng": -8.73254172388727,
+        "lat": 42.2146893833983
+    }
+},
+{
+    "number": 20014,
+    "name": "ZAMANS-S.COSME 1",
+    "location": {
+        "lng": -8.68546019439985,
+        "lat": 42.154307864584
+    }
+},
+{
+    "number": 20015,
+    "name": "ZAMANS-S.COSME 2",
+    "location": {
+        "lng": -8.68215230664851,
+        "lat": 42.1542447135962
+    }
+},
+{
+    "number": 20016,
+    "name": "ZAMANS-S.COSME 3",
+    "location": {
+        "lng": -8.67707228022203,
+        "lat": 42.1541134498554
+    }
+},
+{
+    "number": 20017,
+    "name": "ZAMANS-S.COSME 4",
+    "location": {
+        "lng": -8.67430493583429,
+        "lat": 42.1567805592043
+    }
+},
+{
+    "number": 20018,
+    "name": "S.COSME-ZAMANS 1",
+    "location": {
+        "lng": -8.67471011054137,
+        "lat": 42.1568447535918
+    }
+},
+{
+    "number": 20019,
+    "name": "S.COSME-ZAMANS 2",
+    "location": {
+        "lng": -8.67732843627579,
+        "lat": 42.1543213195903
+    }
+},
+{
+    "number": 20020,
+    "name": "S.COSME-ZAMANS 3",
+    "location": {
+        "lng": -8.68185637173092,
+        "lat": 42.1544240236475
+    }
+},
+{
+    "number": 20021,
+    "name": "S.COSME- ZAMANS 4",
+    "location": {
+        "lng": -8.68558835225614,
+        "lat": 42.1545513910511
+    }
+},
+{
+    "number": 20022,
+    "name": "VIA NORTE (FATIMA)",
+    "location": {
+        "lng": -8.70827491007054,
+        "lat": 42.2347595409957
+    }
+},
+{
+    "number": 20023,
+    "name": "VIA NORTE (FRENTE 74)",
+    "location": {
+        "lng": -8.71061273781815,
+        "lat": 42.2345312943751
+    }
+},
+{
+    "number": 20024,
+    "name": "TEIXUGUEIRAS, 34",
+    "location": {
+        "lng": -8.75971038424611,
+        "lat": 42.2081657909835
+    }
+},
+{
+    "number": 20025,
+    "name": "TEIXUGUEIRAS, 38",
+    "location": {
+        "lng": -8.76092563071819,
+        "lat": 42.2074568216342
+    }
+},
+{
+    "number": 20026,
+    "name": "TEIXUGUEIRAS, 29",
+    "location": {
+        "lng": -8.76055448458432,
+        "lat": 42.207194861896
+    }
+},
+{
+    "number": 20027,
+    "name": "Castelao, 64",
+    "location": {
+        "lng": -8.74959517161433,
+        "lat": 42.2178710901769
+    }
+},
+{
+    "number": 20029,
+    "name": "CAMPO FUTBOL MADROA (FRENTE ENTRADA)",
+    "location": {
+        "lng": -8.67322369463114,
+        "lat": 42.2458870071056
+    }
+},
+{
+    "number": 20030,
+    "name": "CAMPO FUTBOL MADROA",
+    "location": {
+        "lng": -8.6744870489558,
+        "lat": 42.2477188867024
+    }
+},
+{
+    "number": 20041,
+    "name": "CABALARIA, 91",
+    "location": {
+        "lng": -8.6892904002696,
+        "lat": 42.23408827096
+    }
+},
+{
+    "number": 20042,
+    "name": "CABALARIA, 148",
+    "location": {
+        "lng": -8.68895729964633,
+        "lat": 42.234051343108
+    }
+},
+{
+    "number": 20043,
+    "name": "AREEIRO, 20",
+    "location": {
+        "lng": -8.68649822270016,
+        "lat": 42.236116116264
+    }
+},
+{
+    "number": 20044,
+    "name": "MARTIN ECHEGARAY, 13",
+    "location": {
+        "lng": -8.74256820466661,
+        "lat": 42.2153337519397
+    }
+},
+{
+    "number": 20045,
+    "name": "CAMIÑO XESTOSO 1",
+    "location": {
+        "lng": -8.6745805933484,
+        "lat": 42.2019126856718
+    }
+},
+{
+    "number": 20046,
+    "name": "CAMIÑO XESTOSO 2",
+    "location": {
+        "lng": -8.67513839907034,
+        "lat": 42.2032742351441
+    }
+},
+{
+    "number": 20047,
+    "name": "CAMIÑO XESTOSO 3",
+    "location": {
+        "lng": -8.67432618004219,
+        "lat": 42.2047219661494
+    }
+},
+{
+    "number": 20048,
+    "name": "CESAREO VAZQUEZ (cruce camiño amariz)",
+    "location": {
+        "lng": -8.80254179388058,
+        "lat": 42.1825430821477
+    }
+},
+{
+    "number": 20049,
+    "name": "CESAREO VAZQUEZ, 62",
+    "location": {
+        "lng": -8.80205409374485,
+        "lat": 42.1827583973379
+    }
+},
+{
+    "number": 20050,
+    "name": "SEVERINO COBAS, 186",
+    "location": {
+        "lng": -8.68739603050886,
+        "lat": 42.2257882533963
+    }
+},
+{
+    "number": 20051,
+    "name": "SEVERINO COBAS FRENTE 186",
+    "location": {
+        "lng": -8.68711545731591,
+        "lat": 42.226012648345
+    }
+},
+{
+    "number": 20052,
+    "name": "ARAGON, 21",
+    "location": {
+        "lng": -8.70278160493682,
+        "lat": 42.23293516453
+    }
+},
+{
+    "number": 20053,
+    "name": "ANGEL DE LEMA, S/N (CRUCE PARAIXAL)",
+    "location": {
+        "lng": -8.68810620845093,
+        "lat": 42.2487654231234
+    }
+},
+{
+    "number": 20054,
+    "name": "ANGEL DE LEMA, 33",
+    "location": {
+        "lng": -8.68908118855872,
+        "lat": 42.2489391895765
+    }
+},
+{
+    "number": 20057,
+    "name": "ESTACION FERROCARRIL",
+    "location": {
+        "lng": -8.71282802145991,
+        "lat": 42.23885991582
+    }
+},
+{
+    "number": 20058,
+    "name": "CANCELEIRO",
+    "location": {
+        "lng": -8.71452873327063,
+        "lat": 42.2379995479515
+    }
+},
+{
+    "number": 20059,
+    "name": "MANUEL ALVAREZ, 103",
+    "location": {
+        "lng": -8.67984971117386,
+        "lat": 42.2232366550003
+    }
+},
+{
+    "number": 20060,
+    "name": "MANUEL ALVAREZ, FRENTE 103",
+    "location": {
+        "lng": -8.67971876994624,
+        "lat": 42.2233713854251
+    }
+},
+{
+    "number": 20061,
+    "name": "MARTIN ECHEGARAY,1",
+    "location": {
+        "lng": -8.74394493821875,
+        "lat": 42.2179396816863
+    }
+},
+{
+    "number": 20062,
+    "name": "BEIRAMAR (ALMAS PERDIDAS)",
+    "location": {
+        "lng": -8.73183678184173,
+        "lat": 42.2360779081282
+    }
+},
+{
+    "number": 20068,
+    "name": "TORRECEDEIRA, 34",
+    "location": {
+        "lng": -8.731924836196,
+        "lat": 42.2330789917039
+    }
+},
+{
+    "number": 20071,
+    "name": "CAMIÑO XESTOSO (FRENTE 105)",
+    "location": {
+        "lng": -8.6726617911284,
+        "lat": 42.2056538980276
+    }
+},
+{
+    "number": 20072,
+    "name": "CAMIÑO DE POUSO",
+    "location": {
+        "lng": -8.67240644553139,
+        "lat": 42.1992405995764
+    }
+},
+{
+    "number": 20075,
+    "name": "AVDA CASTELAO, 65",
+    "location": {
+        "lng": -8.74475643022695,
+        "lat": 42.2180135403927
+    }
+},
+{
+    "number": 20076,
+    "name": "AVDA CASTELAO, 25",
+    "location": {
+        "lng": -8.73882563338742,
+        "lat": 42.2191800360389
+    }
+},
+{
+    "number": 20077,
+    "name": "AVDA CASTELAO, 40",
+    "location": {
+        "lng": -8.73920960423206,
+        "lat": 42.2195411650349
+    }
+},
+{
+    "number": 20082,
+    "name": "AVDA SANTA MARINA, FRENTE 64",
+    "location": {
+        "lng": -8.7790110200129,
+        "lat": 42.1875798387398
+    }
+},
+{
+    "number": 20083,
+    "name": "PRESAS 1",
+    "location": {
+        "lng": -8.70218201676531,
+        "lat": 42.1883608967279
+    }
+},
+{
+    "number": 20084,
+    "name": "PRESAS 2",
+    "location": {
+        "lng": -8.70104904938251,
+        "lat": 42.1896188532169
+    }
+},
+{
+    "number": 20085,
+    "name": "PRESAS 3",
+    "location": {
+        "lng": -8.7004010860085,
+        "lat": 42.1904277432889
+    }
+},
+{
+    "number": 20086,
+    "name": "SEIXIÑOS 1",
+    "location": {
+        "lng": -8.69935729004,
+        "lat": 42.1921812693484
+    }
+},
+{
+    "number": 20087,
+    "name": "SEIXIÑOS 2",
+    "location": {
+        "lng": -8.69883522075421,
+        "lat": 42.1930895506774
+    }
+},
+{
+    "number": 20088,
+    "name": "ROTEAS",
+    "location": {
+        "lng": -8.77845015406129,
+        "lat": 42.1872545254904
+    }
+},
+{
+    "number": 20089,
+    "name": "PORRIÑO - PADRE SEIXAS ©",
+    "location": {
+        "lng": -8.75177162793907,
+        "lat": 42.2131114300437
+    }
+},
+{
+    "number": 20091,
+    "name": "MIRAGALLA",
+    "location": {
+        "lng": -8.71133408738562,
+        "lat": 42.2384688940158
+    }
+},
+{
+    "number": 20092,
+    "name": "ROTEAS PABELLON",
+    "location": {
+        "lng": -8.77788746539271,
+        "lat": 42.1871273478672
+    }
+},
+{
+    "number": 20093,
+    "name": "ROTEAS FRENTE PABELLON",
+    "location": {
+        "lng": -8.77777617109271,
+        "lat": 42.187460371132
+    }
+}]
