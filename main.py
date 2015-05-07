@@ -61,5 +61,15 @@ def get_stops():
     })
 
 
+@app.route('/stops/<stop_number>', methods=['GET'])
+def get_stop(stop_number):
+    try:
+        stop = g.vitrasa.get_stop(stop_number)
+    except Vitrasa.Error:
+        abort(400)
+
+    return jsonify(stop.to_dict())
+
+
 if __name__ == '__main__':
     app.run()
