@@ -125,5 +125,33 @@ class Stop(object):
 class Bus(object):
     def __init__(self, line, route, minutes):
         self.line = line
-        self.route = route
+        self.route = self.clean_route(route)
         self.minutes = minutes
+
+    @staticmethod
+    def clean_route(route):
+        route = route.replace('*', '')
+
+        if isinstance(route, unicode):
+            if route in BUS_FIXED_ROUTES.iterkeys():
+                route = BUS_FIXED_ROUTES[route]
+
+        return route
+
+
+BUS_FIXED_ROUTES = {
+    u'A GUÃA': u'A GUÍA',
+    u'ARAGÃ“N': u'ARAGÓN',
+    u'ENCARNACIÃ“N por G. BARBÃ“N': u'ENCARNACIÓN por G. BARBÓN',
+    u'ENCARNACIÃ“N por TRAV. DE VIGO': u'ENCARNACIÓN por TRAV. DE VIGO',
+    u'ESTACION TREN por P. ESPAÃ‘A': u'ESTACION TREN por P. ESPAÑA',
+    u'GARCIA BARBÃ“N': u'GARCIA BARBÓN',
+    u'MATAMÃ': u'MATAMÁ',
+    u'MUIÃ‘OS - SAIANS': u'MUIÑOS - SAIANS',
+    u'MUIÃ‘OS': u'MUIÑOS',
+    u'P. ESPAÃ‘A - P. AMERICA': u'P. ESPAÑA - P. AMERICA',
+    u'PLAZA ESPAÃ‘A': u'PLAZA ESPAÑA',
+    u'PRAZA AMÃ‰RICA': u'PRAZA AMÉRICA',
+    u'PRAZA ESPAÃ‘A': u'PRAZA ESPAÑA',
+    u'RÃOS': u'RÍOS'
+}
