@@ -1,6 +1,6 @@
 # coding=utf-8
 
-from flask import Flask, g, jsonify
+from flask import Flask, abort, g, jsonify, request
 
 from vitrasa import Vitrasa
 
@@ -37,6 +37,28 @@ def internal_server_error(error):
 @app.before_request
 def init_vitrasa():
     g.vitrasa = Vitrasa()
+
+
+@app.route('/stops', methods=['GET'])
+def get_stops():
+    latitude = request.args.get('lat')
+    longitude = request.args.get('lng')
+
+    if latitude and longitude:
+        try:
+            latitude = float(latitude)
+            longitude = float(longitude)
+        except ValueError:
+            abort(400)
+
+    try:
+        stops = g.vitrasa.get_stops(latitude, longitude)
+    except Vitrasa.Error:
+        abort(400)
+
+    return jsonify({
+        'stops': [stop.to_dict() for stop in stops]
+    })
 
 
 if __name__ == '__main__':
