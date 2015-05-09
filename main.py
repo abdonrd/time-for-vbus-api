@@ -47,13 +47,14 @@ def get_stops():
         try:
             latitude = float(latitude)
             longitude = float(longitude)
-        except ValueError:
+            stops = vitrasa.get_stops_around(latitude, longitude)
+        except (ValueError, vitrasa.Error):
             abort(400)
-
-    try:
-        stops = vitrasa.get_stops(latitude, longitude)
-    except vitrasa.Error:
-        abort(400)
+    else:
+        try:
+            stops = vitrasa.get_stops()
+        except vitrasa.Error:
+            abort(400)
 
     return jsonify({
         'stops': [stop.to_dict() for stop in stops]

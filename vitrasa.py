@@ -11,49 +11,52 @@ from suds.client import Client
 WSDL_URL = 'http://sira.intecoingenieria.com/SWEstimacionParada.asmx?WSDL'
 
 
-def get_stops(latitude=None, longitude=None):
-    client = Client(url=WSDL_URL)
+def get_stops():
+    stops_data = json.load(open(
+        os.path.join(os.path.dirname(__file__), 'vitrasa_stops.json')
+    ))
 
-    if latitude and longitude:
-        factory = client.factory.create('tns:BuscarParadas')
-        factory.Latitud = latitude
-        factory.Longitud = longitude
+    stops = []
 
-        try:
-            response = client.service.BuscarParadas(factory)
-        except WebFault:
-            raise Error
-
-        response_encoded = response.encode('utf-8')
-
-        tag_paradas = ElementTree.fromstring(response_encoded)
-
-        stops = []
-
-        for tag_parada in tag_paradas:
-            stops.append(Stop(
-                number=int(tag_parada.get('idparada')),
-                name=tag_parada.get('nombre'),
-                lng=float(tag_parada.get('longitud')),
-                lat=float(tag_parada.get('latitud')),
-                distance=float(tag_parada.get('distancia'))
-            ))
-
-        stops = sorted(stops, key=lambda stop: stop.distance)
-    else:
-        stops_data = json.load(open(
-            os.path.join(os.path.dirname(__file__), 'vitrasa_stops.json')
+    for stop_data in stops_data:
+        stops.append(Stop(
+            number=stop_data['number'],
+            name=stop_data['name'],
+            lng=stop_data['location']['lng'],
+            lat=stop_data['location']['lat']
         ))
 
-        stops = []
+    return stops
 
-        for stop_data in stops_data:
-            stops.append(Stop(
-                number=stop_data['number'],
-                name=stop_data['name'],
-                lng=stop_data['location']['lng'],
-                lat=stop_data['location']['lat']
-            ))
+
+def get_stops_around(latitude=None, longitude=None):
+    client = Client(url=WSDL_URL)
+
+    factory = client.factory.create('tns:BuscarParadas')
+    factory.Latitud = latitude
+    factory.Longitud = longitude
+
+    try:
+        response = client.service.BuscarParadas(factory)
+    except WebFault:
+        raise Error
+
+    response_encoded = response.encode('utf-8')
+
+    tag_paradas = ElementTree.fromstring(response_encoded)
+
+    stops = []
+
+    for tag_parada in tag_paradas:
+        stops.append(Stop(
+            number=int(tag_parada.get('idparada')),
+            name=tag_parada.get('nombre'),
+            lng=float(tag_parada.get('longitud')),
+            lat=float(tag_parada.get('latitud')),
+            distance=float(tag_parada.get('distancia'))
+        ))
+
+    stops = sorted(stops, key=lambda stop: stop.distance)
 
     return stops
 
