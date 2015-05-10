@@ -1,9 +1,9 @@
 # coding=utf-8
 
-from flask import Flask, abort, g, jsonify, request
+from flask import Flask, abort, jsonify, request
 from flask.ext.cors import CORS
 
-from vitrasa import Vitrasa
+import vitrasa
 
 
 app = Flask(__name__)
@@ -38,11 +38,6 @@ def internal_server_error(error):
     return create_error_response(error)
 
 
-@app.before_request
-def init_vitrasa():
-    g.vitrasa = Vitrasa()
-
-
 @app.route('/stops', methods=['GET'])
 def get_stops():
     latitude = request.args.get('lat')
@@ -52,13 +47,16 @@ def get_stops():
         try:
             latitude = float(latitude)
             longitude = float(longitude)
-        except ValueError:
+            stops = vitrasa.get_stops_around(latitude, longitude)
+        except (ValueError, vitrasa.Error):
             abort(400)
 
-    try:
-        stops = g.vitrasa.get_stops(latitude, longitude)
-    except Vitrasa.Error:
-        abort(400)
+        stops = sorted(stops, key=lambda stop: stop.distance)
+    else:
+        try:
+            stops = vitrasa.get_stops()
+        except vitrasa.Error:
+            abort(400)
 
     return jsonify({
         'stops': [stop.to_dict() for stop in stops]
@@ -68,8 +66,8 @@ def get_stops():
 @app.route('/stops/<stop_number>', methods=['GET'])
 def get_stop(stop_number):
     try:
-        stop = g.vitrasa.get_stop(stop_number)
-    except Vitrasa.Error:
+        stop = vitrasa.get_stop(stop_number)
+    except vitrasa.Error:
         abort(400)
 
     return jsonify(stop.to_dict())
@@ -78,9 +76,11 @@ def get_stop(stop_number):
 @app.route('/stops/<stop_number>/estimates', methods=['GET'])
 def get_stop_estimates(stop_number):
     try:
-        buses = g.vitrasa.get_stop_estimates(stop_number)
-    except Vitrasa.Error:
+        buses = vitrasa.get_stop_estimates(stop_number)
+    except vitrasa.Error:
         abort(400)
+
+    buses = sorted(buses, key=lambda bus: bus.minutes)
 
     return jsonify({
         'buses': [bus.to_dict() for bus in buses]
