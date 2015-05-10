@@ -1,6 +1,6 @@
 # coding=utf-8
 
-from flask import Flask, abort, g, jsonify, request
+from flask import Flask, abort, jsonify, request
 from flask.ext.cors import CORS
 
 import vitrasa
