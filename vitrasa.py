@@ -41,20 +41,14 @@ def get_stops_around(latitude=None, longitude=None):
 
     tag_paradas = ElementTree.fromstring(response_encoded)
 
-    stops = []
-
     for tag_parada in tag_paradas:
-        stops.append(Stop(
+        yield Stop(
             number=int(tag_parada.get('idparada')),
             name=tag_parada.get('nombre'),
             lng=float(tag_parada.get('longitud')),
             lat=float(tag_parada.get('latitud')),
             distance=float(tag_parada.get('distancia'))
-        ))
-
-    stops = sorted(stops, key=lambda stop: stop.distance)
-
-    return stops
+        )
 
 
 def get_stop(stop_number):

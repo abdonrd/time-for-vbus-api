@@ -50,6 +50,8 @@ def get_stops():
             stops = vitrasa.get_stops_around(latitude, longitude)
         except (ValueError, vitrasa.Error):
             abort(400)
+
+        stops = sorted(stops, key=lambda stop: stop.distance)
     else:
         try:
             stops = vitrasa.get_stops()
