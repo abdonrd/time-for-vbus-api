@@ -80,6 +80,8 @@ def get_stop_estimates(stop_number):
     except vitrasa.Error:
         abort(400)
 
+    buses = sorted(buses, key=lambda bus: bus.minutes)
+
     return jsonify({
         'buses': [bus.to_dict() for bus in buses]
     })

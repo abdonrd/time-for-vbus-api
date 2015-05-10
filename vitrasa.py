@@ -92,18 +92,12 @@ def get_stop_estimates(stop_number):
 
     tag_newdataset = ElementTree.fromstring(response_encoded)
 
-    buses = []
-
     for tag_estimaciones in tag_newdataset:
-        buses.append(Bus(
+        yield Bus(
             line=tag_estimaciones.find('Linea').text,
             route=tag_estimaciones.find('Ruta').text,
             minutes=int(tag_estimaciones.find('minutos').text)
-        ))
-
-    buses = sorted(buses, key=lambda bus: bus.minutes)
-
-    return buses
+        )
 
 
 class Error(Exception):
