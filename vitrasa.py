@@ -16,17 +16,13 @@ def get_stops():
         os.path.join(os.path.dirname(__file__), 'vitrasa_stops.json')
     ))
 
-    stops = []
-
     for stop_data in stops_data:
-        stops.append(Stop(
+        yield Stop(
             number=stop_data['number'],
             name=stop_data['name'],
             lng=stop_data['location']['lng'],
             lat=stop_data['location']['lat']
-        ))
-
-    return stops
+        )
 
 
 def get_stops_around(latitude=None, longitude=None):
