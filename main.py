@@ -7,7 +7,7 @@ import vitrasa
 
 
 app = Flask(__name__)
-JSONIFY_PRETTYPRINT_REGULAR = False
+app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
 
 cors = CORS(app)
 
